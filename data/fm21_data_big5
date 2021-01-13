@@ -1,0 +1,2301 @@
+	Nation	dummy	Name	Club	Age	Value	Ove	Att	Def	Tec	Men	Phy	Spe
+0	Belgium		Kevin De Bruyne	 Manchester Ci	29	€ 90.0M	15	17	10	17	14	14	14
+1	England		Harry Kane	 Tottenham	27	€ 90.0M	15	15	12	15	16	14	13
+2	Senegal		Sadio Mané	 Liverpool	28	€ 90.0M	15	15	12	16	14	15	17
+3	Netherla		Virgil van Dijk	 Liverpool	29	€ 70.0M	15	11	17	15	15	16	14
+4	Egypt		Mohamed Salah	 Liverpool	28	€ 90.0M	15	15	10	16	14	15	17
+5	Argentin		Sergio Agüero	 Manchester Ci	32	€ 60.0M	14	15	9	17	14	15	17
+6	Brazil		Alisson	 Liverpool	27	€ 60.0M	15	16	10	14	14	14	13
+7	England		Raheem Sterling	 Manchester Ci	25	€ 80.0M	13	14	10	15	14	16	18
+8	Portugal		Bernardo Silva	 Manchester Ci	25	€ 80.0M	16	16	9	17	15	14	16
+9	Brazil		Ederson	 Manchester Ci	26	€ 60.0M	15	15	9	15	13	13	13
+10	Wales		Gareth Bale	 Tottenham	31	€ 50.0M	13	16	12	15	11	14	14
+11	Brazil		Roberto Firmino	 Liverpool	28	€ 70.0M	15	14	13	16	15	15	14
+12	France		Aymeric Laporte	 Manchester Ci	26	€ 70.0M	14	13	15	15	15	14	14
+13	France		Paul Pogba	 Manchester Un	27	€ 70.0M	14	16	12	18	13	16	15
+14	England		Trent Alexander-ArnoldDRDM	 Liverpool	21	€ 60.0M	14	14	12	16	14	14	14
+15	Croatia		Mateo KovacicDM	 Chelsea	26	€ 70.0M	14	14	12	17	14	14	15
+16	South Ko		Heung-Min Son	 Tottenham	28	€ 70.0M	13	14	9	14	13	14	15
+17	Gabon		Pierre-Emerick Aubameyang	 Arsenal	31	€ 50.0M	14	14	11	13	14	15	16
+18	Germany		Kai Havertz	 Chelsea	21	€ 40.0M	13	14	11	16	13	14	14
+19	Spain		ThiagoDM	 Liverpool	29	€ 60.0M	13	15	11	17	13	12	15
+20	Spain		David De Gea	 Manchester Un	29	€ 30.0M	13	14	9	9	11	14	11
+21	England		Marcus Rashford	 Manchester Un	22	€ 60.0M	14	14	8	15	13	15	17
+22	Brazil		Gabriel Jesus	 Manchester Ci	23	€ 60.0M	13	14	10	15	13	14	16
+23	France		N'Golo KantéDM	 Chelsea	29	€ 70.0M	14	12	13	13	15	15	14
+24	Portugal		Bruno Fernandes	 Manchester Un	25	€ 70.0M	15	16	10	16	15	14	14
+25	Brazil		Thiago Silva	 Chelsea	35	€ 5.0M	14	9	15	13	14	13	11
+26	Brazil		FernandinhoDM	 Manchester Ci	35	€ 6.0M	14	12	13	15	15	14	14
+27	United S		Christian Pulisic	 Chelsea	21	€ 40.0M	12	13	9	15	13	13	17
+28	England		Jack Grealish	 Aston Villa	24	€ 60.0M	14	15	10	15	13	13	15
+29	Brazil		FabinhoDMDR	 Liverpool	26	€ 60.0M	14	12	15	14	15	14	14
+30	Germany		Ilkay GündoganDM	 Manchester Ci	29	€ 50.0M	14	14	11	16	14	14	14
+31	Germany		Mesut Özil	 Arsenal	31	€ 10.0M	12	16	8	18	12	12	14
+32	France		Anthony Martial	 Manchester Un	24	€ 60.0M	14	13	9	15	13	15	17
+33	Uruguay		Edinson Cavani	 Manchester Un	33	€ 10.0M	14	13	13	12	14	15	13
+34	England		Phil Foden	 Manchester Ci	20	€ 40.0M	14	15	9	16	13	13	15
+35	Portugal		Rúben Dias	 Manchester Ci	23	€ 40.0M	13	9	15	12	14	15	13
+36	Colombia		James Rodríguez	 Everton	29	€ 40.0M	14	16	9	16	14	12	12
+37	Scotland		Andrew RobertsonDL	 Liverpool	26	€ 50.0M	15	12	13	14	15	15	15
+38	England		Jamie Vardy	 Leicester	33	€ 20.0M	13	13	10	13	15	14	15
+39	Portugal		João CanceloDR	 Manchester Ci	26	€ 60.0M	12	14	11	16	12	14	16
+40	Spain		RodriDM	 Manchester Ci	24	€ 50.0M	13	11	14	14	14	14	14
+41	Belgium		Youri Tielemans	 Leicester	23	€ 40.0M	13	14	10	16	14	12	13
+42	England		John Stones	 Manchester Ci	26	€ 30.0M	14	11	14	14	14	15	14
+43	Portugal		Rúben NevesDM	 Wolves	23	€ 40.0M	13	14	11	15	14	12	12
+44	Guinea		Naby KeïtaDM	 Liverpool	25	€ 50.0M	14	14	11	15	14	14	16
+45	Netherla		Georginio WijnaldumDM	 Liverpool	29	€ 40.0M	14	13	13	15	14	15	14
+46	Spain		Rodrigo	 Leeds Utd	29	€ 50.0M	13	14	11	15	13	14	16
+47	Belgium		Toby AlderweireldDR	 Tottenham	31	€ 20.0M	13	11	14	14	13	13	11
+48	England		Joe GomezDRDL	 Liverpool	23	€ 40.0M	14	9	15	14	13	15	15
+49	France		Hugo Lloris	 Tottenham	33	€ 20.0M	13	14	11	8	13	13	11
+50	Algeria		Riyad Mahrez	 Manchester Ci	29	€ 50.0M	14	16	8	17	12	13	16
+51	Morocco		Hakim Ziyech	 Chelsea	27	€ 50.0M	14	15	9	16	13	13	15
+52	England		Jordan HendersonDM	 Liverpool	30	€ 50.0M	14	13	14	14	16	15	13
+53	England		Mason Mount	 Chelsea	21	€ 40.0M	13	13	10	14	14	13	13
+54	Germany		Timo Werner	 Chelsea	24	€ 60.0M	12	12	11	12	12	15	16
+55	Portugal		Ricardo PereiraDR	 Leicester	26	€ 40.0M	13	12	12	13	13	13	15
+56	Spain		César AzpilicuetaDLDR	 Chelsea	30	€ 30.0M	13	10	12	11	14	13	12
+57	Brazil		Willian	 Arsenal	31	€ 30.0M	14	15	10	16	13	13	15
+58	Brazil		Richarlison	 Everton	23	€ 40.0M	12	12	11	14	12	14	15
+59	Ghana		Thomas ParteyDM	 Arsenal	27	€ 50.0M	14	12	14	13	14	14	13
+60	Nigeria		Wilfred NdidiDM	 Leicester	23	€ 40.0M	13	11	15	13	14	14	12
+61	England		Tammy Abraham	 Chelsea	22	€ 40.0M	14	12	11	13	13	15	14
+62	England		Mason Greenwood	 Manchester Un	18	€ 30.0M	12	13	8	14	11	14	15
+63	England		Dominic Calvert-Lewin	 Everton	23	€ 40.0M	14	12	11	13	12	15	14
+64	France		Kurt ZoumaDR	 Chelsea	25	€ 40.0M	13	8	16	10	12	16	13
+65	Germany		Bernd Leno	 Arsenal	28	€ 30.0M	13	14	8	8	11	13	10
+66	Spain		Ferran Torres	 Manchester Ci	20	€ 40.0M	12	13	10	14	11	14	16
+67	England		James Maddison	 Leicester	23	€ 40.0M	13	15	9	16	13	12	14
+68	England		Ben ChilwellDL	 Chelsea	23	€ 30.0M	13	11	14	13	13	14	15
+69	Portugal		Nélson SemedoDR	 Wolves	26	€ 40.0M	13	13	12	14	13	14	16
+70	Portugal		Diogo Jota	 Liverpool	23	€ 40.0M	13	14	9	14	13	13	16
+71	Brazil		AllanDM	 Everton	29	€ 40.0M	14	12	14	14	14	14	14
+72	England		Alex Oxlade-Chamberlain	 Liverpool	26	€ 40.0M	14	14	12	15	14	14	15
+73	England		Kyle WalkerDR	 Manchester Ci	30	€ 40.0M	13	11	14	13	13	15	16
+74	England		Ruben Loftus-Cheek	 Fulham	24	€ 30.0M	13	12	13	15	13	14	14
+75	France		Tanguy NdombeleDM	 Tottenham	23	€ 40.0M	13	13	13	16	14	14	15
+76	Spain		Juan Mata	 Manchester Un	32	€ 9.0M	13	15	5	17	13	11	12
+77	Netherla		Nathan AkéDLDM	 Manchester Ci	25	€ 30.0M	14	10	14	14	13	14	14
+78	England		James MilnerDM	 Liverpool	34	€ 4.0M	14	12	12	14	15	14	12
+79	England		Aaron Wan-BissakaDR	 Manchester Un	22	€ 60.0M	13	9	13	11	13	14	14
+80	England		Declan RiceDM	 West Ham	21	€ 30.0M	13	10	14	12	14	14	13
+81	France		Alexandre Lacazette	 Arsenal	29	€ 50.0M	14	14	10	14	13	14	15
+82	Portugal		Rui Patrício	 Wolves	32	€ 30.0M	14	15	10	8	13	14	10
+83	Spain		Sergio ReguilónDL	 Tottenham	23	€ 30.0M	14	13	12	14	14	14	15
+84	Turkey		Çaglar Söyüncü	 Leicester	24	€ 30.0M	13	9	15	12	13	14	13
+85	Brazil		Gabriel	 Arsenal	22	€ 30.0M	14	9	15	12	13	14	13
+86	Cameroon		Joël Matip	 Liverpool	28	€ 30.0M	14	9	15	13	13	15	14
+87	England		Dele Alli	 Tottenham	24	€ 30.0M	13	14	11	15	13	14	13
+88	England		Reece JamesDR	 Chelsea	20	€ 30.0M	13	12	12	13	13	14	13
+89	France		Allan Saint-Maximin	 Newcastle	23	€ 30.0M	12	13	8	15	11	14	17
+90	Germany		Antonio RüdigerDR	 Chelsea	27	€ 30.0M	13	9	15	11	13	15	13
+91	Spain		Dani Ceballos	 Arsenal	23	€ 20.0M	13	14	10	16	13	12	15
+92	England		Harry Maguire	 Manchester Un	27	€ 40.0M	13	10	15	13	14	14	11
+93	England		Adam LallanaDM	 Brighton	32	€ 20.0M	14	13	9	17	14	12	13
+94	France		Benjamin MendyDL	 Manchester Ci	26	€ 40.0M	14	13	13	14	13	15	14
+95	Italy		JorginhoDM	 Chelsea	28	€ 30.0M	14	12	10	15	14	12	12
+96	Spain		Héctor BellerínDR	 Arsenal	25	€ 30.0M	13	11	12	12	13	14	16
+97	Switzerl		Xherdan Shaqiri	 Liverpool	28	€ 40.0M	14	15	7	16	13	13	15
+98	Mexico		Raúl Jiménez	 Wolves	29	€ 40.0M	14	12	12	13	14	14	14
+99	Denmark		Andreas ChristensenDM	 Chelsea	24	€ 30.0M	12	10	14	13	12	13	13
+100	Belgium		Divock Origi	 Liverpool	25	€ 40.0M	13	13	11	15	12	14	15
+101	England		Eric DierDM	 Tottenham	26	€ 30.0M	13	11	15	13	14	13	12
+102	England		Fikayo Tomori	 Chelsea	22	€ 30.0M	13	9	14	11	13	15	14
+103	England		Ross Barkley	 Aston Villa	26	€ 40.0M	12	14	12	16	12	14	14
+104	France		Lucas DigneDL	 Everton	27	€ 30.0M	14	13	12	14	14	14	14
+105	Netherla		Donny van de BeekDM	 Manchester Un	23	€ 30.0M	13	14	11	15	14	13	13
+106	Northern		Jonny Evans	 Leicester	32	€ 10.0M	14	7	15	12	13	14	11
+107	Portugal		João Moutinho	 Wolves	33	€ 9.0M	14	15	10	16	15	12	13
+108	Spain		Adama Traoré	 Wolves	24	€ 40.0M	10	12	11	13	10	15	18
+109	Côte d'I		Nicolas Pépé	 Arsenal	25	€ 30.0M	12	14	8	14	11	14	17
+110	England		Tosin Adarabioyo	 Fulham	22	€ 20.0M	13	11	14	14	12	15	15
+111	Norway		Sander BergeDM	 Sheffield Uni	22	€ 30.0M	13	12	13	14	13	14	14
+112	Scotland		Kieran TierneyDL	 Arsenal	23	€ 30.0M	13	12	13	13	13	14	15
+113	Spain		Pablo FornalsDM	 West Ham	24	€ 30.0M	13	14	11	15	13	12	13
+114	Serbia		Nemanja MaticDM	 Manchester Un	32	€ 20.0M	13	11	15	14	13	12	9
+115	Belgium		Michy Batshuayi	 Crystal Palac	26	€ 30.0M	12	12	11	13	11	14	14
+116	France		Alphonse Areola	 Fulham	27	€ 20.0M	14	14	9	8	12	15	10
+117	Spain		JonnyDLDR	 Wolves	26	€ 30.0M	14	10	13	13	13	14	15
+118	Spain		Kepa Arrizabalaga	 Chelsea	25	€ 20.0M	12	14	8	9	11	12	10
+119	England		Danny Ings	 Southampton	28	€ 40.0M	14	13	11	14	14	14	14
+120	France		Olivier Giroud	 Chelsea	33	€ 8.0M	14	13	13	13	15	14	11
+121	France		Wesley Fofana	 Leicester	19	€ 20.0M	12	10	14	12	12	14	13
+122	Ukraine		Olexandr ZinchenkoDL	 Manchester Ci	23	€ 40.0M	13	13	10	14	13	12	13
+123	Argentin		Giovani Lo CelsoDM	 Tottenham	24	€ 40.0M	14	14	11	16	14	13	14
+124	Brazil		Lucas Moura	 Tottenham	27	€ 40.0M	12	13	10	14	12	14	15
+125	Côte d'I		Wilfried Zaha	 Crystal Palac	27	€ 60.0M	12	12	8	14	12	14	16
+126	England		Callum Hudson-Odoi	 Chelsea	19	€ 30.0M	11	13	8	14	11	12	15
+127	England		Dean Henderson	 Manchester Un	23	€ 30.0M	13	14	8	10	13	13	11
+128	Switzerl		Granit XhakaDM	 Arsenal	27	€ 30.0M	12	14	12	16	13	13	11
+129	Turkey		Cengiz Ünder	 Leicester	23	€ 10.0M	12	14	7	15	11	13	16
+130	Brazil		Alex TellesDL	 Manchester Un	27	€ 30.0M	14	14	12	14	14	14	14
+131	England		Callum Wilson	 Newcastle	28	€ 30.0M	13	12	10	14	12	15	15
+132	England		Harvey Barnes	 Leicester	22	€ 30.0M	12	13	9	14	11	13	15
+133	England		Ben GodfreyDM	 Everton	22	€ 20.0M	13	10	14	12	13	14	13
+134	Brazil		Bernard	 Everton	27	€ 30.0M	12	14	7	16	12	12	16
+135	Denmark		Kasper Schmeichel	 Leicester	33	€ 20.0M	14	14	9	7	13	12	10
+136	England		Bukayo Saka	 Arsenal	18	€ 30.0M	12	13	10	13	12	13	15
+137	England		Dwight McNeil	 Burnley	20	€ 20.0M	13	13	11	14	12	12	14
+138	England		Tariq LampteyDLDR	 Brighton	19	€ 30.0M	10	10	8	11	11	13	17
+139	France		Abdoulaye DoucouréDM	 Everton	27	€ 30.0M	13	12	13	14	13	14	13
+140	Spain		Eric García	 Manchester Ci	19	€ 20.0M	13	10	13	13	14	13	13
+141	Paraguay		Miguel Almirón	 Newcastle	26	€ 30.0M	11	13	9	13	12	13	16
+142	Belgium		Leandro Trossard	 Brighton	25	€ 30.0M	13	14	7	15	12	12	15
+143	England		Jordan Pickford	 Everton	26	€ 40.0M	14	14	9	10	12	12	9
+144	Poland		Mateusz Klich	 Leeds Utd	30	€ 20.0M	13	13	11	14	14	13	11
+145	Portugal		André Gomes	 Everton	27	€ 20.0M	13	13	11	15	12	12	11
+146	Brazil		David LuizDM	 Arsenal	33	€ 9.0M	13	12	14	13	13	14	12
+147	England		Ainsley Maitland-NilesDLDRDM	 Arsenal	22	€ 30.0M	12	12	10	14	12	13	15
+148	England		Ben White	 Brighton	22	€ 30.0M	13	10	14	13	13	13	13
+149	Spain		Diego Llorente	 Leeds Utd	26	€ 30.0M	13	9	14	13	13	12	11
+150	England		Nick Pope	 Burnley	28	€ 20.0M	12	14	9	7	11	12	8
+151	Germany		Shkodran Mustafi	 Arsenal	28	€ 20.0M	13	9	15	12	12	14	13
+152	Italy		EmersonDLDR	 Chelsea	26	€ 30.0M	13	13	12	14	12	14	15
+153	Nigeria		Alex Iwobi	 Everton	24	€ 30.0M	13	13	10	14	12	14	14
+154	Japan		Takumi Minamino	 Liverpool	25	€ 30.0M	12	13	8	15	12	12	16
+155	Belgium		Timothy CastagneDLDR	 Leicester	24	€ 30.0M	13	11	12	13	13	14	14
+156	England		Axel Tuanzebe	 Manchester Un	22	€ 30.0M	13	7	14	13	12	14	14
+157	England		Danny Welbeck	 Brighton	29	€ 20.0M	13	11	11	13	12	15	15
+158	Poland		Lukasz Fabianski	 West Ham	35	€ 7.0M	13	15	12	7	12	12	8
+159	Republic		Matt DohertyDR	 Tottenham	28	€ 30.0M	13	13	13	14	13	14	13
+160	Côte d'I		Willy Boly	 Wolves	29	€ 20.0M	13	9	16	12	13	14	12
+161	Senegal		Edouard Mendy	 Chelsea	28	€ 30.0M	13	15	10	7	11	14	10
+162	England		Joe Hart	 Tottenham	33	€ 8.0M	13	14	9	7	11	13	9
+163	England		Reiss Nelson	 Arsenal	20	€ 20.0M	12	13	9	14	11	13	15
+164	England		Theo Walcott	 Southampton	31	€ 10.0M	12	11	8	13	11	13	16
+165	Spain		Marcos AlonsoDL	 Chelsea	29	€ 30.0M	14	14	14	14	13	13	12
+166	Sweden		Victor Lindelöf	 Manchester Un	26	€ 30.0M	13	9	14	14	12	14	14
+167	Argentin		Alexis Mac Allister	 Brighton	21	€ 20.0M	13	14	10	15	13	13	13
+168	Colombia		Davinson Sánchez	 Tottenham	24	€ 30.0M	13	10	14	13	12	15	14
+169	Egypt		Mohamed ElnenyDM	 Arsenal	28	€ 30.0M	13	11	13	13	13	14	12
+170	England		Lewis Dunk	 Brighton	28	€ 30.0M	13	9	14	12	13	13	12
+171	England		Rob Holding	 Arsenal	24	€ 20.0M	13	8	14	12	13	14	13
+172	England		Aaron Ramsdale	 Sheffield Uni	22	€ 20.0M	12	14	8	9	11	11	9
+173	France		Mamadou Sakho	 Crystal Palac	30	€ 20.0M	13	10	15	12	13	14	13
+174	France		Illan Meslier	 Leeds Utd	20	€ 20.0M	12	14	9	10	11	13	9
+175	Germany		Maximilian Meyer	 Crystal Palac	24	€ 6.0M	11	12	9	14	11	11	13
+176	Ukraine		Andriy Yarmolenko	 West Ham	30	€ 20.0M	13	14	10	15	13	13	14
+177	Colombia		Yerry Mina	 Everton	25	€ 30.0M	13	9	15	11	13	13	12
+178	Bosnia a		Sead KolasinacDL	 Arsenal	27	€ 20.0M	12	10	14	12	13	15	14
+179	Denmark		Pierre-Emile HøjbjergDM	 Tottenham	24	€ 30.0M	13	12	12	13	14	14	11
+180	England		James Ward-ProwseDM	 Southampton	25	€ 30.0M	13	14	10	13	14	13	12
+181	England		Phil Jones	 Manchester Un	28	€ 10.0M	12	7	15	12	12	13	11
+182	England		Mason HolgateDR	 Everton	23	€ 20.0M	13	9	14	12	12	14	13
+183	Portugal		Pedro Neto	 Wolves	20	€ 10.0M	11	13	7	14	11	12	15
+184	Spain		Pablo Hernandez	 Leeds Utd	35	€ 2.0M	13	15	6	16	13	11	13
+185	Algeria		Islam Slimani	 Leicester	32	€ 10.0M	13	12	11	13	14	14	12
+186	England		Kalvin PhillipsDM	 Leeds Utd	24	€ 30.0M	13	12	13	13	14	13	12
+187	England		Harry WinksDM	 Tottenham	24	€ 30.0M	13	12	11	15	13	12	13
+188	England		Hamza ChoudhuryDM	 Leicester	22	€ 20.0M	12	10	12	12	13	13	13
+189	France		Moussa Sissoko	 Tottenham	30	€ 30.0M	13	12	14	12	14	15	14
+190	Netherla		Steven Bergwijn	 Tottenham	22	€ 30.0M	12	13	8	14	12	13	15
+191	Scotland		Ryan Fraser	 Newcastle	26	€ 30.0M	13	13	8	13	12	13	15
+192	Argentin		Erik Lamela	 Tottenham	28	€ 30.0M	13	14	11	15	14	13	14
+193	Brazil		FredDM	 Manchester Un	27	€ 30.0M	13	10	12	13	13	14	14
+194	Brazil		Raphinha	 Leeds Utd	23	€ 30.0M	13	15	9	15	12	12	16
+195	Côte d'I		Eric Bailly	 Manchester Un	26	€ 30.0M	13	8	15	11	12	16	14
+196	England		Gary Cahill	 Crystal Palac	34	€ 1.0M	13	10	14	11	15	13	10
+197	England		Jarrod Bowen	 West Ham	23	€ 20.0M	13	14	8	14	12	12	15
+198	Slovakia		Martin Dubravka	 Newcastle	31	€ 20.0M	13	14	9	9	12	12	9
+199	Argentin		Willy Caballero	 Chelsea	38	€ 2.0M	12	13	8	8	12	12	9
+200	Belgium		Dennis Praet	 Leicester	26	€ 30.0M	13	14	10	15	13	12	13
+201	England		Nathan Redmond	 Southampton	26	€ 30.0M	12	12	9	13	12	13	15
+202	Scotland		Scott McTominay	 Manchester Un	23	€ 30.0M	13	10	14	12	14	15	12
+203	Spain		Vicente Guaita	 Crystal Palac	33	€ 10.0M	13	14	10	7	11	13	9
+204	Cameroon		André-Franck Zambo AnguissaDM	 Fulham	24	€ 20.0M	13	11	15	13	14	15	14
+205	Ghana		Mohammed Salisu	 Southampton	21	€ 10.0M	12	9	14	11	13	14	12
+206	Nigeria		Kelechi Iheanacho	 Leicester	23	€ 20.0M	13	12	10	14	12	14	14
+207	Belgium		Christian Benteke	 Crystal Palac	29	€ 8.0M	12	11	13	12	11	15	13
+208	England		Luke ShawDL	 Manchester Un	25	€ 30.0M	13	11	14	13	12	14	14
+209	England		Calum ChambersDRDM	 Arsenal	25	€ 20.0M	13	10	14	13	13	14	12
+210	England		James JustinDLDR	 Leicester	22	€ 20.0M	12	10	13	12	12	13	14
+211	Iceland		Gylfi Sigurðsson	 Everton	30	€ 20.0M	13	14	9	15	13	13	12
+212	Scotland		John McGinnDM	 Aston Villa	25	€ 30.0M	13	13	11	14	13	13	13
+213	Brazil		Carlos Vinicius	 Tottenham	25	€ 20.0M	13	13	11	13	13	14	12
+214	Brazil		Douglas LuizDM	 Aston Villa	22	€ 20.0M	13	12	13	13	13	13	14
+215	Belgium		Leander DendonckerDM	 Wolves	25	€ 30.0M	12	11	13	12	13	13	12
+216	England		Fraser Forster	 Southampton	32	€ 10.0M	12	15	9	7	11	11	5
+217	England		James Tarkowski	 Burnley	27	€ 30.0M	13	9	15	12	13	13	12
+218	England		Ebere Eze	 Crystal Palac	22	€ 20.0M	12	13	7	15	11	13	14
+219	England		Joe Willock	 Arsenal	20	€ 20.0M	12	13	9	14	12	13	16
+220	Portugal		Vítor FerreiraDM	 Wolves	20	€ 2.0M	13	12	9	14	13	12	13
+221	England		Tom Heaton	 Aston Villa	34	€ 10.0M	12	14	9	7	11	11	8
+222	England		Ademola Lookman	 Fulham	22	€ 8.0M	12	13	8	13	10	13	16
+223	Greece		Sokratis Papastathopoulos	 Arsenal	32	€ 6.0M	13	7	14	10	12	14	12
+224	Denmark		Joachim Andersen	 Fulham	24	€ 6.0M	12	10	14	12	13	13	11
+225	England		Jesse Lingard	 Manchester Un	27	€ 20.0M	12	12	8	14	13	13	15
+226	England		Demarai Gray	 Leicester	24	€ 20.0M	11	12	9	13	10	13	15
+227	England		Michail Antonio	 West Ham	30	€ 20.0M	13	11	12	13	12	14	15
+228	England		Phil Jagielka	 Sheffield Uni	37	€ 800K	11	7	14	10	12	12	9
+229	Wales		Ben DaviesDL	 Tottenham	27	€ 30.0M	13	11	13	13	14	13	13
+230	Serbia		Aleksandar Mitrovic	 Fulham	25	€ 20.0M	13	11	12	14	13	14	12
+231	Côte d'I		Jean-Philippe GbaminDM	 Everton	24	€ 30.0M	13	10	14	12	13	15	13
+232	Czech Re		Tomas SoucekDM	 West Ham	25	€ 30.0M	14	10	15	12	14	14	11
+233	Netherla		Davy Pröpper	 Brighton	28	€ 30.0M	13	13	11	15	14	13	13
+234	Republic		Seamus ColemanDR	 Everton	31	€ 10.0M	13	11	13	12	14	13	12
+235	Scotland		Stuart Armstrong	 Southampton	28	€ 20.0M	12	13	10	14	12	12	13
+236	Turkey		Cenk Tosun	 Everton	29	€ 9.0M	12	12	10	11	13	12	10
+237	Wales		Ethan AmpaduDM	 Sheffield Uni	19	€ 10.0M	12	9	13	12	12	13	12
+238	Serbia		Branislav IvanovicDR	 West Brom	36	€ 700K	13	10	13	11	14	12	9
+239	Gabon		Mario LeminaDM	 Fulham	26	€ 20.0M	13	12	13	14	12	14	14
+240	England		Ryan BertrandDL	 Southampton	30	€ 10.0M	13	11	13	13	13	13	14
+241	England		Michael Keane	 Everton	27	€ 30.0M	12	8	15	11	12	13	10
+242	England		Danny RoseDL	 Tottenham	30	€ 5.0M	13	12	13	13	13	13	13
+243	England		Sean LongstaffDM	 Newcastle	22	€ 10.0M	13	13	12	14	13	12	12
+244	Germany		Pascal Groß	 Brighton	29	€ 20.0M	13	14	10	14	14	11	10
+245	Greece		Kostas TsimikasDL	 Liverpool	24	€ 20.0M	13	12	11	14	13	13	15
+246	Italy		Angelo OgbonnaDL	 West Ham	32	€ 10.0M	12	8	14	11	13	14	12
+247	Spain		Pablo Marí	 Arsenal	26	€ 20.0M	13	9	15	12	13	13	11
+248	Spain		Kiko Casilla	 Leeds Utd	33	€ 7.0M	13	13	9	9	12	13	10
+249	Argentin		Emiliano Martínez	 Aston Villa	27	€ 20.0M	12	14	8	8	10	13	9
+250	Argentin		Sergio Romero	 Manchester Un	33	€ 6.0M	12	14	11	7	11	14	11
+251	Côte d'I		Serge AurierDR	 Tottenham	27	€ 20.0M	13	12	13	13	13	14	14
+252	Mali		Yves Bissouma	 Brighton	23	€ 20.0M	13	13	12	14	13	14	14
+253	England		Jack O'Connell	 Sheffield Uni	26	€ 20.0M	13	10	14	12	14	13	12
+254	England		Kyle Walker-PetersDLDR	 Southampton	23	€ 20.0M	12	11	11	13	12	13	14
+255	France		Sébastien Haller	 West Ham	26	€ 10.0M	12	11	12	12	12	14	12
+256	Germany		Robin KochDM	 Leeds Utd	24	€ 20.0M	12	8	15	11	12	13	11
+257	Spain		Ayoze Pérez	 Leicester	27	€ 30.0M	13	13	9	14	12	13	14
+258	Serbia		Luka MilivojevicDM	 Crystal Palac	29	€ 20.0M	14	11	14	11	14	14	11
+259	Brazil		Matheus Pereira	 West Brom	24	€ 20.0M	12	14	7	15	10	12	15
+260	Mali		Moussa Djenepo	 Southampton	22	€ 10.0M	12	11	9	13	10	14	15
+261	England		Conor CoadyDM	 Wolves	27	€ 20.0M	13	10	13	14	14	13	12
+262	England		Eddie Nketiah	 Arsenal	21	€ 20.0M	12	11	8	13	11	14	16
+263	England		Fabian DelphDL	 Everton	30	€ 20.0M	13	12	11	13	14	13	13
+264	Northern		Stuart DallasDLDR	 Leeds Utd	29	€ 30.0M	12	11	11	12	13	13	12
+265	Northern		Jamal LewisDL	 Newcastle	22	€ 10.0M	12	9	12	12	11	14	14
+266	United S		Zack Steffen	 Manchester Ci	25	€ 20.0M	12	14	8	8	10	13	9
+267	England		Jack Harrison	 Leeds Utd	23	€ 20.0M	13	13	8	15	12	13	15
+268	France		Lys Mousset	 Sheffield Uni	24	€ 20.0M	12	12	11	13	12	14	15
+269	France		Issa Diop	 West Ham	23	€ 20.0M	13	8	15	11	12	14	12
+270	Portugal		Fábio Silva	 Wolves	18	€ 2.0M	12	11	9	13	11	13	13
+271	Romania		Florin Andone	 Brighton	27	€ 20.0M	13	12	11	13	14	14	14
+272	Scotland		John FleckDM	 Sheffield Uni	28	€ 30.0M	14	14	11	15	14	13	13
+273	Sweden		Robin Olsen	 Everton	30	€ 8.0M	13	14	9	9	11	13	9
+274	Argentin		Marcos RojoDL	 Manchester Un	30	€ 10.0M	13	8	14	12	12	14	13
+275	England		Jamaal Lascelles	 Newcastle	26	€ 20.0M	12	6	15	10	12	13	11
+276	France		Neal Maupay	 Brighton	23	€ 20.0M	13	13	10	14	14	13	14
+277	Portugal		CédricDRDL	 Arsenal	28	€ 20.0M	13	11	11	13	13	13	14
+278	Portugal		Hélder Costa	 Leeds Utd	26	€ 20.0M	12	13	7	14	11	12	16
+279	Burkina 		Bertrand Traoré	 Aston Villa	24	€ 20.0M	12	13	10	14	10	13	16
+280	England		Tyrone MingsDL	 Aston Villa	27	€ 20.0M	13	11	14	13	14	14	13
+281	England		Marc Albrighton	 Leicester	30	€ 20.0M	12	13	9	14	14	12	12
+282	England		Jack CorkDM	 Burnley	31	€ 10.0M	12	11	13	13	14	13	12
+283	England		Karlan Grant	 West Brom	22	€ 20.0M	12	12	10	13	10	14	15
+284	England		Tom DaviesDM	 Everton	22	€ 10.0M	12	12	11	13	13	13	13
+285	England		Rekeem HarperDM	 West Brom	20	€ 5.0M	13	12	11	14	11	14	14
+286	England		Jack Butland	 Crystal Palac	27	€ 6.0M	11	13	8	6	9	13	11
+287	Poland		Jan Bednarek	 Southampton	24	€ 20.0M	13	8	14	11	12	13	12
+288	Argentin		Manuel Lanzini	 West Ham	27	€ 10.0M	12	14	7	15	11	12	15
+289	Colombia		Steven Alzate	 Brighton	21	€ 10.0M	13	12	9	14	12	12	14
+290	Denmark		Jannik Vestergaard	 Southampton	27	€ 20.0M	12	9	15	10	12	12	8
+291	England		Adam Webster	 Brighton	25	€ 20.0M	13	9	14	13	12	13	13
+292	England		Ezri KonsaDRDM	 Aston Villa	22	€ 10.0M	13	9	14	12	12	14	13
+293	France		Ibrahima DialloDM	 Southampton	21	€ 7.0M	12	10	12	12	13	13	12
+294	Iceland		Jóhann Berg Guðmundsson	 Burnley	29	€ 10.0M	13	13	11	13	12	14	13
+295	Netherla		Joël VeltmanDR	 Brighton	28	€ 20.0M	13	9	14	13	14	13	12
+296	Brazil		Wesley	 Aston Villa	23	€ 10.0M	12	11	11	11	13	14	11
+297	Senegal		Cheikhou KouyatéDM	 Crystal Palac	30	€ 20.0M	12	10	14	12	13	14	12
+298	England		Ben MeeDL	 Burnley	30	€ 20.0M	13	7	14	9	13	13	11
+299	England		Che Adams	 Southampton	24	€ 20.0M	13	12	11	13	12	14	15
+300	England		Jonjo ShelveyDM	 Newcastle	28	€ 20.0M	13	14	10	14	13	12	11
+301	England		Grady Diangana	 West Brom	22	€ 10.0M	12	13	8	13	11	13	15
+302	Scotland		Oli McBurnie	 Sheffield Uni	24	€ 20.0M	13	12	12	13	14	13	13
+303	Spain		Adrián	 Liverpool	33	€ 6.0M	13	14	8	9	11	13	10
+304	Ghana		Daniel AmarteyDRDM	 Leicester	25	€ 10.0M	12	10	13	12	12	12	12
+305	England		Jonjoe KennyDR	 Everton	23	€ 10.0M	12	10	13	11	12	13	13
+306	England		Ollie Watkins	 Aston Villa	24	€ 20.0M	12	12	10	13	12	13	14
+307	England		Andros Townsend	 Crystal Palac	29	€ 20.0M	11	12	9	12	11	13	15
+308	England		Japhet TangangaDR	 Tottenham	21	€ 10.0M	12	9	13	11	12	14	13
+309	England		Matty CashDR	 Aston Villa	22	€ 10.0M	12	12	11	14	12	12	13
+310	Republic		John Egan	 Sheffield Uni	27	€ 20.0M	13	9	14	11	13	13	11
+311	Spain		Oriol RomeuDM	 Southampton	28	€ 10.0M	13	9	13	12	14	12	8
+312	Australi		Mathew Ryan	 Brighton	28	€ 10.0M	12	13	8	10	12	12	10
+313	Austria		Christian FuchsDL	 Leicester	34	€ 1.0M	13	12	13	12	13	12	10
+314	England		Ashley Barnes	 Burnley	30	€ 20.0M	13	11	12	12	14	14	11
+315	England		Jay Rodriguez	 Burnley	31	€ 10.0M	13	12	12	13	12	13	13
+316	England		Charlie TaylorDL	 Burnley	26	€ 10.0M	13	11	13	13	12	14	13
+317	England		Harrison ReedDM	 Fulham	25	€ 10.0M	13	12	11	12	13	12	13
+318	England		Max KilmanDL	 Wolves	23	€ 8.0M	12	10	13	13	11	13	13
+319	France		Nampalys MendyDM	 Leicester	28	€ 20.0M	13	10	11	13	13	13	14
+320	Netherla		Jairo RiedewaldDLDM	 Crystal Palac	23	€ 9.0M	13	10	13	13	12	13	12
+321	Portugal		Daniel Podence	 Wolves	24	€ 20.0M	13	13	6	16	11	12	16
+322	Nigeria		Odion Ighalo	 Manchester Un	31	€ 10.0M	13	12	10	14	12	14	14
+323	Nigeria		Ola AinaDLDR	 Fulham	23	€ 5.0M	11	10	11	12	10	14	15
+324	England		George BaldockDR	 Sheffield Uni	27	€ 20.0M	13	11	13	13	13	14	15
+325	England		Aaron CresswellDL	 West Ham	30	€ 10.0M	13	12	11	13	12	13	13
+326	England		Andy Carroll	 Newcastle	31	€ 6.0M	12	11	13	12	13	13	10
+327	England		Matty LongstaffDM	 Newcastle	20	€ 10.0M	12	12	11	13	13	12	12
+328	England		Nathaniel ClyneDR	 Crystal Palac	29	€ 3.0M	12	9	12	12	13	13	13
+329	England		Jamie Shackleton	 Leeds Utd	20	€ 7.0M	13	11	9	13	13	12	15
+330	France		Rayan Aït-NouriDL	 Wolves	19	€ 3.0M	12	11	12	13	12	12	13
+331	Republic		Enda StevensDL	 Sheffield Uni	30	€ 20.0M	13	12	13	13	13	13	14
+332	Republic		James McCarthyDM	 Crystal Palac	29	€ 20.0M	12	9	14	11	13	12	10
+333	Republic		Will Smallbone	 Southampton	20	€ 6.0M	12	12	10	14	11	12	13
+334	Slovakia		Marek Rodák	 Fulham	23	€ 8.0M	13	13	8	9	10	12	8
+335	Spain		Fabricio	 Fulham	32	€ 7.0M	12	13	9	11	12	12	11
+336	Wales		Danny Ward	 Leicester	27	€ 9.0M	12	13	7	9	10	12	10
+337	Brazil		BernardoDLDR	 Brighton	25	€ 8.0M	12	10	13	11	12	14	13
+338	Egypt		Trezeguet	 Aston Villa	25	€ 20.0M	13	14	9	14	13	13	14
+339	Côte d'I		Jean Michaël SériDM	 Fulham	29	€ 8.0M	13	13	6	14	13	12	13
+340	England		Solly March	 Brighton	26	€ 20.0M	13	13	10	14	12	12	14
+341	England		Mark NobleDM	 West Ham	33	€ 4.0M	13	12	11	13	15	12	11
+342	England		Scott Dann	 Crystal Palac	33	€ 2.0M	12	9	13	13	12	13	11
+343	England		Nathan FergusonDR	 Crystal Palac	19	€ 8.0M	12	8	13	10	11	13	13
+344	New Zeal		Chris Wood	 Burnley	28	€ 20.0M	13	11	12	12	13	14	12
+345	Argentin		Paulo Gazzaniga	 Tottenham	28	€ 7.0M	12	13	9	8	11	12	9
+346	Algeria		Saïd Benrahma	 West Ham	24	€ 10.0M	13	14	8	14	11	12	15
+347	Jamaica		Wes Morgan	 Leicester	36	€ 1.0M	13	7	14	9	13	13	7
+348	Croatia		Filip Krovinovic	 West Brom	24	€ 3.0M	12	13	8	15	13	11	13
+349	England		Rhian Brewster	 Sheffield Uni	20	€ 10.0M	13	13	10	13	12	13	14
+350	England		Kieran GibbsDL	 West Brom	30	€ 4.0M	13	11	12	14	13	12	14
+351	Wales		Joe Rodon	 Tottenham	22	€ 7.0M	12	8	14	10	12	13	12
+352	England		Danny Drinkwater	 Chelsea	30	€ 5.0M	13	13	10	14	13	12	12
+353	England		Patrick Bamford	 Leeds Utd	26	€ 30.0M	12	12	11	13	13	13	13
+354	Poland		Kamil Grosicki	 West Brom	32	€ 5.0M	11	14	9	14	11	12	15
+355	Republic		Robbie BradyDL	 Burnley	28	€ 7.0M	12	12	10	12	13	12	12
+356	Scotland		Matt RitchieDL	 Newcastle	30	€ 10.0M	12	12	10	12	13	12	12
+357	Morocco		Romain SaïssDM	 Wolves	30	€ 10.0M	13	11	13	13	13	13	12
+358	United S		Antonee RobinsonDL	 Fulham	22	€ 8.0M	12	10	12	12	13	14	14
+359	Bosnia a		Mo BesicDM	 Everton	27	€ 8.0M	12	10	13	13	13	13	13
+360	England		John LundstramDM	 Sheffield Uni	26	€ 10.0M	13	12	12	13	13	12	12
+361	England		Luke AylingDR	 Leeds Utd	28	€ 20.0M	13	10	13	11	13	13	12
+362	England		Ashley WestwoodDM	 Burnley	30	€ 20.0M	13	11	11	13	13	12	11
+363	England		Jack StephensDM	 Southampton	26	€ 20.0M	13	11	14	13	13	13	12
+364	England		James TomkinsDR	 Crystal Palac	31	€ 10.0M	12	6	14	10	12	13	12
+365	England		Matt LowtonDR	 Burnley	31	€ 7.0M	13	11	13	13	13	13	13
+366	Netherla		Kenny TeteDR	 Fulham	24	€ 10.0M	12	10	14	12	12	14	12
+367	Netherla		Terence KongoloDL	 Fulham	26	€ 8.0M	12	9	14	11	11	14	13
+368	Republic		David McGoldrick	 Sheffield Uni	32	€ 10.0M	13	13	11	13	12	13	13
+369	Republic		Shane Long	 Southampton	33	€ 4.0M	12	11	11	11	13	15	15
+370	Scotland		Robert Snodgrass	 West Ham	32	€ 5.0M	13	14	10	13	13	12	12
+371	Paraguay		Fabián Balbuena	 West Ham	28	€ 20.0M	13	7	14	9	12	13	10
+372	England		Chris BashamDM	 Sheffield Uni	32	€ 10.0M	13	11	14	12	14	13	11
+373	England		Craig DawsonDR	 West Ham	30	€ 7.0M	12	8	14	11	12	14	10
+374	England		Isaac HaydenDM	 Newcastle	25	€ 10.0M	12	10	13	12	13	13	12
+375	England		Jake LivermoreDM	 West Brom	30	€ 7.0M	12	11	12	12	13	13	12
+376	Northern		Oliver NorwoodDM	 Sheffield Uni	29	€ 20.0M	13	13	11	13	13	12	12
+377	Switzerl		Andi Zeqiri	 Brighton	21	€ 7.0M	12	12	10	14	11	13	13
+378	Ghana		Jordan Ayew	 Crystal Palac	28	€ 20.0M	14	12	11	14	11	14	15
+379	Congo DR		Arthur MasuakuDL	 West Ham	26	€ 10.0M	12	12	11	13	11	14	15
+380	Congo DR		Yannick Bolasie	 Everton	31	€ 4.0M	11	12	10	13	11	13	14
+381	Iran		Alireza Jahanbakhsh	 Brighton	26	€ 10.0M	12	14	9	14	12	12	12
+382	England		Sam Johnstone	 West Brom	27	€ 8.0M	12	14	7	9	9	11	9
+383	England		John Ruddy	 Wolves	33	€ 3.0M	13	13	9	8	10	12	8
+384	Republic		Callum Robinson	 West Brom	25	€ 10.0M	12	12	9	13	11	13	15
+385	Scotland		James McArthurDM	 Crystal Palac	32	€ 7.0M	12	11	12	11	12	13	12
+386	Colombia		José Izquierdo	 Brighton	28	€ 10.0M	12	13	9	13	12	12	15
+387	Ghana		Baba RahmanDL	 Chelsea	26	€ 10.0M	12	10	12	12	12	13	14
+388	England		Ryan FredericksDR	 West Ham	27	€ 10.0M	12	10	11	12	12	13	16
+389	France		Frédéric GuilbertDR	 Aston Villa	25	€ 9.0M	13	11	12	12	13	13	13
+390	Macedoni		Ezgjan AlioskiDL	 Leeds Utd	28	€ 8.0M	12	12	10	12	13	13	13
+391	Republic		Darren Randolph	 West Ham	33	€ 9.0M	12	13	9	9	11	13	9
+392	Switzerl		Fabian Schär	 Newcastle	28	€ 10.0M	12	11	14	13	13	12	11
+393	Argentin		Federico Fernández	 Newcastle	31	€ 5.0M	11	8	14	10	13	12	10
+394	Ghana		Jeffrey SchluppDL	 Crystal Palac	27	€ 10.0M	12	11	11	12	11	13	15
+395	Côte d'I		Cédric Kipré	 West Brom	23	€ 6.0M	11	9	14	12	11	13	12
+396	Saint Ki		Romaine SawyersDM	 West Brom	28	€ 10.0M	12	13	10	14	13	12	12
+397	Belgium		Björn Engels	 Aston Villa	25	€ 10.0M	12	10	14	11	12	13	10
+398	Belgium		Charly Musonda	 Chelsea	23	€ 9.0M	11	12	8	13	11	10	15
+399	England		Karl Darlow	 Newcastle	29	€ 10.0M	12	13	8	9	11	12	9
+400	England		Alex McCarthy	 Southampton	30	€ 10.0M	12	13	9	10	10	13	10
+401	England		Scott Carson	 Manchester Ci	34	€ 600K	12	13	8	6	10	12	8
+402	Republic		Aaron Connolly	 Brighton	20	€ 9.0M	12	10	9	12	12	13	14
+403	England		Dale StephensDM	 Burnley	31	€ 10.0M	13	10	13	12	14	13	11
+404	Netherla		Patrick van AanholtDL	 Crystal Palac	29	€ 10.0M	12	13	11	12	10	13	16
+405	Netherla		Anwar El Ghazi	 Aston Villa	25	€ 9.0M	12	13	10	13	11	13	14
+406	Republic		Jeff Hendrick	 Newcastle	28	€ 10.0M	13	12	12	13	13	13	13
+407	Scotland		Oliver Burke	 Sheffield Uni	23	€ 9.0M	11	11	11	10	10	15	15
+408	Brazil		MarçalDL	 Wolves	31	€ 7.0M	13	10	13	13	13	13	13
+409	England		Joe BryanDL	 Fulham	26	€ 9.0M	12	12	12	13	13	12	13
+410	England		Josh Brownhill	 Burnley	24	€ 9.0M	12	12	11	12	12	13	12
+411	France		Aboubakar Kamara	 Fulham	25	€ 10.0M	13	11	11	12	12	15	15
+412	Iceland		Rúnar Alex Rúnarsson	 Arsenal	25	€ 10.0M	12	13	8	7	10	12	9
+413	Netherla		Michael Verrips	 Sheffield Uni	23	€ 4.0M	12	13	9	9	11	13	11
+414	Wales		Tyler Roberts	 Leeds Utd	21	€ 10.0M	12	12	9	13	11	13	14
+415	Denmark		Jonas Lössl	 Everton	31	€ 8.0M	12	13	9	8	11	13	9
+416	England		Billy Sharp	 Sheffield Uni	34	€ 2.0M	13	12	10	13	14	12	12
+417	England		Ben Osborn	 Sheffield Uni	25	€ 10.0M	12	12	11	13	12	12	12
+418	England		Connor Wickham	 Crystal Palac	27	€ 6.0M	11	11	11	12	10	12	12
+419	England		Jayden BogleDR	 Sheffield Uni	20	€ 5.0M	12	11	11	13	12	13	14
+420	Portugal		Ivan Cavaleiro	 Fulham	26	€ 10.0M	11	12	8	13	12	12	15
+421	Republic		Kevin LongDR	 Burnley	29	€ 6.0M	12	8	14	10	12	14	11
+422	Scotland		Tom Cairney	 Fulham	29	€ 20.0M	13	14	10	15	13	12	13
+423	England		Matthew TargettDL	 Aston Villa	24	€ 9.0M	13	12	12	13	12	13	13
+424	Netherla		Erik PietersDL	 Burnley	31	€ 4.0M	12	10	13	12	13	13	12
+425	Wales		Paul DummettDL	 Newcastle	28	€ 9.0M	12	9	14	10	13	13	12
+426	Wales		Wayne Hennessey	 Crystal Palac	33	€ 3.0M	12	13	9	8	10	13	9
+427	Czech Re		Vladimir CoufalDR	 West Ham	27	€ 10.0M	13	9	13	10	12	14	13
+428	England		Darnell FurlongDRDL	 West Brom	24	€ 8.0M	12	9	13	11	12	13	13
+429	England		Joel WardDRDL	 Crystal Palac	30	€ 5.0M	13	9	13	11	13	14	12
+430	Netherla		Pascal StruijkDM	 Leeds Utd	20	€ 3.0M	12	8	13	11	11	13	11
+431	Nigeria		Semi AjayiDM	 West Brom	26	€ 8.0M	12	10	14	11	12	14	11
+432	Zimbabwe		Marvelous NakambaDM	 Aston Villa	26	€ 8.0M	13	11	11	12	14	13	12
+433	Jamaica		Michael HectorDM	 Fulham	28	€ 9.0M	12	9	15	11	11	14	12
+434	Jamaica		Bobby Decordova-Reid	 Fulham	27	€ 10.0M	12	13	9	14	12	11	14
+435	England		Kortney HauseDL	 Aston Villa	25	€ 8.0M	12	8	14	10	11	14	13
+436	England		Charlie Austin	 West Brom	31	€ 4.0M	12	11	10	12	13	11	9
+437	Brazil		Joelinton	 Newcastle	23	€ 9.0M	12	11	11	12	13	14	12
+438	Czech Re		Matej Vydra	 Burnley	28	€ 8.0M	12	12	9	12	11	12	13
+439	England		Jack RobinsonDL	 Sheffield Uni	26	€ 9.0M	12	11	13	12	13	12	12
+440	England		Adam ForshawDM	 Leeds Utd	28	€ 8.0M	12	11	10	13	13	12	11
+441	England		Rolando Aarons	 Newcastle	24	€ 4.0M	10	12	7	13	10	11	16
+442	England		Ben JohnsonDRDL	 West Ham	20	€ 4.0M	11	9	12	9	11	12	12
+443	Republic		Conor Hourihane	 Aston Villa	29	€ 6.0M	12	13	10	13	13	12	11
+444	United S		DeAndre YedlinDR	 Newcastle	27	€ 8.0M	11	9	12	10	11	14	16
+445	Croatia		Lovre Kalinic	 Aston Villa	30	€ 6.0M	13	13	10	5	11	15	10
+446	England		Dan BurnDL	 Brighton	28	€ 10.0M	13	9	14	11	13	12	10
+447	England		Dwight Gayle	 Newcastle	30	€ 6.0M	12	13	8	12	12	12	13
+448	Scotland		Liam Cooper	 Leeds Utd	28	€ 10.0M	13	8	14	10	13	13	10
+449	United S		Tim ReamDL	 Fulham	32	€ 3.0M	13	10	14	13	13	13	13
+450	United S		Owen OtasowieDM	 Wolves	19	€ 2.0M	12	9	13	12	12	14	14
+451	Belgium		Denis OdoiDLDR	 Fulham	32	€ 5.0M	13	11	13	13	13	13	13
+452	England		Martin KellyDR	 Crystal Palac	30	€ 6.0M	12	9	13	11	12	13	12
+453	Republic		Ciaran Clark	 Newcastle	30	€ 6.0M	12	8	14	11	13	12	11
+454	Switzerl		Eldin Jakupovic	 Leicester	35	€ 1.0M	12	14	9	8	10	12	9
+455	Peru		Rodrigo Vilca	 Newcastle	21	€ 4.0M	12	13	9	15	12	11	14
+456	France		Maxime Le MarchandDL	 Fulham	30	€ 5.0M	12	9	14	11	12	13	12
+457	Spain		Javi ManquilloDR	 Newcastle	26	€ 8.0M	12	10	13	12	13	13	14
+458	England		Conor Gallagher	 West Brom	20	€ 8.0M	12	13	11	13	13	13	13
+459	England		Jacob Murphy	 Newcastle	25	€ 8.0M	11	12	8	13	10	12	15
+460	England		Jed Steer	 Aston Villa	27	€ 6.0M	12	13	8	8	10	12	8
+461	England		Mark Gillespie	 Newcastle	28	€ 4.0M	11	13	8	8	10	11	8
+462	England		Callum Slattery	 Southampton	21	€ 500K	11	12	8	12	12	10	11
+463	Norway		Stefan JohansenDM	 Fulham	29	€ 7.0M	13	13	11	14	14	12	10
+464	Scotland		Matt Phillips	 West Brom	29	€ 10.0M	12	12	10	13	11	12	12
+465	Ghana		Christian Atsu	 Newcastle	28	€ 6.0M	11	12	7	12	10	12	15
+466	France		Yan ValeryDR	 Southampton	21	€ 6.0M	12	10	12	13	10	13	14
+467	Sweden		Emil KrafthDR	 Newcastle	25	€ 8.0M	12	10	12	12	12	13	13
+468	Senegal		Henri Saivet	 Newcastle	29	€ 3.0M	12	12	10	13	12	12	13
+469	England		Christian Walton	 Brighton	24	€ 1.0M	12	13	8	7	10	12	7
+470	Republic		Dara O'SheaDR	 West Brom	21	€ 2.0M	12	7	13	9	11	13	11
+471	Congo DR		Neeskens Kebano	 Fulham	28	€ 7.0M	12	12	8	14	12	12	15
+472	England		Lee Grant	 Manchester Un	37	€ 300K	12	13	8	9	11	10	8
+473	England		Kyle Edwards	 West Brom	22	€ 3.0M	11	12	8	12	11	11	14
+474	England		Max LoweDL	 Sheffield Uni	23	€ 2.0M	12	11	12	13	11	12	13
+475	Republic		Jimmy Dunne	 Burnley	22	€ 900K	11	7	13	8	11	12	10
+476	England		David Button	 West Brom	31	€ 4.0M	12	13	9	8	10	13	9
+477	Portugal		Gonçalo Cardoso	 West Ham	19	€ 1.0M	12	9	12	11	12	12	12
+478	Republic		Michael Obafemi	 Southampton	20	€ 2.0M	10	10	10	8	10	14	15
+479	Scotland		Phil BardsleyDLDR	 Burnley	35	€ 500K	12	10	13	11	13	12	11
+480	Egypt		Ahmed ElmohamadyDR	 Aston Villa	32	€ 2.0M	12	12	11	13	12	13	13
+481	England		Henri Lansbury	 Aston Villa	29	€ 2.0M	12	13	10	13	12	12	13
+482	Wales		Hal Robson-Kanu	 West Brom	31	€ 3.0M	12	12	11	12	12	13	13
+483	Scotland		Kevin McDonaldDM	 Fulham	31	€ 4.0M	12	11	12	13	12	13	11
+484	Switzerl		Gaetano BerardiDLDR	 Leeds Utd	31	€ 3.0M	12	6	13	9	13	13	10
+485	England		Kyle Bartley	 West Brom	29	€ 7.0M	12	8	14	9	12	13	10
+486	England		Sam McQueenDL	 Southampton	25	€ 3.0M	12	12	12	13	11	12	12
+487	England		Keinan Davis	 Aston Villa	22	€ 2.0M	12	11	11	12	11	13	13
+488	England		Jack RodwellDM	 Sheffield Uni	29	€ 400K	10	10	12	12	9	11	10
+489	Northern		Bailey Peacock-Farrell	 Burnley	23	€ 700K	11	12	8	8	9	11	7
+490	England		Simon Moore	 Sheffield Uni	30	€ 3.0M	12	13	10	7	10	13	9
+491	England		Kean BryanDLDM	 Sheffield Uni	23	€ 400K	11	9	12	11	10	13	12
+492	Wales		Neil TaylorDL	 Aston Villa	31	€ 2.0M	13	9	13	12	13	13	13
+493	England		Lee PeltierDR	 West Brom	33	€ 700K	12	9	12	10	12	12	10
+494	England		Conor TownsendDL	 West Brom	27	€ 1.0M	11	11	11	12	11	12	12
+495	England		Jonathan Bond	 West Brom	27	€ 1.0M	12	13	8	7	10	12	8
+496	England		Jason Steele	 Brighton	29	€ 300K	11	12	8	7	10	12	10
+497	England		Wes Foderingham	 Sheffield Uni	29	€ 2.0M	12	13	8	9	10	11	9
+498	Germany		Meritan Shabani	 Wolves	21	€ 2.0M	12	12	10	12	12	13	11
+499	Morocco		Achraf LazaarDL	 Newcastle	28	€ 300K	11	10	10	12	11	13	13
+500	Republic		Stephen Henderson	 Crystal Palac	32	€ 300K	10	12	8	7	9	11	8
+501	England		David Martin	 West Ham	34	€ 200K	12	12	7	7	10	11	8
+502	Portugal		Roderick Miranda	 Wolves	29	€ 400K	12	10	12	12	11	13	11
+503	England		Will Norris	 Burnley	26	€ 500K	12	12	7	7	10	11	8
+504	England		Matt Macey	 Arsenal	25	€ 300K	10	12	9	5	10	12	7
+505	Republic		Conor ShaughnessyDM	 Leeds Utd	24	€ 300K	11	9	12	11	11	12	10
+506	Morocco		Ouasim BouyDM	 Leeds Utd	27	€ 200K	11	11	9	13	11	11	11
+507	England		Matthew PenningtonDR	 Everton	25	€ 200K	11	8	12	10	11	12	11
+508	Kosovo		Adrion Pajaziti	 Fulham	17	€ 10.0K	7	7	6	11	8	9	9
+509	Portugal		Gelson Martins	 AS Monaco	25	€ 20.0M	12	13	8	15	12	14	17
+510	Venezuel		Wuilker Fariñez	 RC Lens	22	€ 900K	12	13	8	8	12	13	10
+511	Monteneg		Stevan Jovetic	 AS Monaco	30	€ 6.0M	13	15	9	16	13	12	13
+512	Denmark		Kasper Dolberg	 OGC Nice	22	€ 10.0M	13	13	9	14	12	14	14
+513	France		Abdou DialloDL	 Paris Saint-G	24	€ 9.0M	13	9	14	12	12	14	13
+514	Germany		Kevin Volland	 AS Monaco	28	€ 20.0M	13	13	10	12	14	15	14
+515	France		Mike Maignan	 Lille OSC	25	€ 10.0M	13	14	8	11	11	13	10
+516	France		Hatem Ben Arfa	 Bordeaux	33	€ 1.0M	12	15	5	16	8	12	15
+517	Brazil		Dante	 OGC Nice	36	€ 400K	14	11	14	14	14	12	9
+518	France		Jeff Reine-Adélaïde	 OGC Nice	22	€ 5.0M	12	13	11	14	12	13	14
+519	Italy		Mattia De SciglioDLDR	 Lyon	27	€ 10.0M	12	10	13	13	12	13	14
+520	Senegal		M’Baye Niang	 Stade Rennais	25	€ 10.0M	13	13	11	13	12	15	14
+521	Cameroon		Karl Toko Ekambi	 Lyon	27	€ 10.0M	12	12	11	12	12	14	14
+522	Croatia		Duje Caleta-Car	 Marseille	23	€ 9.0M	13	10	14	12	13	14	11
+523	Germany		Thilo KehrerDRDM	 Paris Saint-G	23	€ 9.0M	12	9	14	12	12	14	13
+524	Algeria		Youcef AtalDR	 OGC Nice	24	€ 10.0M	12	13	10	14	13	13	15
+525	France		Téji SavanierDM	 Montpellier H	28	€ 10.0M	13	14	9	14	14	12	13
+526	France		Alban Lafont	 FC Nantes	21	€ 4.0M	12	13	9	7	10	14	10
+527	Italy		Daniele Rugani	 Stade Rennais	26	€ 7.0M	12	9	15	12	11	14	12
+528	Spain		Sergio Rico	 Paris Saint-G	26	€ 10.0M	13	14	8	7	11	12	9
+529	Tunisia		Wahbi Khazri	 AS Saint-Étie	29	€ 10.0M	13	14	9	14	12	13	14
+530	France		Boubakary SoumaréDM	 Lille OSC	21	€ 6.0M	13	12	13	15	13	14	13
+531	Portugal		José Fonte	 Lille OSC	36	€ 800K	13	10	14	12	14	13	10
+532	Spain		ÁlvaroDR	 Marseille	30	€ 10.0M	13	9	14	11	13	13	12
+533	Turkey		Zeki ÇelikDLDR	 Lille OSC	23	€ 10.0M	13	10	13	12	12	13	13
+534	Argentin		Darío Benedetto	 Marseille	30	€ 10.0M	13	14	10	14	12	13	13
+535	Nigeria		Henry Onyekuru	 AS Monaco	23	€ 9.0M	12	13	8	14	11	13	16
+536	Belgium		Jason Denayer	 Lyon	25	€ 10.0M	13	9	14	13	13	14	14
+537	France		Morgan Sanson	 Marseille	25	€ 10.0M	13	14	10	15	13	13	14
+538	France		Maxence CaqueretDM	 Lyon	20	€ 5.0M	12	11	10	14	13	12	12
+539	France		Yacine Adli	 Bordeaux	20	€ 4.0M	13	14	8	16	12	12	13
+540	Argentin		Walter Benítez	 OGC Nice	27	€ 10.0M	13	15	9	8	11	13	8
+541	United S		Timothy Weah	 Lille OSC	20	€ 4.0M	11	12	8	12	11	13	15
+542	France		Paul Bernardoni	 Angers SCO	23	€ 8.0M	13	14	10	7	12	13	9
+543	France		Morgan SchneiderlinDM	 OGC Nice	30	€ 8.0M	12	9	13	13	12	14	11
+544	France		Djibril SidibéDLDR	 AS Monaco	28	€ 8.0M	13	12	13	13	12	14	14
+545	France		Stéphane Ruffier	 AS Saint-Étie	33	€ 2.0M	13	13	9	7	12	13	8
+546	France		Imran Louza	 FC Nantes	21	€ 4.0M	12	13	10	14	13	11	13
+547	Greece		Panagiotis RetsosDLDR	 AS Saint-Étie	21	€ 3.0M	12	9	14	12	12	14	13
+548	France		Mathieu DebuchyDR	 AS Saint-Étie	35	€ 300K	12	11	13	12	14	13	13
+549	Switzerl		Jonas Omlin	 Montpellier H	26	€ 8.0M	13	13	8	7	11	12	9
+550	France		Valentin RongierDM	 Marseille	25	€ 10.0M	13	12	12	14	14	13	13
+551	France		Layvin KurzawaDL	 Paris Saint-G	27	€ 8.0M	13	12	12	13	12	14	14
+552	France		Martin Terrier	 Stade Rennais	22	€ 9.0M	12	13	9	14	12	13	14
+553	France		Jonathan Bamba	 Lille OSC	24	€ 9.0M	11	12	8	13	11	14	15
+554	Turkey		Burak Yilmaz	 Lille OSC	35	€ 900K	13	13	10	12	12	13	13
+555	Brazil		Caio HenriqueDLDM	 AS Monaco	23	€ 7.0M	13	13	10	14	12	12	14
+556	France		Léo DuboisDR	 Lyon	25	€ 10.0M	13	12	12	13	13	12	12
+557	France		Benoît Costil	 Bordeaux	33	€ 6.0M	13	13	9	9	11	14	10
+558	Brazil		Hilton	 Montpellier H	42	€ 400K	12	10	12	12	13	12	10
+559	Côte d'I		Maxwel CornetDL	 Lyon	23	€ 9.0M	12	11	10	12	11	13	13
+560	France		Benjamin Lecomte	 AS Monaco	29	€ 8.0M	13	13	10	9	12	13	10
+561	France		Jordan AmaviDL	 Marseille	26	€ 4.0M	13	11	12	13	12	13	14
+562	France		Ruben AguilarDR	 AS Monaco	27	€ 9.0M	13	11	11	13	14	13	14
+563	France		Ludovic Blas	 FC Nantes	22	€ 5.0M	13	13	10	14	12	13	14
+564	Serbia		Nemanja Radonjic	 Marseille	24	€ 6.0M	11	13	8	13	11	13	15
+565	Brazil		Thiago MendesDM	 Lyon	28	€ 7.0M	12	12	12	13	13	13	12
+566	Brazil		DaniloDM	 OGC Nice	24	€ 5.0M	13	12	13	13	13	13	13
+567	Morocco		Sofiane Boufal	 Angers SCO	26	€ 8.0M	12	14	8	15	11	13	15
+568	Japan		Hiroki SakaiDLDR	 Marseille	30	€ 7.0M	12	11	12	12	13	14	13
+569	France		Thomas Basila	 FC Nantes	21	€ 1.0M	12	10	13	11	12	13	11
+570	Switzerl		Jordan LotombaDLDR	 OGC Nice	21	€ 4.0M	11	10	11	13	11	12	14
+571	Turkey		Yusuf Yazici	 Lille OSC	23	€ 6.0M	13	14	11	14	14	12	13
+572	Serbia		Strahinja Pavlovic	 AS Monaco	19	€ 2.0M	11	8	14	10	12	13	10
+573	Senegal		Pape Cheikh DiopDM	 Dijon FCO	22	€ 6.0M	12	12	12	14	13	12	14
+574	France		Jimmy Briand	 Bordeaux	34	€ 500K	14	13	11	14	15	13	11
+575	Portugal		Pedro Mendes	 Montpellier H	29	€ 6.0M	12	10	14	12	13	14	13
+576	Serbia		Predrag Rajkovic	 Reims	24	€ 4.0M	13	13	9	9	11	12	10
+577	Brazil		Pablo	 Bordeaux	29	€ 7.0M	12	8	15	9	12	13	10
+578	Brazil		DalbertDL	 Stade Rennais	26	€ 6.0M	12	12	11	12	12	14	15
+579	France		Gautier Larsonneur	 Stade Brestoi	23	€ 4.0M	12	13	7	11	11	13	11
+580	Brazil		Luís Henrique	 Marseille	18	€ 2.0M	11	12	9	13	10	12	14
+581	Côte d'I		Roger Assalé	 Dijon FCO	26	€ 9.0M	12	12	8	14	11	13	17
+582	Nigeria		Samuel Kalu	 Bordeaux	22	€ 5.0M	12	13	8	13	10	13	15
+583	Congo DR		Gaël Kakuta	 RC Lens	29	€ 4.0M	12	14	7	14	11	13	15
+584	Belgium		Jérémy Doku	 Stade Rennais	18	€ 6.0M	11	11	7	15	10	11	16
+585	France		Faitout MaouassaDL	 Stade Rennais	22	€ 6.0M	13	13	11	13	12	13	14
+586	Brazil		Marcelo	 Lyon	33	€ 2.0M	12	8	15	10	12	13	9
+587	Côte d'I		Séko FofanaDM	 RC Lens	25	€ 7.0M	13	12	13	13	13	14	14
+588	Nigeria		Terem Moffi	 FC Lorient	21	€ 3.0M	12	10	12	12	12	14	13
+589	France		Benjamin AndréDM	 Lille OSC	29	€ 10.0M	13	11	12	13	13	14	13
+590	France		Jean-Kévin Augustin	 FC Nantes	23	€ 5.0M	12	13	10	14	11	13	15
+591	France		Benoît Badiashile	 AS Monaco	19	€ 6.0M	12	8	14	11	11	14	12
+592	Algeria		Andy Delort	 Montpellier H	28	€ 10.0M	13	13	12	13	13	14	14
+593	Japan		Yuto NagatomoDLDR	 Marseille	33	€ 400K	11	7	10	9	13	11	11
+594	France		Abdoulaye TouréDM	 FC Nantes	26	€ 7.0M	13	11	14	12	13	14	13
+595	France		Batista MendyDM	 FC Nantes	20	€ 1.0M	12	11	13	13	12	13	12
+596	France		Rayan Cherki	 Lyon	16	€ 700K	10	12	6	14	10	10	12
+597	Portugal		XekaDM	 Lille OSC	25	€ 6.0M	12	12	11	14	13	12	12
+598	Algeria		Ryad Boudebouz	 AS Saint-Étie	30	€ 6.0M	13	14	7	15	11	13	15
+599	France		Ibrahim AmadouDM	 Angers SCO	27	€ 4.0M	13	9	14	12	14	14	12
+600	France		Benjamin Bourigeaud	 Stade Rennais	26	€ 7.0M	13	13	11	14	13	13	13
+601	France		Rémi Oudin	 Bordeaux	23	€ 6.0M	13	13	11	14	12	13	13
+602	France		Marcus Coco	 FC Nantes	24	€ 5.0M	12	11	11	12	12	14	14
+603	France		Valère Germain	 Marseille	30	€ 3.0M	13	12	10	13	13	13	13
+604	France		Alexis Claude-Maurice	 OGC Nice	22	€ 4.0M	12	13	8	14	11	11	14
+605	France		Colin DagbaDRDL	 Paris Saint-G	21	€ 3.0M	11	11	10	13	12	12	15
+606	Côte d'I		Lamine Koné	 Strasbourg	31	€ 2.0M	12	9	14	11	12	14	12
+607	Mali		Hamari TraoréDR	 Stade Rennais	28	€ 7.0M	12	10	12	12	12	14	14
+608	Nigeria		Moses Simon	 FC Nantes	25	€ 6.0M	11	13	8	14	12	12	15
+609	Senegal		Youssouf SabalyDR	 Bordeaux	27	€ 3.0M	12	11	12	12	13	14	13
+610	Croatia		Domagoj BradaricDL	 Lille OSC	20	€ 1.0M	11	11	9	13	11	12	14
+611	France		Gaëtan Laborde	 Montpellier H	26	€ 8.0M	13	12	11	12	13	14	12
+612	France		Adrien Hunou	 Stade Rennais	26	€ 7.0M	13	13	11	13	13	13	14
+613	France		Florent Mollet	 Montpellier H	28	€ 7.0M	13	14	9	14	12	13	14
+614	France		Timothée KolodziejczakDL	 AS Saint-Étie	28	€ 5.0M	12	9	14	11	13	15	12
+615	France		Sébastien CorchiaDR	 FC Nantes	29	€ 5.0M	13	12	12	13	13	12	14
+616	France		Axel Disasi	 AS Monaco	22	€ 5.0M	12	9	14	10	11	14	11
+617	Greece		Tasos Donis	 Reims	23	€ 8.0M	11	11	9	13	11	14	16
+618	Brazil		Luiz Araújo	 Lille OSC	24	€ 5.0M	12	12	9	13	12	12	14
+619	Chile		Guillermo Maripán	 AS Monaco	26	€ 3.0M	12	8	14	10	12	13	10
+620	Paraguay		Andrés CubasDM	 Nîmes Olympiq	24	€ 4.0M	12	11	10	12	13	11	12
+621	Morocco		Youssef Aït BennasserDM	 AS Monaco	24	€ 3.0M	13	12	12	14	13	14	13
+622	France		Nicolas CozzaDL	 Montpellier H	21	€ 3.0M	12	11	12	12	12	13	12
+623	France		Joris ChotardDM	 Montpellier H	18	€ 2.0M	12	11	12	13	12	13	13
+624	France		Adil Aouchiche	 AS Saint-Étie	18	€ 800K	12	12	8	13	11	12	13
+625	Brazil		OtávioDM	 Bordeaux	26	€ 6.0M	12	11	13	12	13	13	12
+626	Belgium		Matz Sels	 Strasbourg	28	€ 5.0M	12	13	10	8	10	14	10
+627	Bosnia a		Sanjin PrcicDM	 Strasbourg	26	€ 5.0M	12	12	11	14	13	13	12
+628	England		Trevoh ChalobahDM	 FC Lorient	21	€ 4.0M	11	10	13	12	10	14	13
+629	France		Serhou Guirassy	 Stade Rennais	24	€ 6.0M	12	12	11	12	12	15	13
+630	France		Nicolas De Préville	 Bordeaux	29	€ 5.0M	13	13	8	14	12	12	14
+631	France		Clément GrenierDM	 Stade Rennais	29	€ 4.0M	12	13	10	15	13	12	13
+632	France		Hassane KamaraDL	 OGC Nice	26	€ 5.0M	12	12	12	13	12	13	14
+633	France		Yohann Pelé	 Marseille	37	€ 300K	12	13	9	7	11	13	8
+634	France		Fodé Ballo-TouréDL	 AS Monaco	23	€ 3.0M	12	11	12	13	12	14	15
+635	France		Amine Gouiri	 OGC Nice	20	€ 4.0M	12	12	9	14	12	13	14
+636	France		Stanley NsokiDL	 OGC Nice	21	€ 2.0M	12	10	13	10	12	14	12
+637	Portugal		Mathias Pereira Lage	 Angers SCO	23	€ 4.0M	13	13	10	13	12	13	13
+638	Brazil		Andrei GirottoDM	 FC Nantes	28	€ 6.0M	13	11	13	12	13	13	12
+639	Brazil		Jean LucasDM	 Lyon	22	€ 4.0M	13	12	11	13	13	13	13
+640	Kosovo		Valon Berisha	 Reims	27	€ 4.0M	13	13	9	14	14	13	14
+641	Cameroon		Stéphane Bahoken	 Angers SCO	28	€ 5.0M	12	11	10	12	11	14	14
+642	Gabon		Denis Bouanga	 AS Saint-Étie	25	€ 6.0M	13	13	9	14	11	13	14
+643	Gabon		Didier Ndong	 Dijon FCO	26	€ 4.0M	12	11	12	12	12	14	14
+644	Ghana		Alexander DjikuDM	 Strasbourg	25	€ 5.0M	12	9	13	11	13	13	12
+645	South Ko		Hwang Ui-Jo	 Bordeaux	27	€ 6.0M	13	12	9	14	13	12	14
+646	France		Nicolas Pallois	 FC Nantes	32	€ 3.0M	12	8	14	8	13	14	11
+647	France		Anthony BriançonDM	 Nîmes Olympiq	25	€ 5.0M	13	10	14	12	13	13	11
+648	France		Kenny LalaDR	 Strasbourg	28	€ 4.0M	12	11	12	12	12	14	13
+649	France		Pierre Lees-Melou	 OGC Nice	27	€ 6.0M	12	13	10	13	13	13	13
+650	France		Myziane Maolida	 OGC Nice	21	€ 4.0M	11	12	8	14	10	13	15
+651	France		Bingourou Kamara	 Strasbourg	23	€ 3.0M	12	13	8	8	10	13	9
+652	Germany		Julian Pollersbeck	 Lyon	25	€ 3.0M	12	12	9	7	10	13	10
+653	Greece		Kostas Mitroglou	 Marseille	32	€ 1.0M	13	13	11	14	12	12	10
+654	Serbia		Vukasin Jovanovic	 Bordeaux	24	€ 3.0M	12	9	14	11	12	13	12
+655	Peru		Miguel TraucoDL	 AS Saint-Étie	27	€ 4.0M	13	13	11	14	12	12	14
+656	Mozambiq		Edson Mexer	 Bordeaux	31	€ 3.0M	12	9	14	11	12	13	11
+657	Austria		Dario MaresicDM	 Reims	20	€ 3.0M	12	9	14	13	11	15	13
+658	France		Adrien Thomasson	 Strasbourg	26	€ 5.0M	12	13	11	13	12	13	14
+659	France		Daniel Congré	 Montpellier H	35	€ 300K	13	8	13	9	13	13	10
+660	France		Jean-Ricner Bellegarde	 Strasbourg	22	€ 3.0M	12	12	10	14	11	13	14
+661	Spain		Pedro ChirivellaDM	 FC Nantes	23	€ 3.0M	12	12	10	14	12	11	13
+662	Brazil		Róbson Bambu	 OGC Nice	22	€ 3.0M	11	8	13	10	11	13	11
+663	Côte d'I		Jean-Eudes AholouDM	 Strasbourg	26	€ 5.0M	13	11	14	13	13	14	13
+664	France		Romain Hamouma	 AS Saint-Étie	33	€ 1.0M	12	13	8	14	11	13	14
+665	France		Mathieu Cafaro	 Reims	23	€ 4.0M	13	13	10	14	12	12	13
+666	France		Jérémy PiedDR	 Lille OSC	31	€ 3.0M	12	12	10	14	12	12	13
+667	Italy		Moise Kean	 Paris Saint-G	20	€ 10.0M	12	12	10	13	12	15	16
+668	Argentin		Leonardo Balerdi	 Marseille	21	€ 4.0M	12	8	13	11	11	12	11
+669	Benin		Steve Mounié	 Stade Brestoi	25	€ 3.0M	12	11	12	12	11	14	13
+670	Côte d'I		Ghislain KonanDL	 Reims	24	€ 4.0M	12	11	12	12	12	13	15
+671	Morocco		Rachid Alioui	 Angers SCO	28	€ 5.0M	13	12	11	12	12	14	13
+672	Senegal		Habib Diallo	 Strasbourg	25	€ 5.0M	12	11	11	11	12	14	13
+673	Croatia		Toma BasicDM	 Bordeaux	23	€ 2.0M	12	13	11	14	12	12	11
+674	France		Damien Da SilvaDM	 Stade Rennais	32	€ 2.0M	13	8	14	10	13	13	10
+675	France		Jonas Martin	 Stade Rennais	30	€ 5.0M	13	13	12	14	13	13	14
+676	France		Romain Thomas	 Angers SCO	32	€ 3.0M	12	9	14	10	12	13	11
+677	France		Irvin Cardona	 Stade Brestoi	22	€ 4.0M	13	13	10	14	12	13	13
+678	France		Pape GueyeDM	 Marseille	21	€ 2.0M	12	11	11	13	12	12	12
+679	Algeria		Zinedine Ferhat	 Nîmes Olympiq	27	€ 6.0M	13	13	10	14	12	13	13
+680	Cameroon		Harold MoukoudiDM	 AS Saint-Étie	23	€ 2.0M	12	8	14	11	12	14	11
+681	Cameroon		Ignatius Ganago	 RC Lens	21	€ 4.0M	12	11	10	12	10	13	13
+682	Côte d'I		Ismaël Traoré	 Angers SCO	33	€ 800K	13	9	14	10	13	14	12
+683	Morocco		Yunis Abdelhamid	 Reims	32	€ 3.0M	12	8	14	9	13	14	10
+684	Senegal		Alfred Gomis	 Stade Rennais	26	€ 4.0M	12	14	9	8	11	12	8
+685	France		Ludovic Ajorque	 Strasbourg	26	€ 6.0M	13	12	11	12	13	14	12
+686	France		Jordan FerriDM	 Montpellier H	28	€ 5.0M	13	12	11	13	14	12	12
+687	France		Kévin Monnet-Paquet	 AS Saint-Étie	31	€ 2.0M	11	12	9	14	10	14	15
+688	France		Ronaël Pierre-GabrielDRDL	 Stade Brestoi	22	€ 2.0M	12	9	13	11	12	13	13
+689	France		Melvin BardDL	 Lyon	19	€ 2.0M	12	10	11	13	12	12	13
+690	Mali		Kalifa Coulibaly	 FC Nantes	28	€ 4.0M	12	10	12	11	11	15	12
+691	Nigeria		Josh Maja	 Bordeaux	21	€ 3.0M	12	12	10	12	11	12	13
+692	Senegal		Moussa Koné	 Nîmes Olympiq	23	€ 4.0M	11	11	9	12	11	14	16
+693	Congo DR		Yoane Wissa	 FC Lorient	23	€ 4.0M	12	12	8	13	11	13	14
+694	France		Romain Del Castillo	 Stade Rennais	24	€ 5.0M	13	13	8	13	12	12	14
+695	France		Jean-Kevin DuverneDR	 Stade Brestoi	23	€ 3.0M	13	9	13	12	12	13	12
+696	France		Youssouf FofanaDM	 AS Monaco	21	€ 4.0M	12	11	11	13	12	12	12
+697	Switzerl		Loris BenitoDL	 Bordeaux	28	€ 5.0M	13	10	12	12	13	13	12
+698	Switzerl		Dereck Kutesa	 Reims	22	€ 4.0M	11	12	8	14	10	12	15
+699	Kosovo		Arber Zeneli	 Reims	25	€ 3.0M	11	12	8	14	11	13	16
+700	Algeria		Hicham Boudaoui	 OGC Nice	20	€ 3.0M	12	12	10	14	11	12	13
+701	Senegal		Boulaye Dia	 Reims	23	€ 4.0M	12	12	11	12	11	13	14
+702	Croatia		Mateo Pavlovic	 Angers SCO	30	€ 4.0M	11	8	14	10	12	14	10
+703	France		Christophe HérelleDR	 Stade Brestoi	27	€ 5.0M	13	9	14	11	12	14	11
+704	France		Ludovic Butelle	 Angers SCO	37	€ 300K	13	13	8	6	11	13	9
+705	France		Angelo FulginiDMDR	 Angers SCO	23	€ 3.0M	12	12	11	13	12	13	14
+706	France		Yoan Cardinale	 OGC Nice	26	€ 2.0M	12	13	9	9	10	13	9
+707	France		Adama SoumaoroDM	 Lille OSC	28	€ 2.0M	12	8	14	10	12	13	9
+708	France		Quentin Boisgard	 FC Lorient	23	€ 4.0M	12	13	9	14	11	12	14
+709	France		Mounir Chouiar	 Dijon FCO	21	€ 3.0M	12	14	7	14	10	12	14
+710	Norway		Birger MelingDL	 Nîmes Olympiq	25	€ 4.0M	12	10	11	12	13	12	13
+711	Portugal		Heriberto Tavares	 Stade Brestoi	23	€ 4.0M	11	12	8	13	10	12	14
+712	Mali		Cheick DoucouréDM	 RC Lens	20	€ 1.0M	12	10	12	11	11	12	11
+713	Tunisia		Dylan BronnDR	 FC Metz	25	€ 3.0M	13	8	13	9	12	13	11
+714	France		Flavien Tait	 Stade Rennais	27	€ 5.0M	13	13	10	13	13	13	13
+715	France		James Lea Siliki	 Stade Rennais	24	€ 4.0M	12	12	12	14	12	13	13
+716	France		Ibou SissokoDM	 Strasbourg	22	€ 2.0M	12	10	14	11	11	14	12
+717	Switzerl		Dan Ndoye	 OGC Nice	19	€ 1.0M	11	10	8	12	10	13	14
+718	Brazil		FábioDRDL	 FC Nantes	30	€ 2.0M	12	11	12	12	13	13	14
+719	Guadelou		Andreaw Gravillon	 FC Lorient	22	€ 1.0M	12	7	13	9	11	14	11
+720	Zimbabwe		Tino Kadewere	 Lyon	24	€ 4.0M	12	12	10	12	10	14	14
+721	France		Pablo MartinezDL	 Nîmes Olympiq	31	€ 3.0M	13	10	13	11	12	14	12
+722	France		Renaud Ripart	 Nîmes Olympiq	27	€ 5.0M	12	11	10	11	13	13	12
+723	France		Arnaud SouquetDR	 Montpellier H	28	€ 4.0M	12	12	10	13	12	12	13
+724	France		Samuel Grandsir	 AS Monaco	23	€ 4.0M	12	12	7	13	11	13	15
+725	France		Fabien CentonzeDR	 FC Metz	24	€ 3.0M	12	10	11	12	12	13	13
+726	France		Paul Nardi	 FC Lorient	26	€ 2.0M	12	13	9	7	11	13	9
+727	France		Zaydou Youssouf	 AS Saint-Étie	21	€ 2.0M	12	12	10	13	12	12	14
+728	France		Mohamed SimakanDR	 Strasbourg	20	€ 1.0M	12	9	13	11	11	13	12
+729	Greece		Orestis Karnezis	 Lille OSC	35	€ 600K	12	13	9	7	11	11	8
+730	Scotland		Fraser Hornby	 Reims	20	€ 500K	11	10	11	9	10	13	11
+731	Sweden		Niclas Eliasson	 Nîmes Olympiq	24	€ 2.0M	11	13	7	13	10	12	15
+732	Argentin		Facundo MedinaDL	 RC Lens	21	€ 800K	12	10	12	11	12	12	12
+733	Gabon		Bruno Ecuélé MangaDR	 Dijon FCO	32	€ 3.0M	12	10	14	12	12	13	12
+734	England		Stephy Mavididi	 Montpellier H	22	€ 3.0M	12	10	10	11	10	14	13
+735	France		Thomas ManganiDM	 Angers SCO	33	€ 2.0M	13	10	12	12	13	13	11
+736	France		Antonin Bobichon	 Angers SCO	24	€ 4.0M	12	13	10	13	11	12	12
+737	France		Enock KwatengDR	 Bordeaux	23	€ 3.0M	12	11	13	12	12	13	13
+738	Switzerl		Anthony Racioppi	 Dijon FCO	21	€ 1.0M	11	12	8	9	10	12	9
+739	Serbia		Mihailo RisticDL	 Montpellier H	24	€ 2.0M	12	12	11	13	12	12	12
+740	Algeria		Mehdi Abeid	 FC Nantes	27	€ 4.0M	13	12	11	14	12	13	13
+741	Algeria		Farid El Melali	 Angers SCO	23	€ 2.0M	11	12	9	14	12	11	14
+742	Morocco		Nayef Aguerd	 Stade Rennais	24	€ 4.0M	12	9	14	10	12	13	10
+743	Senegal		Sada Thioub	 Angers SCO	25	€ 4.0M	11	11	9	13	10	14	15
+744	Belgium		Anthony Limbombe	 FC Nantes	26	€ 4.0M	11	11	9	14	10	12	14
+745	Belgium		Thomas FoketDR	 Reims	25	€ 3.0M	12	10	11	11	12	13	13
+746	France		Paul LasneDM	 Stade Brestoi	31	€ 2.0M	12	12	12	13	12	13	12
+747	France		Romain Philippoteaux	 Stade Brestoi	32	€ 2.0M	12	12	7	14	12	12	14
+748	France		Kévin N'DoramDM	 FC Metz	24	€ 3.0M	12	9	13	12	13	13	12
+749	France		Sofiane AlakouchDRDL	 Nîmes Olympiq	22	€ 2.0M	12	11	11	13	12	13	14
+750	France		Romain PerraudDL	 Stade Brestoi	22	€ 2.0M	12	12	10	13	12	12	13
+751	France		Clément MichelinDR	 RC Lens	23	€ 2.0M	12	10	10	12	12	12	13
+752	France		Yvann MaçonDRDL	 AS Saint-Étie	21	€ 2.0M	12	11	10	13	12	12	13
+753	France		Anthony CaciDLDMDR	 Strasbourg	23	€ 2.0M	12	10	11	12	11	13	12
+754	France		Matthieu Saunier	 FC Lorient	30	€ 900K	12	9	12	12	12	12	11
+755	Brazil		Gabriel SilvaDL	 AS Saint-Étie	29	€ 2.0M	11	12	10	12	11	13	14
+756	Ghana		Majeed Waris	 Strasbourg	28	€ 4.0M	11	12	8	13	11	12	15
+757	Côte d'I		Habib MaïgaDM	 FC Metz	24	€ 3.0M	12	11	12	12	13	12	12
+758	Mali		Charles TraoréDL	 FC Nantes	28	€ 3.0M	12	11	12	13	12	12	14
+759	Belgium		Wout FaesDM	 Reims	22	€ 2.0M	12	9	13	11	12	12	11
+760	France		Damien Le TallecDM	 Montpellier H	30	€ 3.0M	13	11	13	12	13	12	10
+761	France		Pierrick Capelle	 Angers SCO	33	€ 1.0M	12	12	11	12	12	13	13
+762	France		Xavier ChavalerinDM	 Reims	29	€ 3.0M	12	11	11	12	13	13	12
+763	France		Vincent ManceauDRDM	 Angers SCO	31	€ 2.0M	12	10	11	11	13	12	13
+764	France		Baptiste Reynet	 Nîmes Olympiq	29	€ 2.0M	12	13	8	7	11	13	9
+765	France		Arnaud Nordin	 AS Saint-Étie	22	€ 2.0M	12	12	8	13	11	12	14
+766	Cameroon		Jean-Charles CastellettoDR	 FC Nantes	25	€ 3.0M	12	9	13	11	12	14	12
+767	Madagasc		Jérémy MorelDL	 FC Lorient	36	€ 200K	12	9	13	10	13	12	11
+768	South Af		Lebo Mothiba	 Strasbourg	24	€ 4.0M	12	10	11	11	12	14	12
+769	France		Junior SambiaDR	 Montpellier H	23	€ 2.0M	12	12	12	12	12	14	14
+770	France		Randal Kolo Muani	 FC Nantes	21	€ 1.0M	12	11	11	13	11	13	13
+771	Mali		KikiDR	 FC Metz	23	€ 2.0M	12	7	14	8	11	14	11
+772	Mali		Moussa Doumbia	 Reims	25	€ 4.0M	11	11	8	13	11	13	15
+773	Austria		Adrian Grbic	 FC Lorient	23	€ 3.0M	12	12	11	12	11	13	13
+774	France		Vincent PajotDM	 FC Metz	29	€ 4.0M	13	11	12	13	13	13	12
+775	France		Gaëtan Charbonnier	 Stade Brestoi	31	€ 2.0M	12	11	11	12	13	14	12
+776	France		Kader Bamba	 FC Nantes	26	€ 4.0M	11	12	9	14	11	12	14
+777	France		Paul BaysseDR	 Bordeaux	32	€ 1.0M	12	9	13	10	13	12	9
+778	France		Dennis AppiahDR	 FC Nantes	28	€ 2.0M	12	10	12	12	12	12	12
+779	France		Romain Salin	 Stade Rennais	36	€ 300K	12	13	8	8	11	12	9
+780	France		Florian MiguelDL	 Nîmes Olympiq	23	€ 1.0M	12	10	13	12	11	13	12
+781	France		Patrick BurnerDR	 Nîmes Olympiq	24	€ 2.0M	12	10	11	12	11	12	13
+782	France		Umut Bozok	 FC Lorient	23	€ 2.0M	12	11	9	12	11	13	13
+783	France		Lilian Brassier	 Stade Brestoi	20	€ 800K	12	10	12	13	11	12	13
+784	France		Sofiane Diop	 AS Monaco	20	€ 2.0M	12	12	8	14	11	12	14
+785	Serbia		Stefan Mitrovic	 Strasbourg	30	€ 3.0M	12	8	14	10	13	13	10
+786	Cameroon		Ambroise OyongoDL	 Montpellier H	29	€ 3.0M	11	10	11	11	11	14	14
+787	Guinea		Issiaga SyllaDL	 RC Lens	26	€ 900K	12	10	13	11	11	14	14
+788	Côte d'I		Victorien AngbanDM	 FC Metz	23	€ 2.0M	12	10	12	11	12	13	11
+789	Senegal		Moussa Konaté	 Dijon FCO	27	€ 4.0M	12	11	10	12	10	14	14
+790	France		Lucas DeauxDM	 Nîmes Olympiq	31	€ 2.0M	13	10	13	12	13	14	12
+791	France		Dimitri Liénard	 Strasbourg	32	€ 1.0M	13	13	9	13	13	13	12
+792	New Cale		Wesley LautoaDM	 Dijon FCO	32	€ 500K	12	9	14	11	12	13	11
+793	Kosovo		Bersant Celina	 Dijon FCO	23	€ 900K	12	13	7	14	10	12	14
+794	Algeria		Haris BelkeblaDM	 Stade Brestoi	26	€ 3.0M	12	11	11	13	13	13	13
+795	Morocco		Yassine Benrahou	 Nîmes Olympiq	21	€ 2.0M	12	12	7	13	10	11	13
+796	Mali		Kévin Zohi	 Strasbourg	23	€ 2.0M	11	11	8	13	10	13	15
+797	France		Maxime PoundjéDL	 Bordeaux	27	€ 2.0M	10	10	11	10	11	14	14
+798	France		Fabien LemoineDM	 FC Lorient	33	€ 500K	12	10	11	12	13	11	10
+799	France		Nathanaël Mbuku	 Reims	18	€ 900K	11	11	9	13	10	12	14
+800	Netherla		Kaj Sierhuis	 Reims	22	€ 2.0M	12	12	9	12	11	12	12
+801	Algeria		Alexandre Oukidja	 FC Metz	32	€ 3.0M	12	13	8	7	11	13	10
+802	Algeria		Yassine Benzia	 Dijon FCO	25	€ 2.0M	11	12	9	15	11	12	14
+803	Guinea-B		Mama BaldéDR	 Dijon FCO	24	€ 3.0M	11	10	10	11	11	13	14
+804	Morocco		Fouad ChafikDR	 Dijon FCO	33	€ 500K	13	11	12	12	12	13	13
+805	Mali		El Bilal Touré	 Reims	18	€ 2.0M	11	12	10	13	10	12	12
+806	Senegal		Racine ColyDL	 OGC Nice	24	€ 2.0M	11	9	12	11	12	13	12
+807	France		Jimmy Cabot	 Angers SCO	26	€ 2.0M	11	12	6	14	11	11	15
+808	France		Enzo Le Fée	 FC Lorient	20	€ 2.0M	12	13	8	14	12	11	13
+809	France		Armand Laurienté	 FC Lorient	21	€ 2.0M	12	12	7	13	11	12	14
+810	France		Houboulang MendesDR	 FC Lorient	22	€ 1.0M	12	9	12	11	11	13	12
+811	France		Jonathan ClaussDR	 RC Lens	27	€ 3.0M	12	11	11	12	12	12	14
+812	France		Dénys BainDM	 Stade Brestoi	27	€ 2.0M	12	8	13	11	12	13	11
+813	France		Jean-Louis Leca	 RC Lens	34	€ 600K	12	13	7	6	11	12	8
+814	France		Thomas MonconduitDM	 FC Lorient	29	€ 2.0M	13	11	12	13	13	12	11
+815	France		Loïs Diony	 Angers SCO	27	€ 2.0M	12	12	11	12	12	14	14
+816	France		Nolan Roux	 Nîmes Olympiq	32	€ 800K	12	12	10	12	12	14	13
+817	France		Andy PelmardDL	 OGC Nice	20	€ 1.0M	12	9	12	11	11	12	12
+818	Portugal		Tiago Djaló	 Lille OSC	20	€ 800K	11	8	14	10	11	13	11
+819	Mali		Lassana Coulibaly	 Angers SCO	24	€ 1.0M	12	10	13	9	11	14	13
+820	Belgium		Renaud Emond	 FC Nantes	28	€ 3.0M	12	12	11	12	13	13	13
+821	Bosnia a		Haris Duljevic	 Nîmes Olympiq	26	€ 3.0M	12	13	9	14	11	13	14
+822	France		Franck Honorat	 Stade Brestoi	23	€ 2.0M	12	11	10	12	11	13	13
+823	France		Loïck LandreDR	 Nîmes Olympiq	28	€ 1.0M	12	8	14	9	12	14	11
+824	France		Romain Faivre	 Stade Brestoi	22	€ 2.0M	12	12	10	13	11	13	12
+825	Algeria		Djamel Benlamri	 Lyon	30	€ 1.0M	12	9	13	10	12	12	10
+826	Côte d'I		Stéphane Diarra	 FC Lorient	21	€ 1.0M	11	11	9	13	11	11	14
+827	Senegal		Ibrahima Niane	 FC Metz	21	€ 2.0M	11	10	12	9	11	14	13
+828	Tunisia		Mouez Hassen	 Stade Brestoi	25	€ 800K	12	12	7	7	10	12	10
+829	France		Lionel CaroleDL	 Strasbourg	29	€ 2.0M	12	10	13	12	11	14	14
+830	France		Laurent AbergelDM	 FC Lorient	27	€ 2.0M	13	10	11	12	13	12	12
+831	France		Jonathan GraditDR	 RC Lens	27	€ 1.0M	12	9	13	13	12	13	13
+832	France		Mahdi CamaraDM	 AS Saint-Étie	22	€ 1.0M	12	11	9	12	12	12	13
+833	Ecuador		Aníbal ChaláDL	 Dijon FCO	24	€ 600K	11	10	12	10	11	14	15
+834	Ghana		John Boye	 FC Metz	33	€ 600K	12	8	14	9	11	14	14
+835	Mali		Massadio HaïdaraDL	 RC Lens	27	€ 2.0M	12	10	12	12	13	13	13
+836	France		Vincent Le GoffDL	 FC Lorient	30	€ 2.0M	13	12	10	13	12	12	13
+837	France		Arthur ZagréDL	 Dijon FCO	18	€ 500K	12	12	9	13	12	12	14
+838	Italy		Vito Mannone	 AS Monaco	32	€ 1.0M	12	12	9	8	10	12	9
+839	Serbia		Petar Skuletic	 Montpellier H	30	€ 1.0M	12	11	12	10	12	13	11
+840	Algeria		Farid Boulaya	 FC Metz	27	€ 3.0M	11	13	8	14	10	12	14
+841	Côte d'I		Souleyman DoumbiaDL	 Angers SCO	23	€ 1.0M	11	10	11	11	11	13	14
+842	Senegal		Opa Nguette	 FC Metz	26	€ 2.0M	12	11	9	12	11	13	14
+843	France		Julien Laporte	 FC Lorient	26	€ 2.0M	13	9	13	11	13	13	11
+844	France		Frédéric Sammaritano	 Dijon FCO	34	€ 200K	12	13	6	13	12	10	14
+845	France		Julien FaussurierDR	 Stade Brestoi	33	€ 400K	12	12	10	13	13	12	12
+846	France		Zakaria Diallo	 RC Lens	33	€ 300K	12	8	14	10	12	14	11
+847	France		Jordan MariéDM	 Dijon FCO	28	€ 2.0M	13	11	12	13	12	13	13
+848	France		Yannick CahuzacDM	 RC Lens	35	€ 100K	12	9	12	11	14	13	11
+849	France		Matthieu UdolDL	 FC Metz	24	€ 2.0M	12	10	12	11	12	12	12
+850	France		Clément Depres	 Nîmes Olympiq	25	€ 2.0M	12	11	11	10	12	13	12
+851	Mali		Mamadou FofanaDM	 FC Metz	22	€ 1.0M	11	7	13	8	12	13	12
+852	Japan		Eiji Kawashima	 Strasbourg	37	€ 100K	12	12	9	10	11	12	9
+853	France		Pierre-Yves Hamel	 FC Lorient	26	€ 2.0M	12	11	12	11	12	13	11
+854	France		Loïc Badé	 RC Lens	20	€ 700K	11	9	13	11	11	13	12
+855	France		Enzo Millot	 AS Monaco	18	€ 300K	11	12	7	13	11	11	12
+856	Serbia		Aleksandar Radovanovic	 RC Lens	26	€ 2.0M	11	9	13	10	12	12	10
+857	Côte d'I		Abdoulaye BambaDR	 Angers SCO	30	€ 2.0M	11	9	12	10	11	14	13
+858	Tunisia		Saïf-Eddine Khaoui	 Marseille	25	€ 1.0M	11	11	10	13	11	13	14
+859	France		Yann Gboho	 Stade Rennais	19	€ 900K	11	12	10	13	11	11	12
+860	French G		Ludovic BaalDL	 Stade Brestoi	34	€ 60.0K	12	10	12	12	12	12	12
+861	Cape Ver		Vágner	 FC Metz	24	€ 2.0M	12	12	8	13	11	12	14
+862	France		Thomas DelaineDLDR	 FC Metz	28	€ 2.0M	12	10	11	11	12	13	12
+863	France		Jonathan Delaplace	 FC Lorient	34	€ 100K	12	11	9	13	12	11	12
+864	France		Alexis Flips	 Reims	20	€ 700K	10	11	7	13	11	11	13
+865	Belgium		Aaron Leya Iseka	 FC Metz	23	€ 600K	12	11	10	11	11	13	13
+866	France		Brendan Chardonnet	 Stade Brestoi	25	€ 1.0M	12	9	13	11	12	13	11
+867	France		Corentin Jean	 RC Lens	25	€ 2.0M	12	11	8	13	12	12	15
+868	France		Gerzino NyamsiDR	 Stade Rennais	23	€ 1.0M	11	8	13	9	11	14	11
+869	Algeria		Idriss Saadi	 Strasbourg	28	€ 1.0M	12	11	10	11	11	13	12
+870	France		Warren Tchimbembé	 FC Metz	22	€ 800K	12	12	10	14	12	12	12
+871	South Af		Keagan Dolly	 Montpellier H	27	€ 800K	11	13	7	12	11	11	14
+872	France		Sylvain Marveaux	 FC Lorient	34	€ 200K	12	13	7	14	12	10	13
+873	France		Thierry Ambrose	 FC Metz	23	€ 1.0M	12	11	9	12	11	13	13
+874	Netherla		Sven BotmanDL	 Lille OSC	20	€ 1.0M	12	8	13	11	11	12	9
+875	Benin		Saturnin Allagbé	 Dijon FCO	26	€ 1.0M	12	13	8	7	10	12	8
+876	Mali		Cheick TraoréDR	 RC Lens	25	€ 700K	11	10	11	11	11	13	13
+877	England		Jonathan PanzoDL	 Dijon FCO	19	€ 500K	11	9	12	11	11	13	12
+878	France		Manuel CabitDL	 FC Metz	27	€ 1.0M	12	10	12	11	11	13	12
+879	France		Tony Mauricio	 RC Lens	26	€ 2.0M	12	13	8	14	11	13	13
+880	Cape Ver		Steven Fortes	 RC Lens	28	€ 1.0M	12	8	13	10	12	13	10
+881	Senegal		Sidy SarrDM	 Nîmes Olympiq	24	€ 1.0M	12	10	14	12	12	14	12
+882	France		Lamine FombaDM	 Nîmes Olympiq	22	€ 800K	12	11	11	13	12	13	13
+883	France		Simon Banza	 RC Lens	23	€ 900K	11	11	10	11	10	12	14
+884	France		Adrien Lebeau	 Strasbourg	21	€ 700K	12	12	8	13	11	10	13
+885	France		Charles Boli	 RC Lens	21	€ 600K	10	11	8	13	11	10	12
+886	Senegal		Dion LopyDM	 Reims	18	€ 300K	11	11	10	12	11	10	9
+887	France		Jessy Moulin	 AS Saint-Étie	34	€ 600K	12	12	7	6	10	12	8
+888	France		Ferris N'GomaDM	 Stade Brestoi	27	€ 1.0M	11	10	8	12	11	12	14
+889	France		Sacha BoeyDR	 Dijon FCO	19	€ 600K	11	9	10	11	11	11	12
+890	France		Mehdi Chahiri	 Strasbourg	24	€ 500K	11	12	9	13	11	12	14
+891	Slovenia		Denis Petric	 FC Nantes	32	€ 800K	11	12	9	6	10	12	8
+892	South Ko		Yun Il-Lok	 Montpellier H	28	€ 1.0M	12	11	9	13	12	12	13
+893	France		Youssef Maziz	 FC Metz	22	€ 700K	12	12	9	13	12	11	13
+894	Cameroon		Yvan Neyou	 AS Saint-Étie	23	€ 600K	10	11	9	12	10	12	13
+895	Senegal		Lamine Guèye	 FC Metz	22	€ 600K	12	12	9	13	11	11	13
+896	Belgium		Thibault De SmetDLDM	 Reims	22	€ 700K	11	9	11	10	12	11	11
+897	France		Alpha SissokoDRDL	 AS Saint-Étie	23	€ 600K	12	10	12	10	11	13	11
+898	Italy		Cristian Battocchio	 Stade Brestoi	28	€ 600K	12	12	8	14	12	11	13
+899	Madagasc		Thomas FontaineDL	 FC Lorient	29	€ 1.0M	11	9	13	10	12	13	10
+900	Mozambiq		ReinildoDL	 Lille OSC	26	€ 700K	11	10	11	11	10	13	14
+901	France		Luca Dias	 Nîmes Olympiq	21	€ 500K	11	11	9	9	9	12	11
+902	France		Marc-Aurèle Caillard	 FC Metz	26	€ 900K	12	12	9	6	10	13	9
+903	France		Paul Delecroix	 FC Metz	31	€ 500K	12	12	7	6	10	12	9
+904	France		Dimitry Bertaud	 Montpellier H	22	€ 300K	11	12	7	8	10	12	8
+905	Guinea-B		Moreto Cassamá	 Reims	22	€ 600K	11	12	8	13	11	11	13
+906	Côte d'I		Thomas Touré	 Angers SCO	26	€ 600K	11	12	9	13	10	12	14
+907	France		Gäetan PaquiezDRDMDL	 Nîmes Olympiq	26	€ 1.0M	12	9	12	10	11	13	12
+908	Burkina 		Cyrille Bayala	 RC Lens	24	€ 600K	10	11	9	11	10	13	14
+909	Zimbabwe		Marshall MunetsiDM	 Reims	24	€ 600K	11	10	12	11	11	12	10
+910	France		Florian Sotoca	 RC Lens	29	€ 900K	12	11	10	11	12	13	13
+911	France		Eric Junior Dina Ebimbe	 Dijon FCO	19	€ 300K	10	10	9	11	9	12	10
+912	Côte d'I		Sinaly Diomandé	 Lyon	19	€ 500K	11	8	12	10	11	12	10
+913	Mali		Adama Traoré	 FC Metz	25	€ 600K	9	10	9	12	10	11	14
+914	France		Matthieu Dreyer	 FC Lorient	31	€ 700K	12	11	8	7	10	14	10
+915	France		Jérôme HergaultDLDR	 FC Lorient	34	€ 80.0K	11	9	11	10	12	13	11
+916	Algeria		Karim Aribi	 Nîmes Olympiq	26	€ 900K	11	11	11	12	10	12	11
+917	France		Mahamé SibyDM	 Strasbourg	24	€ 300K	11	8	14	11	11	12	11
+918	France		Jérémy Le Douaron	 Stade Brestoi	22	€ 300K	10	11	11	13	9	12	12
+919	Austria		Flavius DaniliucDLDRDM	 OGC Nice	19	€ 200K	10	8	10	11	9	12	11
+920	Republic		Deji Sotona	 OGC Nice	17	€ 60.0K	7	7	6	9	7	12	14
+921	Cameroon		Franklin WadjaDM	 FC Lorient	25	€ 500K	12	9	13	10	12	12	9
+922	France		Over Mandanda	 Bordeaux	21	€ 100K	10	10	7	6	10	9	10
+923	France		Samy BenchamaDM	 Montpellier H	20	€ 200K	11	9	10	12	12	11	11
+924	Senegal		Pape Ndiaga Yade	 FC Metz	20	€ 500K	11	12	10	12	11	11	12
+925	France		Hianga'a MbockDM	 Stade Brestoi	20	€ 300K	12	9	13	11	11	12	10
+926	France		Lucas Gourna DouathDM	 AS Saint-Étie	16	€ 100K	8	9	9	11	8	11	12
+927	Guinea		Saidou Sow	 AS Saint-Étie	18	€ 100K	8	6	12	7	9	10	9
+928	Senegal		Dialy N'Diaye	 Reims	21	€ 100K	10	11	7	5	8	9	9
+929	France		Kelyan GuessoumDRDM	 Nîmes Olympiq	21	€ 100K	8	7	8	7	8	11	12
+930	France		Maxence Rivera	 AS Saint-Étie	18	€ 100K	8	9	8	12	9	11	13
+931	France		Thibaut VargasDR	 Montpellier H	20	€ 200K	11	8	10	11	10	11	11
+932	France		Lévi Ntumba	 Dijon FCO	19	€ 50.0K	8	9	6	3	7	10	10
+933	France		Aïmen MoueffekDM	 AS Saint-Étie	19	€ 100K	9	8	10	10	10	11	12
+934	France		Yehvann Diouf	 Reims	20	€ 100K	10	11	9	8	10	10	8
+935	France		Thibault TamasDL	 Montpellier H	19	€ 100K	9	6	11	8	9	11	10
+936	Guadelou		Davy Rouyard	 Bordeaux	20	€ 50.0K	9	11	7	5	8	10	7
+937	Cameroon		Wilitty Younoussa	 Dijon FCO	18	€ 100K	9	10	9	11	10	10	9
+938	Côte d'I		Jean-Philippe Krasso	 AS Saint-Étie	23	€ 200K	10	10	9	10	10	11	11
+939	Benin		Mattéo AhlinviDM	 Nîmes Olympiq	21	€ 100K	10	10	11	11	9	10	10
+940	Cameroon		Ahmad NgouyamsaDR	 Dijon FCO	19	€ 80.0K	10	9	9	11	11	9	9
+941	France		Thierno DialloDL	 AS Saint-Étie	17	€ 10.0K	8	5	10	7	9	9	9
+942	Nigeria		Victor Osimhen	 Napoli	21	€ 30.0M	13	12	11	13	13	15	16
+943	Armenia		Henrikh Mkhitaryan	 Roma	31	€ 20.0M	13	14	8	16	13	13	15
+944	Croatia		Marcelo BrozovicDM	 Inter	27	€ 30.0M	13	13	12	15	14	14	12
+945	France		Theo HernándezDL	 Milan	22	€ 30.0M	13	13	13	14	13	15	16
+946	Spain		Pedro	 Roma	33	€ 10.0M	13	14	7	15	13	12	15
+947	Slovenia		Josip Ilicic	 Atalanta	32	€ 20.0M	14	16	9	17	13	13	14
+948	Colombia		Duván Zapata	 Atalanta	29	€ 40.0M	14	12	11	13	13	15	14
+949	Uruguay		Diego Godín	 Cagliari	34	€ 2.0M	14	8	15	11	14	13	10
+950	Greece		Kostas Manolas	 Napoli	29	€ 30.0M	12	8	16	10	13	15	13
+951	Italy		Lorenzo Pellegrini	 Roma	24	€ 20.0M	13	14	10	15	13	13	14
+952	Italy		Alessandro Bastoni	 Inter	21	€ 20.0M	14	10	15	13	13	14	13
+953	Poland		Piotr Zielinski	 Napoli	26	€ 30.0M	13	15	10	16	13	13	14
+954	Italy		Francesco Acerbi	 Lazio	32	€ 20.0M	14	9	16	11	15	15	10
+955	Spain		Pepe Reina	 Lazio	37	€ 700K	13	14	10	9	12	14	8
+956	Algeria		Ismaël BennacerDM	 Milan	22	€ 20.0M	14	13	12	16	14	13	15
+957	Côte d'I		Franck KessiéDM	 Milan	23	€ 20.0M	13	11	14	12	14	15	14
+958	Croatia		Ivan Perisic	 Inter	31	€ 20.0M	13	14	12	14	12	14	14
+959	Germany		Sami KhediraDM	 Zebre	33	€ 5.0M	13	12	14	13	15	11	10
+960	Italy		Stefano SensiDM	 Inter	24	€ 20.0M	14	15	9	16	14	11	14
+961	Poland		Arkadiusz Milik	 Napoli	26	€ 20.0M	14	13	11	13	13	14	14
+962	Wales		Aaron Ramsey	 Zebre	29	€ 20.0M	14	14	10	15	14	13	14
+963	Italy		Alessio Romagnoli	 Milan	25	€ 20.0M	13	8	15	12	13	14	11
+964	Serbia		Nikola MilenkovicDR	 Fiorentina	22	€ 10.0M	13	9	15	11	13	15	12
+965	Italy		Gaetano Castrovilli	 Fiorentina	23	€ 10.0M	14	14	12	15	14	14	15
+966	Argentin		Joaquín Correa	 Lazio	25	€ 30.0M	12	14	8	16	13	13	16
+967	Mexico		Hirving Lozano	 Napoli	25	€ 20.0M	13	14	8	15	12	13	15
+968	Italy		Andrea Belotti	 Torino	26	€ 20.0M	14	12	11	12	14	15	13
+969	Brazil		Luiz Felipe	 Lazio	23	€ 20.0M	13	8	15	11	14	15	12
+970	Italy		Manuel LocatelliDM	 Sassuolo	22	€ 10.0M	13	12	13	15	14	14	13
+971	France		Jordan VeretoutDM	 Roma	27	€ 20.0M	14	14	11	14	13	14	14
+972	Italy		Alex Meret	 Napoli	23	€ 10.0M	12	14	10	7	10	14	11
+973	Italy		Sandro TonaliDM	 Milan	20	€ 10.0M	13	13	12	15	14	13	13
+974	Portugal		Rafael Leão	 Milan	21	€ 20.0M	12	13	10	14	11	15	16
+975	Spain		José Callejón	 Fiorentina	33	€ 5.0M	13	14	9	15	14	13	14
+976	Brazil		Lucas LeivaDM	 Lazio	33	€ 5.0M	13	11	14	14	15	12	11
+977	Brazil		DaniloDLDR	 Zebre	29	€ 20.0M	13	12	13	13	13	14	13
+978	Colombia		Luis Muriel	 Atalanta	29	€ 20.0M	13	15	9	16	12	14	16
+979	Germany		Robin GosensDL	 Atalanta	26	€ 20.0M	14	13	13	13	14	14	14
+980	Turkey		Hakan Çalhanoglu	 Milan	26	€ 20.0M	13	15	10	15	13	12	13
+981	Côte d'I		Jeremie Boga	 Sassuolo	23	€ 20.0M	12	14	6	15	11	13	17
+982	Brazil		Ibañez	 Roma	21	€ 8.0M	13	9	14	13	13	13	14
+983	United S		Weston McKennieDM	 Zebre	21	€ 20.0M	13	11	14	12	14	15	13
+984	Macedoni		Eljif Elmas	 Napoli	20	€ 10.0M	13	14	11	15	13	13	14
+985	Côte d'I		Gervinho	 Parma	33	€ 5.0M	12	13	8	14	11	14	16
+986	Albania		Thomas Strakosha	 Lazio	25	€ 10.0M	13	14	10	5	13	15	11
+987	Italy		Matteo Politano	 Napoli	26	€ 20.0M	14	15	8	15	12	13	15
+988	Italy		Domenico Berardi	 Sassuolo	26	€ 20.0M	14	14	9	14	13	13	14
+989	Italy		Salvatore Sirigu	 Torino	33	€ 9.0M	14	14	10	8	12	13	10
+990	Italy		Antonio Candreva	 Sampdoria	33	€ 5.0M	13	14	10	15	13	13	13
+991	Argentin		Rodrigo De Paul	 Udinese	26	€ 20.0M	14	15	9	16	13	13	15
+992	Argentin		Cristian Romero	 Atalanta	22	€ 10.0M	13	9	15	11	13	14	12
+993	Belgium		Alexis SaelemaekersDR	 Milan	21	€ 9.0M	12	12	10	13	12	13	14
+994	Croatia		Mario Pasalic	 Atalanta	25	€ 20.0M	13	13	12	14	13	13	13
+995	England		Chris Smalling	 Roma	30	€ 20.0M	13	6	16	9	12	15	12
+996	France		Tiémoué BakayokoDM	 Napoli	25	€ 30.0M	14	10	15	13	14	15	13
+997	Italy		Manuel LazzariDR	 Lazio	26	€ 20.0M	13	12	9	14	14	13	16
+998	Italy		Gianluca Mancini	 Roma	24	€ 10.0M	13	9	15	12	14	14	12
+999	Italy		Fabio Quagliarella	 Sampdoria	37	€ 1.0M	13	14	8	13	16	12	11
+1000	Ukraine		Ruslan Malinovskyi	 Atalanta	27	€ 20.0M	14	15	10	15	13	13	14
+1001	Colombia		David Ospina	 Napoli	31	€ 10.0M	13	14	8	9	11	13	9
+1002	Guinea		Amadou DiawaraDM	 Roma	23	€ 10.0M	14	10	13	15	13	14	14
+1003	Albania		Marash Kumbulla	 Roma	20	€ 7.0M	12	7	15	10	12	13	10
+1004	Italy		Federico Bernardeschi	 Zebre	26	€ 20.0M	13	13	11	14	12	14	14
+1005	Italy		Pierluigi Gollini	 Atalanta	25	€ 10.0M	14	14	9	8	12	14	10
+1006	Italy		Riccardo Orsolini	 Bologna	23	€ 10.0M	13	13	10	14	13	14	15
+1007	Netherla		Marten de RoonDM	 Atalanta	29	€ 20.0M	13	10	15	12	15	14	12
+1008	Uruguay		Nahitan Nández	 Cagliari	24	€ 10.0M	13	12	12	12	15	14	14
+1009	Denmark		Simon Kjær	 Milan	31	€ 10.0M	13	8	15	11	13	13	11
+1010	Italy		Leonardo SpinazzolaDLDR	 Roma	27	€ 20.0M	12	12	12	15	12	14	16
+1011	Italy		Giovanni Di LorenzoDLDR	 Napoli	26	€ 20.0M	13	11	13	12	13	14	13
+1012	Spain		Fernando Llorente	 Napoli	35	€ 600K	14	12	13	13	14	13	9
+1013	Switzerl		Remo FreulerDM	 Atalanta	28	€ 20.0M	14	12	12	14	14	13	14
+1014	Serbia		Aleksandar KolarovDL	 Inter	34	€ 1.0M	14	15	14	14	14	14	12
+1015	Argentin		Juan Musso	 Udinese	26	€ 10.0M	13	14	9	7	11	13	11
+1016	Kosovo		Vedat Muriqi	 Lazio	26	€ 10.0M	13	12	12	12	14	14	12
+1017	Morocco		Sofyan AmrabatDM	 Fiorentina	23	€ 10.0M	13	12	12	14	14	13	14
+1018	Bosnia a		Senad LulicDL	 Lazio	34	€ 1.0M	13	12	12	13	15	13	13
+1019	Croatia		Ante Rebic	 Milan	26	€ 20.0M	13	12	10	12	13	14	15
+1020	England		Ashley YoungDLDR	 Inter	35	€ 900K	13	12	11	13	12	13	13
+1021	Italy		Francesco Caputo	 Sassuolo	32	€ 8.0M	13	13	9	14	14	14	13
+1022	Poland		Bartlomiej Dragowski	 Fiorentina	22	€ 7.0M	12	14	9	6	11	13	9
+1023	Romania		Stefan RaduDL	 Lazio	33	€ 4.0M	13	10	14	11	15	13	11
+1024	Slovakia		Stanislav LobotkaDM	 Napoli	25	€ 10.0M	13	11	11	15	13	13	14
+1025	Italy		Roberto GagliardiniDM	 Inter	26	€ 10.0M	14	11	15	13	13	15	12
+1026	Italy		Marco ParoloDM	 Lazio	35	€ 1.0M	14	13	13	13	15	13	10
+1027	Italy		Giacomo Bonaventura	 Fiorentina	30	€ 9.0M	13	14	11	14	14	13	13
+1028	Norway		Jens Petter Hauge	 Milan	20	€ 7.0M	13	13	9	14	12	13	15
+1029	Argentin		Rodrigo Palacio	 Bologna	38	€ 600K	13	13	9	16	14	12	14
+1030	Gambia		Musa Barrow	 Bologna	21	€ 9.0M	12	13	9	14	12	14	15
+1031	Japan		Takehiro TomiyasuDR	 Bologna	21	€ 6.0M	12	11	13	13	13	14	13
+1032	Italy		Roberto Soriano	 Bologna	29	€ 10.0M	13	14	10	15	13	12	13
+1033	Italy		Alessio Cragno	 Cagliari	26	€ 10.0M	12	14	8	8	11	11	10
+1034	Italy		Luca PellegriniDL	 Genoa	21	€ 6.0M	13	11	12	13	13	13	14
+1035	Portugal		Bruno Alves	 Parma	38	€ 500K	13	11	14	11	14	13	9
+1036	Spain		Brahim Díaz	 Milan	20	€ 10.0M	12	13	7	15	12	12	16
+1037	Argentin		José Luis Palomino	 Atalanta	30	€ 10.0M	14	8	15	11	13	14	13
+1038	Brazil		Rafael Tolói	 Atalanta	29	€ 20.0M	13	10	14	13	14	14	13
+1039	Ecuador		Felipe Caicedo	 Lazio	31	€ 10.0M	14	12	11	14	14	14	13
+1040	Germany		Diego DemmeDM	 Napoli	28	€ 10.0M	12	10	12	12	14	14	12
+1041	Netherla		Hans HateboerDR	 Atalanta	26	€ 20.0M	13	10	14	11	13	15	14
+1042	Portugal		Adrien SilvaDM	 Sampdoria	31	€ 5.0M	13	12	12	13	14	12	12
+1043	Spain		Borja Valero	 Fiorentina	35	€ 600K	13	14	9	16	14	11	10
+1044	Serbia		Dušan Vlahovic	 Fiorentina	20	€ 7.0M	13	12	11	12	13	14	13
+1045	Uruguay		Matías VecinoDM	 Inter	28	€ 10.0M	14	12	14	12	14	15	13
+1046	Russia		Alexey Miranchuk	 Atalanta	24	€ 10.0M	13	14	9	16	12	12	14
+1047	Spain		Gerard Deulofeu	 Udinese	26	€ 30.0M	12	15	8	15	11	12	15
+1048	Argentin		Germán Pezzella	 Fiorentina	29	€ 10.0M	14	9	15	10	14	13	10
+1049	Monteneg		Adam MarusicDR	 Lazio	27	€ 10.0M	12	11	12	12	13	14	14
+1050	Italy		Matteo PessinaDM	 Atalanta	23	€ 9.0M	13	12	12	14	14	13	13
+1051	Portugal		Miguel VelosoDM	 Hellas Verona	34	€ 900K	14	13	12	14	14	12	12
+1052	Spain		Carles Pérez	 Roma	22	€ 9.0M	12	13	8	16	11	12	16
+1053	Albania		Elseid HysajDLDR	 Napoli	26	€ 7.0M	13	10	13	12	12	14	14
+1054	Italy		Bryan CristanteDM	 Roma	25	€ 10.0M	13	13	13	15	12	14	11
+1055	Italy		Danilo D'AmbrosioDR	 Inter	31	€ 6.0M	13	11	14	12	13	13	13
+1056	Macedoni		Goran Pandev	 Genoa	37	€ 300K	14	14	9	15	14	11	11
+1057	Spain		Samu Castillejo	 Milan	25	€ 10.0M	12	13	9	14	12	12	15
+1058	Argentin		Mateo Musacchio	 Milan	29	€ 7.0M	13	9	14	12	13	14	12
+1059	Italy		Mattia Perin	 Genoa	27	€ 7.0M	12	14	9	5	10	12	11
+1060	Serbia		Nikola MaksimovicDR	 Napoli	28	€ 8.0M	13	10	15	12	13	14	12
+1061	Argentin		Gonzalo EscalanteDM	 Lazio	27	€ 10.0M	13	11	13	13	13	13	12
+1062	Uruguay		Martín CáceresDLDR	 Fiorentina	33	€ 2.0M	12	10	14	12	14	14	12
+1063	Albania		Berat DjimsitiDLDR	 Atalanta	27	€ 10.0M	13	8	15	10	12	14	11
+1064	Italy		Armando IzzoDR	 Torino	28	€ 10.0M	14	9	14	12	13	14	13
+1065	Italy		Mattia Caldara	 Atalanta	26	€ 9.0M	12	8	15	11	12	13	11
+1066	Italy		Mattia Zaccagni	 Hellas Verona	25	€ 7.0M	13	13	10	14	13	13	14
+1067	Switzerl		Ricardo RodríguezDL	 Torino	27	€ 7.0M	13	12	12	13	12	13	12
+1068	Turkey		Mert MüldürDR	 Sassuolo	21	€ 5.0M	13	11	13	13	12	14	14
+1069	Argentin		Giovanni Simeone	 Cagliari	24	€ 10.0M	13	12	11	13	13	13	13
+1070	Argentin		Lucas Martínez Quarta	 Fiorentina	24	€ 8.0M	13	9	14	12	13	13	13
+1071	Denmark		Andreas Cornelius	 Parma	27	€ 9.0M	13	11	12	13	13	14	11
+1072	Italy		Davide CalabriaDLDR	 Milan	23	€ 8.0M	12	10	12	12	12	13	14
+1073	Italy		Domenico CriscitoDL	 Genoa	33	€ 2.0M	13	11	12	11	13	13	12
+1074	Netherla		Sam Lammers	 Atalanta	23	€ 8.0M	13	13	10	13	12	13	13
+1075	Spain		Iago Falqué	 Benevento	30	€ 7.0M	13	15	7	16	12	11	14
+1076	Argentin		Federico Fazio	 Roma	33	€ 2.0M	12	9	15	13	12	13	10
+1077	Algeria		Mohamed FaresDL	 Lazio	24	€ 9.0M	13	12	12	14	13	14	14
+1078	Algeria		Faouzi GhoulamDL	 Napoli	29	€ 8.0M	13	13	13	14	13	12	13
+1079	Cameroon		Nicolas Nkoulou	 Torino	30	€ 6.0M	13	9	14	12	13	14	13
+1080	Côte d'I		Christian Kouamé	 Fiorentina	22	€ 8.0M	12	12	9	12	12	14	16
+1081	Côte d'I		Hamed Junior Traoré	 Sassuolo	20	€ 5.0M	12	13	9	14	12	13	14
+1082	Croatia		Nikola Kalinic	 Hellas Verona	32	€ 5.0M	13	12	11	13	13	14	13
+1083	Croatia		Marko Rog	 Cagliari	25	€ 9.0M	14	13	11	14	12	14	15
+1084	France		Kévin MalcuitDR	 Napoli	29	€ 8.0M	13	11	13	13	13	13	14
+1085	Slovakia		Juraj KuckaDM	 Parma	33	€ 3.0M	13	12	13	13	14	14	12
+1086	Spain		Gonzalo Villar	 Roma	22	€ 6.0M	12	13	10	16	12	13	13
+1087	Argentin		Nicolás DomínguezDM	 Bologna	22	€ 6.0M	13	13	11	15	13	13	13
+1088	Brazil		João Pedro	 Cagliari	28	€ 10.0M	13	14	10	14	12	14	14
+1089	Kosovo		Amir RrahmaniDR	 Napoli	26	€ 6.0M	13	7	15	9	13	13	11
+1090	Senegal		Keita Baldé	 Sampdoria	25	€ 10.0M	12	13	9	14	11	14	15
+1091	France		Maxime LopezDM	 Sassuolo	22	€ 7.0M	13	13	8	16	12	12	15
+1092	Italy		Andrea ContiDR	 Milan	26	€ 9.0M	13	11	13	13	12	13	14
+1093	Italy		Andrea Petagna	 Napoli	25	€ 9.0M	13	12	11	14	13	15	12
+1094	Italy		Simone Verdi	 Torino	28	€ 9.0M	13	14	6	15	12	12	14
+1095	Portugal		Mário RuiDL	 Napoli	29	€ 8.0M	13	12	11	13	13	13	15
+1096	Chile		Gary MedelDM	 Bologna	32	€ 3.0M	12	8	13	11	14	13	12
+1097	Colombia		Cristián Zapata	 Genoa	33	€ 1.0M	12	7	15	9	12	15	12
+1098	Croatia		Milan BadeljDM	 Genoa	31	€ 5.0M	13	12	12	14	13	12	12
+1099	Italy		Davide ZappacostaDR	 Genoa	28	€ 20.0M	13	11	13	12	13	14	14
+1100	Italy		Nicola Sansone	 Bologna	28	€ 7.0M	12	13	8	13	12	12	14
+1101	Argentin		Cristian AnsaldiDLDR	 Torino	33	€ 1.0M	13	13	11	14	13	12	13
+1102	Argentin		Roberto Pereyra	 Udinese	29	€ 7.0M	13	14	9	15	12	12	14
+1103	Chile		Erick PulgarDM	 Fiorentina	26	€ 10.0M	13	13	14	13	13	14	13
+1104	Italy		Luigi Sepe	 Parma	29	€ 7.0M	13	14	9	7	11	13	10
+1105	Italy		Cristiano BiraghiDL	 Fiorentina	27	€ 9.0M	13	12	12	12	12	14	13
+1106	Italy		Matteo DarmianDLDR	 Inter	30	€ 8.0M	13	8	14	12	12	14	12
+1107	Italy		Patrick Cutrone	 Fiorentina	22	€ 20.0M	13	11	10	11	13	14	14
+1108	Poland		Kamil Glik	 Benevento	32	€ 3.0M	13	9	15	9	14	13	9
+1109	Spain		Pau López	 Roma	25	€ 7.0M	12	13	9	9	11	13	11
+1110	Sweden		Mattias Svanberg	 Bologna	21	€ 4.0M	13	12	10	14	12	13	14
+1111	Brazil		Bremer	 Torino	23	€ 7.0M	12	8	15	11	12	14	12
+1112	Italy		Roberto Inglese	 Parma	28	€ 9.0M	13	12	10	13	13	14	13
+1113	Italy		Cristiano PicciniDR	 Atalanta	27	€ 10.0M	13	11	13	13	13	14	14
+1114	Italy		Manolo Gabbiadini	 Sampdoria	28	€ 8.0M	13	14	10	14	12	13	13
+1115	Italy		Rolando MandragoraDM	 Udinese	23	€ 7.0M	13	12	12	14	14	13	13
+1116	Italy		Andrea Ranocchia	 Inter	32	€ 2.0M	12	8	15	10	12	14	10
+1117	Romania		Ionut Radu	 Inter	23	€ 5.0M	13	13	9	8	11	13	11
+1118	Spain		Borja Mayoral	 Roma	23	€ 10.0M	13	13	10	14	13	13	13
+1119	Serbia		Filip Djuricic	 Sassuolo	28	€ 10.0M	12	14	8	15	12	12	14
+1120	Serbia		Sasa LukicDM	 Torino	23	€ 7.0M	13	13	12	14	13	13	13
+1121	Côte d'I		Jean-Daniel Akpa AkproDM	 Lazio	27	€ 8.0M	13	12	13	13	14	13	14
+1122	Germany		Jeremy ToljanDLDR	 Sassuolo	25	€ 6.0M	11	10	11	13	11	14	15
+1123	Italy		Antonio Mirante	 Roma	37	€ 500K	13	14	10	7	12	12	8
+1124	Italy		Davide SantonDLDRDM	 Roma	29	€ 6.0M	12	11	12	13	12	14	14
+1125	Italy		Simone Zaza	 Torino	29	€ 6.0M	14	12	11	13	14	14	13
+1126	Poland		Karol LinettyDM	 Torino	25	€ 8.0M	13	12	11	13	13	13	13
+1127	Spain		PatricDRDL	 Lazio	27	€ 9.0M	13	10	13	13	15	13	13
+1128	Spain		Pol LirolaDR	 Fiorentina	22	€ 7.0M	12	11	11	13	12	13	15
+1129	Italy		Leonardo Pavoletti	 Cagliari	31	€ 6.0M	12	10	11	12	13	13	11
+1130	Italy		Danilo CataldiDM	 Lazio	25	€ 8.0M	13	13	11	13	14	13	12
+1131	Italy		Andrea Pinamonti	 Inter	21	€ 4.0M	12	11	10	12	11	14	13
+1132	Serbia		Darko LazovicDL	 Hellas Verona	29	€ 8.0M	12	13	10	13	12	13	15
+1133	Brazil		Andreas Pereira	 Lazio	24	€ 20.0M	13	14	7	14	11	12	14
+1134	Italy		Kevin Lasagna	 Udinese	27	€ 8.0M	12	12	11	12	13	13	15
+1135	Netherla		Rick KarsdorpDR	 Roma	25	€ 7.0M	13	11	11	14	13	13	14
+1136	Romania		Vlad Chiriches	 Sassuolo	30	€ 5.0M	13	10	14	13	13	12	11
+1137	Romania		Razvan MarinDM	 Cagliari	24	€ 7.0M	13	13	12	13	13	13	13
+1138	Brazil		Lyanco	 Torino	23	€ 6.0M	13	8	14	12	12	14	13
+1139	Uruguay		Gastón Ramírez	 Sampdoria	29	€ 6.0M	12	14	10	15	13	13	13
+1140	Venezuel		Tomás RincónDM	 Torino	32	€ 4.0M	13	9	14	13	14	14	13
+1141	Algeria		Adam Ounas	 Cagliari	23	€ 7.0M	11	13	7	14	11	12	16
+1142	Denmark		Andreas Skov Olsen	 Bologna	20	€ 3.0M	12	13	9	14	11	12	13
+1143	Estonia		Ragnar Klavan	 Cagliari	34	€ 400K	13	9	14	12	13	14	11
+1144	Italy		Marco Silvestri	 Hellas Verona	29	€ 5.0M	13	13	9	6	12	13	10
+1145	Italy		Emil Audero	 Sampdoria	23	€ 4.0M	13	13	8	6	12	14	10
+1146	Italy		Sebastiano LupertoDL	 Crotone	23	€ 5.0M	12	8	14	10	12	14	12
+1147	Italy		Eddie Salcedo	 Hellas Verona	18	€ 3.0M	12	12	9	13	11	13	14
+1148	Netherla		Jerdy SchoutenDM	 Bologna	23	€ 5.0M	12	12	12	14	13	12	13
+1149	Ghana		Alfred DuncanDM	 Fiorentina	27	€ 8.0M	13	12	13	13	13	14	14
+1150	France		Wylan CyprienDM	 Parma	25	€ 7.0M	13	13	10	14	12	13	14
+1151	Italy		Davide FaraoniDR	 Hellas Verona	28	€ 8.0M	12	11	12	12	13	13	13
+1152	Italy		Stefano SturaroDM	 Genoa	27	€ 6.0M	12	11	13	11	14	13	13
+1153	Italy		Riccardo Sottil	 Cagliari	21	€ 4.0M	12	12	9	13	11	13	14
+1154	Italy		Christian MaggioDR	 Benevento	38	€ 200K	12	10	13	12	13	12	11
+1155	Romania		Ciprian Tatarusanu	 Milan	34	€ 3.0M	13	14	10	7	11	14	9
+1156	Slovenia		Jasmin Kurtic	 Parma	31	€ 6.0M	13	14	12	14	14	13	12
+1157	Turkey		Mert Çetin	 Hellas Verona	23	€ 4.0M	13	8	14	11	12	14	13
+1158	Brazil		JesusDL	 Roma	29	€ 4.0M	12	9	15	11	12	15	13
+1159	Brazil		RogérioDL	 Sassuolo	22	€ 5.0M	13	12	11	13	13	13	15
+1160	Croatia		Marko Pjaca	 Genoa	25	€ 6.0M	12	14	10	15	11	13	14
+1161	Czech Re		Antonin Barak	 Hellas Verona	25	€ 5.0M	13	13	13	14	13	14	12
+1162	France		Soualiho MeitéDM	 Torino	26	€ 7.0M	13	12	13	14	13	14	14
+1163	Italy		Lorenzo De SilvestriDR	 Bologna	32	€ 4.0M	13	9	14	11	13	14	12
+1164	Italy		Matteo Gabbia	 Milan	20	€ 4.0M	12	9	13	11	12	13	12
+1165	Netherla		Wesley Hoedt	 Lazio	26	€ 20.0M	13	11	15	12	14	14	11
+1166	Portugal		Diogo DalotDRDL	 Milan	21	€ 10.0M	13	11	10	13	12	13	14
+1167	Brazil		HernâniDM	 Parma	26	€ 8.0M	13	12	13	13	12	13	12
+1168	Brazil		Bruno PeresDRDL	 Roma	30	€ 5.0M	11	13	10	15	10	13	16
+1169	Japan		Maya Yoshida	 Sampdoria	31	€ 4.0M	13	10	14	10	13	14	12
+1170	France		Grégoire Defrel	 Sassuolo	29	€ 6.0M	12	12	9	14	12	13	15
+1171	Italy		Daniele BaselliDM	 Torino	28	€ 7.0M	13	14	10	14	13	12	13
+1172	Italy		Andrea Consigli	 Sassuolo	33	€ 3.0M	13	13	8	8	12	13	10
+1173	Italy		Tommaso PobegaDM	 Spezia	21	€ 3.0M	12	10	13	11	12	13	12
+1174	Italy		Federico Marchetti	 Genoa	37	€ 100K	12	13	8	7	12	12	8
+1175	Slovakia		Denis Vavro	 Lazio	24	€ 5.0M	12	9	15	9	12	14	10
+1176	Sweden		Albin EkdalDM	 Sampdoria	31	€ 4.0M	12	11	12	14	14	13	11
+1177	Switzerl		Valon BehramiDM	 Genoa	35	€ 300K	13	10	13	12	14	13	12
+1178	Colombia		Johan MojicaDL	 Atalanta	27	€ 5.0M	12	12	11	13	12	14	15
+1179	Bosnia a		Rade Krunic	 Milan	26	€ 7.0M	13	13	12	14	13	14	14
+1180	England		Ronaldo VieiraDM	 Hellas Verona	21	€ 4.0M	12	11	11	13	12	13	13
+1181	Germany		Julian Chabot	 Spezia	22	€ 3.0M	12	8	14	11	11	13	10
+1182	Italy		Marco Benassi	 Hellas Verona	25	€ 7.0M	13	12	11	13	13	13	13
+1183	Italy		Andrea Masiello	 Genoa	34	€ 600K	13	8	14	11	13	13	11
+1184	Italy		Luca CigariniDM	 Crotone	34	€ 900K	13	12	11	14	14	11	11
+1185	Italy		Lorenzo Tonelli	 Sampdoria	30	€ 4.0M	13	8	14	9	13	14	11
+1186	Italy		Mattia Destro	 Genoa	29	€ 4.0M	12	12	10	12	12	12	13
+1187	Italy		Giacomo Raspadori	 Sassuolo	20	€ 3.0M	12	12	7	13	12	12	14
+1188	Netherla		Jeroen Zoet	 Spezia	29	€ 5.0M	13	14	8	8	12	13	9
+1189	Sweden		Riccardo GaglioloDL	 Parma	30	€ 6.0M	13	10	14	11	13	14	13
+1190	Brazil		Rodrigo Becão	 Udinese	24	€ 5.0M	13	7	14	9	13	14	11
+1191	Czech Re		Jakub Jankto	 Sampdoria	24	€ 5.0M	13	13	11	13	13	13	14
+1192	Italy		Marco Sportiello	 Atalanta	28	€ 4.0M	13	14	8	6	11	13	9
+1193	Norway		Morten ThorsbyDM	 Sampdoria	24	€ 6.0M	12	10	14	11	14	15	12
+1194	Turkey		Kaan AyhanDR	 Sassuolo	25	€ 5.0M	13	11	13	12	13	12	11
+1195	Argentin		Lautaro Valenti	 Parma	21	€ 3.0M	12	10	14	11	12	14	12
+1196	Brazil		IgorDL	 Fiorentina	22	€ 4.0M	12	10	13	12	12	14	13
+1197	France		Yann Karamoh	 Parma	22	€ 4.0M	11	12	9	14	10	13	15
+1198	France		Jean-Victor MakengoDM	 Udinese	22	€ 3.0M	13	11	11	13	12	13	14
+1199	Italy		Gianluca Caprari	 Benevento	27	€ 7.0M	13	14	7	14	12	12	15
+1200	Italy		Gian Marco Ferrari	 Sassuolo	28	€ 5.0M	12	9	14	11	12	13	11
+1201	Italy		Federico Bonazzoli	 Torino	23	€ 5.0M	13	13	10	13	13	13	13
+1202	Italy		Matteo Lovato	 Hellas Verona	20	€ 1.0M	12	7	14	10	12	13	10
+1203	Brazil		Danilo	 Bologna	36	€ 300K	12	8	14	10	13	13	11
+1204	Brazil		Léo Duarte	 Milan	24	€ 4.0M	13	10	14	12	12	13	13
+1205	Senegal		Mamadou CoulibalyDM	 Udinese	21	€ 3.0M	12	10	12	12	13	14	13
+1206	Bosnia a		Amer Gojak	 Torino	23	€ 2.0M	13	12	11	13	13	14	12
+1207	Denmark		Mikkel Damsgaard	 Sampdoria	20	€ 4.0M	12	13	7	14	12	11	13
+1208	Greece		Giorgos KyriakopoulosDL	 Sassuolo	24	€ 4.0M	13	12	12	13	12	13	14
+1209	Italy		Davide BiraschiDR	 Genoa	26	€ 6.0M	13	9	14	10	13	14	13
+1210	Italy		Andrea PoliDM	 Bologna	30	€ 4.0M	13	11	12	13	14	12	13
+1211	Italy		Giuseppe PezzellaDL	 Parma	22	€ 3.0M	12	10	12	11	12	14	13
+1212	Italy		Paolo GhiglioneDR	 Genoa	23	€ 3.0M	12	12	13	12	12	13	13
+1213	Italy		Emanuel Vignato	 Bologna	19	€ 2.0M	12	13	7	14	12	11	13
+1214	Netherla		Mitchell DijksDL	 Bologna	27	€ 7.0M	13	10	14	13	13	15	13
+1215	Romania		Denis Dragus	 Crotone	21	€ 2.0M	12	12	9	14	11	12	14
+1216	Italy		Fabio DepaoliDR	 Atalanta	23	€ 6.0M	12	11	10	12	12	13	13
+1217	Italy		Riccardo Saponara	 Fiorentina	28	€ 4.0M	12	14	9	15	12	12	13
+1218	Italy		Lorenzo Montipò	 Benevento	24	€ 2.0M	12	13	8	7	11	12	9
+1219	Italy		Marco Carnesecchi	 Atalanta	20	€ 700K	12	12	8	7	11	13	8
+1220	Poland		Lukasz Skorupski	 Bologna	29	€ 4.0M	13	12	9	7	12	14	11
+1221	Argentin		Lisandro Magallán	 Crotone	26	€ 6.0M	12	7	14	10	12	14	11
+1222	Uruguay		Gastón Pereiro	 Cagliari	25	€ 5.0M	13	14	10	16	11	14	14
+1223	France		Adrien TamezeDM	 Hellas Verona	26	€ 5.0M	13	11	12	13	13	14	13
+1224	Italy		Valerio Verre	 Sampdoria	26	€ 4.0M	12	13	10	13	13	12	13
+1225	Italy		Federico DimarcoDL	 Hellas Verona	22	€ 4.0M	12	12	10	12	12	13	13
+1226	Italy		Federico PelusoDL	 Sassuolo	36	€ 200K	12	8	14	10	13	13	11
+1227	Italy		Francesco CassataDM	 Genoa	23	€ 3.0M	12	12	12	13	13	12	13
+1228	Brazil		Marlon	 Sassuolo	24	€ 4.0M	13	10	14	12	12	13	12
+1229	Equatori		Pedro ObiangDM	 Sassuolo	28	€ 4.0M	13	11	13	13	13	13	11
+1230	Gambia		Omar Colley	 Sampdoria	27	€ 4.0M	12	8	14	9	12	15	11
+1231	Colombia		Kevin Agudelo	 Spezia	21	€ 3.0M	12	13	11	14	12	13	14
+1232	Peru		Gianluca Lapadula	 Benevento	30	€ 4.0M	13	12	10	12	14	13	13
+1233	Denmark		Jens Stryger LarsenDRDL	 Udinese	29	€ 5.0M	12	11	13	12	13	13	13
+1234	France		Koffi Djidji	 Crotone	27	€ 3.0M	12	8	14	11	12	13	12
+1235	Italy		Mattia Bani	 Genoa	26	€ 5.0M	13	9	14	11	12	13	11
+1236	Italy		Stefano Okaka	 Udinese	30	€ 4.0M	12	11	11	12	13	14	12
+1237	Italy		Tommaso AugelloDL	 Sampdoria	25	€ 4.0M	12	11	12	13	12	13	13
+1238	Italy		Gianluca Scamacca	 Genoa	21	€ 2.0M	11	11	9	12	11	13	11
+1239	Moldova		Artur IonitaDM	 Benevento	29	€ 6.0M	12	11	13	12	13	13	11
+1240	Brazil		SamirDL	 Udinese	25	€ 4.0M	12	10	14	11	12	13	13
+1241	Germany		Tolgay ArslanDM	 Udinese	29	€ 4.0M	12	12	11	14	12	13	13
+1242	Italy		Simone IacoponiDR	 Parma	33	€ 2.0M	12	10	14	11	13	13	11
+1243	Italy		Luca CaldirolaDL	 Benevento	29	€ 3.0M	12	8	14	10	12	12	11
+1244	Italy		Alberto GrassiDM	 Parma	25	€ 4.0M	13	11	12	12	13	13	12
+1245	Italy		Filippo MelegoniDM	 Genoa	21	€ 2.0M	12	12	11	13	12	12	12
+1246	Poland		Sebastian WalukiewiczDM	 Cagliari	20	€ 4.0M	12	9	14	11	12	14	12
+1247	Slovenia		Miha Zajc	 Genoa	26	€ 7.0M	12	14	9	14	12	12	13
+1248	Argentin		Ignacio Pussetto	 Udinese	24	€ 9.0M	11	12	8	13	10	13	15
+1249	Nigeria		Simy	 Crotone	28	€ 4.0M	12	11	11	12	12	13	11
+1250	Italy		Luca Ceppitelli	 Cagliari	30	€ 3.0M	12	8	14	9	12	13	9
+1251	Italy		Fabio PisacaneDLDR	 Cagliari	34	€ 300K	12	9	13	9	12	13	11
+1252	Italy		Gaetano LetiziaDLDR	 Benevento	30	€ 3.0M	12	12	11	13	12	12	14
+1253	Italy		Francesco MagnanelliDM	 Sassuolo	35	€ 300K	12	10	12	12	14	11	9
+1254	Italy		Elio Capradossi	 Spezia	24	€ 2.0M	12	7	13	11	11	13	12
+1255	Poland		Arkadiusz RecaDL	 Crotone	25	€ 4.0M	12	11	11	13	11	13	15
+1256	Denmark		Lasse SchöneDM	 Genoa	34	€ 400K	13	14	9	14	14	10	9
+1257	France		Sèbastien De Maio	 Udinese	33	€ 1.0M	12	8	14	10	12	14	11
+1258	Italy		Kevin Bonifazi	 Udinese	24	€ 4.0M	13	9	14	10	12	13	12
+1259	Netherla		Thomas OuwejanDL	 Udinese	23	€ 5.0M	12	11	11	13	12	12	13
+1260	Poland		Bartosz BereszynskiDR	 Sampdoria	28	€ 3.0M	12	10	13	11	13	14	13
+1261	Paraguay		Federico Santander	 Bologna	29	€ 5.0M	12	11	13	11	13	13	11
+1262	Belgium		Daam FoulonDL	 Benevento	21	€ 3.0M	12	11	13	12	12	13	13
+1263	France		Valentin Eysseric	 Fiorentina	28	€ 3.0M	12	13	8	15	11	12	14
+1264	Germany		Koray Günter	 Hellas Verona	25	€ 4.0M	12	8	14	10	12	13	11
+1265	Italy		Antonio BarrecaDL	 Fiorentina	25	€ 4.0M	12	11	12	12	12	13	14
+1266	Italy		Marco Sau	 Benevento	32	€ 1.0M	12	12	8	13	12	12	14
+1267	Italy		Andrea Favilli	 Hellas Verona	23	€ 3.0M	12	11	11	13	11	14	12
+1268	Italy		Gianluca FrabottaDL	 Zebre	21	€ 2.0M	12	9	12	11	12	13	13
+1269	Argentin		Juan Brunetta	 Parma	23	€ 3.0M	12	13	8	14	12	11	14
+1270	Burkina 		Bryan DaboDM	 Benevento	28	€ 4.0M	13	12	13	13	13	14	13
+1271	Uzbekist		Eldor Shomurodov	 Genoa	25	€ 4.0M	13	11	12	12	13	13	13
+1272	Finland		Përparim Hetemaj	 Benevento	33	€ 700K	13	11	12	13	14	13	13
+1273	France		Mehdi Léris	 Sampdoria	22	€ 3.0M	10	12	8	13	10	13	14
+1274	Italy		Pasquale SchiattarellaDM	 Benevento	33	€ 2.0M	13	12	12	13	14	12	13
+1275	Italy		Nicolas ViolaDM	 Benevento	30	€ 3.0M	13	15	10	14	13	11	13
+1276	Italy		Federico Ceccherini	 Hellas Verona	28	€ 4.0M	13	9	13	11	13	13	12
+1277	Netherla		Hidde ter AvestDR	 Udinese	23	€ 3.0M	12	11	12	11	13	13	12
+1278	Slovakia		Lukáš Haraslín	 Sassuolo	24	€ 3.0M	12	12	10	14	12	12	13
+1279	Serbia		Milos VulicDM	 Crotone	23	€ 3.0M	12	13	11	14	12	12	12
+1280	Brazil		Junior Messias	 Crotone	29	€ 3.0M	12	13	9	13	12	12	13
+1281	Uruguay		Gastón BrugmanDM	 Parma	27	€ 4.0M	13	13	11	14	13	12	13
+1282	Morocco		Mehdi BourabiaDM	 Sassuolo	28	€ 3.0M	13	13	11	13	13	13	12
+1283	Denmark		Lukas LeragerDM	 Genoa	27	€ 4.0M	12	11	13	12	13	13	11
+1284	France		Vincent LauriniDR	 Parma	31	€ 3.0M	12	10	12	12	12	13	13
+1285	Italy		Nicola MurruDL	 Torino	25	€ 4.0M	12	10	12	13	12	13	13
+1286	Italy		Giangiacomo Magnani	 Hellas Verona	24	€ 2.0M	12	7	14	9	12	13	10
+1287	Italy		Simone Scuffet	 Udinese	24	€ 1.0M	12	12	8	7	12	13	9
+1288	Colombia		Andrés Tello	 Benevento	24	€ 2.0M	12	11	13	12	12	13	14
+1289	Kosovo		Mërgim VojvodaDR	 Torino	25	€ 3.0M	13	11	13	12	13	13	13
+1290	Germany		Lennart CzyborraDL	 Genoa	21	€ 2.0M	12	10	12	12	12	14	12
+1291	Italy		Paolo FaragòDR	 Cagliari	27	€ 4.0M	12	12	13	13	12	13	13
+1292	Italy		Lorenzo VenutiDLDR	 Fiorentina	25	€ 3.0M	12	10	12	12	12	12	13
+1293	Italy		Jacopo PetriccioneDM	 Crotone	25	€ 3.0M	13	12	11	14	13	12	13
+1294	Italy		Gabriele ZappaDR	 Cagliari	20	€ 2.0M	12	11	13	12	12	13	12
+1295	Italy		Federico Ricci	 Sassuolo	26	€ 3.0M	12	13	7	13	11	12	13
+1296	Italy		Vincenzo Millico	 Torino	19	€ 2.0M	12	12	8	13	11	12	14
+1297	Uruguay		Christian OlivaDM	 Cagliari	24	€ 3.0M	13	11	11	12	13	12	12
+1298	Ghana		Emmanuel BaduDM	 Hellas Verona	29	€ 3.0M	12	10	11	12	12	13	13
+1299	Croatia		Bosko SutaloDR	 Atalanta	20	€ 3.0M	13	9	14	12	12	13	13
+1300	Italy		Fernando Forestieri	 Udinese	30	€ 3.0M	13	13	8	14	12	11	14
+1301	Netherla		Marvin ZeegelaarDL	 Udinese	29	€ 3.0M	12	11	12	12	11	14	15
+1302	Scotland		Aaron HickeyDLDR	 Bologna	18	€ 2.0M	11	11	10	13	12	12	13
+1303	Spain		Cristo	 Udinese	22	€ 2.0M	11	14	7	15	10	12	15
+1304	Switzerl		Kevin RüeggDR	 Hellas Verona	21	€ 2.0M	12	10	11	12	12	13	13
+1305	Serbia		Ivan RadovanovicDM	 Genoa	31	€ 2.0M	13	12	13	12	13	12	10
+1306	Venezuel		Yordan Osorio	 Parma	26	€ 4.0M	13	8	13	12	12	13	11
+1307	Gambia		Ebrima Colley	 Hellas Verona	20	€ 2.0M	11	12	8	13	11	13	14
+1308	Italy		Alex FerrariDR	 Sampdoria	26	€ 2.0M	12	10	14	12	12	13	12
+1309	Italy		Roberto Insigne	 Benevento	26	€ 2.0M	12	13	9	13	11	13	14
+1310	Italy		Simone Edera	 Torino	23	€ 3.0M	12	13	10	13	11	13	14
+1311	Macedoni		Ilija Nestorovski	 Udinese	30	€ 3.0M	13	11	9	11	14	13	13
+1312	Netherla		Stefano DenswilDL	 Bologna	26	€ 4.0M	12	10	14	12	12	13	12
+1313	Denmark		Riza DurmisiDL	 Lazio	26	€ 2.0M	12	13	9	13	12	11	14
+1314	France		Emmanuel Rivière	 Crotone	30	€ 1.0M	12	11	11	12	12	14	14
+1315	Greece		Charalampos LykogiannisDL	 Cagliari	26	€ 3.0M	13	12	13	12	12	13	13
+1316	Italy		Alessandro DeiolaDM	 Spezia	25	€ 3.0M	12	11	13	12	12	13	13
+1317	Slovenia		Valter Birsa	 Cagliari	33	€ 300K	12	14	9	14	12	11	11
+1318	Brazil		DodôDL	 Sampdoria	28	€ 2.0M	13	12	11	13	12	12	14
+1319	Austria		Sebastian Prödl	 Udinese	33	€ 700K	12	7	14	7	12	13	8
+1320	Italy		Samuel Di Carmine	 Hellas Verona	31	€ 2.0M	13	11	10	12	13	13	12
+1321	Italy		Mattia Sprocati	 Parma	27	€ 3.0M	12	12	10	13	12	12	13
+1322	Italy		Andrea RispoliDR	 Crotone	31	€ 1.0M	13	10	12	13	12	14	13
+1323	Italy		Giulio MaggioreDM	 Spezia	22	€ 2.0M	12	12	12	13	12	12	12
+1324	Netherla		Bram Nuytinck	 Udinese	30	€ 2.0M	12	10	14	12	13	13	11
+1325	Poland		Pawel Dawidowicz	 Hellas Verona	25	€ 2.0M	11	9	14	11	12	13	10
+1326	Brazil		Eduardo HenriqueDM	 Crotone	25	€ 2.0M	12	12	11	13	12	13	13
+1327	Morocco		Sofian Kiyine	 Lazio	22	€ 2.0M	12	13	9	14	11	12	13
+1328	Bosnia a		Mato JajaloDM	 Udinese	32	€ 2.0M	13	12	12	14	13	13	12
+1329	Croatia		Karlo Letica	 Sampdoria	23	€ 1.0M	12	12	10	5	10	13	10
+1330	Italy		Matteo ScozzarellaDM	 Parma	32	€ 2.0M	13	12	11	13	13	12	13
+1331	Italy		Daniele Verde	 Spezia	24	€ 3.0M	12	13	8	14	10	12	15
+1332	Italy		Arturo CalabresiDR	 Bologna	24	€ 3.0M	12	10	13	12	11	13	13
+1333	Italy		Federico BarbaDL	 Benevento	26	€ 3.0M	12	8	13	11	11	12	12
+1334	Italy		Simone Colombi	 Parma	29	€ 2.0M	12	14	8	4	11	12	9
+1335	Italy		Luca MarroneDM	 Crotone	30	€ 2.0M	12	10	12	12	13	12	11
+1336	Italy		Federico MattielloDLDR	 Spezia	25	€ 3.0M	11	10	12	10	12	12	13
+1337	Italy		Jacopo SegreDM	 Torino	23	€ 2.0M	12	11	11	12	12	13	13
+1338	Italy		Giovanni Crociata	 Crotone	22	€ 1.0M	12	11	10	12	12	13	14
+1339	Uruguay		Nicolás Schiappacasse	 Sassuolo	21	€ 2.0M	11	13	9	14	11	12	14
+1340	Senegal		Ibrahima MbayeDRDL	 Bologna	25	€ 3.0M	12	9	13	11	11	13	13
+1341	Italy		Jacopo Dezi	 Parma	28	€ 2.0M	12	12	11	13	13	12	12
+1342	Netherla		Djavan AndersonDR	 Lazio	25	€ 4.0M	11	9	11	12	11	13	15
+1343	Serbia		Ivan IlicDM	 Hellas Verona	19	€ 2.0M	12	12	11	13	12	12	12
+1344	Argentin		Nahuel Molina LuceroDR	 Udinese	22	€ 2.0M	11	11	11	12	11	12	13
+1345	Brazil		Diego Farias	 Spezia	30	€ 3.0M	12	13	8	14	11	12	13
+1346	Albania		Ardian IsmajliDR	 Spezia	23	€ 2.0M	12	8	14	9	11	13	11
+1347	Italy		Edoardo Goldaniga	 Genoa	26	€ 3.0M	12	8	14	10	12	13	11
+1348	Italy		Jacopo SalaDR	 Spezia	28	€ 3.0M	12	12	11	12	12	12	12
+1349	Italy		Gabriele Moncini	 Benevento	24	€ 2.0M	12	10	9	11	12	13	13
+1350	Italy		Vasco ReginiDL	 Sampdoria	29	€ 1.0M	12	9	13	11	12	12	12
+1351	Italy		Niccolò Zanellato	 Crotone	22	€ 1.0M	12	11	12	12	12	13	11
+1352	Italy		Riccardo MarchizzaDL	 Spezia	22	€ 1.0M	12	9	13	10	11	12	10
+1353	Portugal		Pedro PereiraDRDL	 Crotone	22	€ 900K	12	10	12	12	11	13	13
+1354	Romania		Valentin Mihaila	 Parma	20	€ 1.0M	10	10	8	11	10	12	14
+1355	Spain		Tòfol Montiel	 Fiorentina	20	€ 800K	12	13	7	14	10	11	14
+1356	Brazil		WalaceDM	 Udinese	25	€ 3.0M	12	9	14	11	12	14	12
+1357	Brazil		Nícolas	 Udinese	32	€ 1.0M	12	12	9	6	11	13	10
+1358	Libya		Ahmad Benali	 Crotone	28	€ 2.0M	12	13	10	14	12	13	14
+1359	Croatia		Martin Erlic	 Spezia	22	€ 2.0M	11	9	14	9	12	13	11
+1360	Italy		Matteo RicciDM	 Spezia	26	€ 2.0M	12	12	10	13	12	11	13
+1361	Italy		Fabrizio CaligaraDM	 Cagliari	20	€ 2.0M	12	11	11	12	12	12	12
+1362	Italy		Nikita Contini	 Napoli	24	€ 1.0M	11	13	8	7	10	13	9
+1363	Italy		Giuseppe Cuomo	 Crotone	22	€ 1.0M	10	7	13	8	10	13	10
+1364	Brazil		Léo Sena	 Spezia	24	€ 1.0M	12	12	11	13	13	11	11
+1365	Angola		Zito	 Cagliari	18	€ 1.0M	10	12	7	13	10	12	15
+1366	Nigeria		Michael KingsleyDM	 Bologna	20	€ 1.0M	12	12	11	13	12	12	14
+1367	Italy		Salvatore Molina	 Crotone	28	€ 2.0M	12	12	11	12	12	12	13
+1368	Italy		Alessandro TripaldelliDL	 Cagliari	21	€ 1.0M	11	11	11	12	11	13	13
+1369	Italy		Daniele Padelli	 Inter	34	€ 200K	12	13	9	8	11	12	9
+1370	Lithuani		Titas Krapikas	 Spezia	21	€ 800K	12	13	9	7	11	13	8
+1371	Serbia		Vanja Milinkovic-Savic	 Torino	23	€ 1.0M	11	13	9	7	11	12	9
+1372	Brazil		Rafael	 Spezia	38	€ 100K	12	13	8	7	10	13	9
+1373	Italy		Riccardo Improta	 Benevento	26	€ 3.0M	12	12	10	13	12	13	13
+1374	Italy		Gianluca Pegolo	 Sassuolo	39	€ 100K	12	13	8	5	11	12	9
+1375	Ghana		Emmanuel Gyasi	 Spezia	26	€ 2.0M	12	12	10	13	11	13	14
+1376	Italy		Alberto Cerri	 Cagliari	24	€ 2.0M	11	11	11	12	11	13	11
+1377	Italy		Luca Siligardi	 Crotone	32	€ 1.0M	12	13	9	13	12	11	13
+1378	Italy		Claudio Terzi	 Spezia	36	€ 100K	12	7	13	9	13	12	9
+1379	Croatia		Marko PajacDL	 Cagliari	27	€ 2.0M	12	12	11	13	12	12	13
+1380	France		M'Bala Nzola	 Spezia	23	€ 2.0M	11	11	11	11	11	15	14
+1381	Italy		Alessandro TuiaDR	 Benevento	30	€ 1.0M	12	10	14	11	12	12	11
+1382	Italy		Vittorio Parigini	 Genoa	24	€ 2.0M	10	11	8	13	10	12	14
+1383	France		Pierre KaluluDR	 Milan	20	€ 800K	11	9	12	12	11	13	13
+1384	Spain		Salva FerrerDR	 Spezia	22	€ 1.0M	11	10	11	11	11	12	12
+1385	Argentin		Nahuel Estévez	 Spezia	24	€ 2.0M	12	12	10	13	11	13	13
+1386	Bulgaria		Andrey Galabinov	 Spezia	31	€ 1.0M	12	11	12	12	11	14	12
+1387	Italy		Pietro Terracciano	 Fiorentina	30	€ 1.0M	13	14	10	7	11	12	7
+1388	Italy		Antonio Di Gaudio	 Hellas Verona	30	€ 1.0M	12	12	7	13	12	12	14
+1389	Italy		Ivan Provedel	 Spezia	26	€ 1.0M	12	12	8	7	10	12	8
+1390	Italy		Alessandro Buongiorno	 Torino	21	€ 400K	10	10	12	10	11	11	11
+1391	Uruguay		Juan RamosDL	 Spezia	23	€ 1.0M	11	10	11	13	11	13	13
+1392	Italy		Cristian Dell'OrcoDL	 Spezia	26	€ 1.0M	12	9	12	11	12	13	12
+1393	Italy		Guglielmo Vicario	 Cagliari	23	€ 1.0M	12	12	9	7	11	13	10
+1394	Serbia		Vladimir Golemic	 Crotone	29	€ 1.0M	12	10	13	10	12	13	10
+1395	Italy		Antonino La Gumina	 Sampdoria	24	€ 2.0M	12	11	9	13	12	13	13
+1396	Italy		Marco Tumminello	 Atalanta	21	€ 2.0M	12	11	11	11	13	11	11
+1397	Italy		Hans Nicolussi Caviglia	 Parma	20	€ 900K	11	11	10	12	12	12	13
+1398	Croatia		Petar BrlekDM	 Genoa	26	€ 1.0M	11	11	11	13	11	12	12
+1399	Italy		Alex Cordaz	 Crotone	37	€ 100K	12	13	8	7	11	13	9
+1400	Kosovo		Samir Ujkani	 Torino	32	€ 200K	12	12	9	8	10	12	10
+1401	Italy		Luigi VitaleDL	 Hellas Verona	32	€ 300K	12	12	11	13	12	12	12
+1402	Italy		Paolo BartolomeiDM	 Spezia	30	€ 2.0M	12	12	10	12	12	13	12
+1403	Italy		Alberto Paleari	 Genoa	27	€ 800K	12	13	9	6	10	12	8
+1404	Italy		Roberto Piccoli	 Spezia	19	€ 400K	11	9	10	10	11	13	10
+1405	Ecuador		Erick Ferigra	 Torino	21	€ 300K	10	8	12	9	11	12	10
+1406	Italy		Mattia Mustacchio	 Crotone	31	€ 900K	12	11	12	11	11	13	13
+1407	Italy		Gennaro AcamporaDM	 Spezia	26	€ 1.0M	12	12	11	14	12	13	14
+1408	Italy		Davide Di GennaroDM	 Lazio	32	€ 300K	12	13	10	13	13	11	10
+1409	Brazil		Ângelo da Costa	 Bologna	36	€ 40.0K	12	12	8	7	11	11	8
+1410	Tunisia		Karim Laribi	 Hellas Verona	29	€ 1.0M	12	12	9	13	12	11	11
+1411	Italy		Simone BastoniDL	 Spezia	23	€ 1.0M	12	12	10	13	12	12	13
+1412	Italy		Luca Mora	 Spezia	32	€ 600K	13	10	12	11	13	12	13
+1413	Serbia		Boris Radunovic	 Atalanta	24	€ 600K	12	13	11	8	11	13	9
+1414	Belgium		Maxime BusiDR	 Parma	20	€ 1.0M	11	11	10	11	11	12	13
+1415	Italy		Lorenzo Del PintoDM	 Benevento	30	€ 900K	12	11	12	12	12	13	12
+1416	Italy		Luca VignaliDR	 Spezia	24	€ 900K	12	11	11	12	12	12	12
+1417	Italy		Massimo Volta	 Benevento	33	€ 300K	12	7	13	7	13	13	9
+1418	Italy		Antonio Rosati	 Torino	37	€ 30.0K	11	12	10	6	10	12	9
+1419	Iceland		Andri Fannar Baldursson	 Bologna	18	€ 400K	11	11	9	13	11	12	13
+1420	Italy		Antonio MazzottaDL	 Crotone	30	€ 1.0M	12	10	11	12	11	13	13
+1421	Italy		Carlo Pinsoglio	 Zebre	30	€ 800K	12	13	10	8	11	12	9
+1422	Spain		Dani ParejoDM	 Villarreal	31	€ 30.0M	14	15	11	16	14	12	12
+1423	Spain		Jesús NavasDR	 Sevilla	34	€ 2.0M	13	12	10	13	13	14	16
+1424	Spain		Marco Asensio	 Real Madrid	24	€ 40.0M	14	16	9	17	12	13	15
+1425	Spain		Dani CarvajalDRDL	 Real Madrid	28	€ 30.0M	13	12	12	13	14	14	14
+1426	Sweden		Alexander Isak	 Real Sociedad	20	€ 9.0M	13	13	10	15	12	15	16
+1427	Chile		Claudio Bravo	 Real Betis	37	€ 800K	13	14	9	13	13	13	12
+1428	Uruguay		Maxi Gómez	 Valencia	23	€ 30.0M	14	13	13	12	14	14	12
+1429	France		Samuel Umtiti	 FC Barcelona	26	€ 30.0M	14	10	15	13	14	14	12
+1430	Portugal		Gonçalo Guedes	 Valencia	23	€ 30.0M	13	14	10	14	11	14	16
+1431	Spain		José GayàDL	 Valencia	25	€ 30.0M	14	14	11	15	14	14	16
+1432	Spain		Pau Torres	 Villarreal	23	€ 20.0M	13	8	16	12	12	13	12
+1433	Argentin		Ángel Correa	 Atlético de M	25	€ 40.0M	13	15	8	16	13	13	15
+1434	Brazil		Éder MilitãoDRDM	 Real Madrid	22	€ 20.0M	13	11	14	12	13	15	14
+1435	Spain		Raúl García	 Athletic Club	34	€ 8.0M	14	14	13	13	15	13	12
+1436	Spain		Iker Muniain	 Athletic Club	27	€ 40.0M	12	14	9	16	13	13	16
+1437	Spain		Mikel Merino	 Real Sociedad	24	€ 30.0M	14	13	14	15	14	14	13
+1438	Spain		Iago Aspas	 Celta Vigo	33	€ 10.0M	14	15	9	16	14	13	15
+1439	Spain		Carlos SolerDM	 Valencia	23	€ 30.0M	13	14	11	14	13	13	14
+1440	Brazil		MarceloDL	 Real Madrid	32	€ 10.0M	13	15	10	17	13	11	14
+1441	France		Nabil Fekir	 Real Betis	27	€ 30.0M	15	15	8	16	13	13	16
+1442	France		Ferland MendyDL	 Real Madrid	25	€ 20.0M	13	11	13	14	13	15	15
+1443	Portugal		William CarvalhoDM	 Real Betis	28	€ 30.0M	13	11	14	14	14	14	10
+1444	Spain		Marcos LlorenteDM	 Atlético de M	25	€ 30.0M	13	11	13	13	14	14	13
+1445	Brazil		Vinícius Júnior	 Real Madrid	20	€ 20.0M	12	12	8	14	13	14	17
+1446	Spain		Álvaro OdriozolaDR	 Real Madrid	24	€ 20.0M	13	12	12	14	13	14	15
+1447	Spain		Raúl Albiol	 Villarreal	34	€ 2.0M	13	10	15	11	13	13	11
+1448	Spain		Suso	 Sevilla	26	€ 30.0M	13	15	9	16	13	12	15
+1449	Brazil		Neto	 FC Barcelona	31	€ 20.0M	13	14	10	8	12	14	11
+1450	Brazil		Gabriel Paulista	 Valencia	29	€ 20.0M	14	10	15	12	14	15	13
+1451	Spain		Iñigo Martínez	 Athletic Club	29	€ 30.0M	14	11	15	13	14	13	12
+1452	Spain		Mario HermosoDL	 Atlético de M	25	€ 20.0M	13	9	14	11	13	14	13
+1453	Spain		Sergio Canales	 Real Betis	29	€ 30.0M	14	15	9	17	13	13	15
+1454	Argentin		Lucas Ocampos	 Sevilla	26	€ 30.0M	14	14	11	14	13	15	16
+1455	Portugal		Francisco Trincão	 FC Barcelona	20	€ 10.0M	13	15	9	16	12	13	14
+1456	Spain		José CampañaDM	 Levante	27	€ 30.0M	13	14	11	15	14	12	13
+1457	Spain		Pedri	 FC Barcelona	17	€ 10.0M	13	15	7	16	12	12	15
+1458	Uruguay		Lucas TorreiraDM	 Atlético de M	24	€ 30.0M	13	13	11	14	14	12	14
+1459	Spain		Asier IllarramendiDM	 Real Sociedad	30	€ 20.0M	14	12	12	14	14	13	12
+1460	Spain		YuriDL	 Athletic Club	30	€ 20.0M	14	12	14	13	13	15	14
+1461	Spain		Vitolo	 Atlético de M	30	€ 20.0M	13	13	11	15	14	13	14
+1462	Monteneg		Stefan Savic	 Atlético de M	29	€ 20.0M	13	9	14	11	13	13	13
+1463	Belgium		Adnan Januzaj	 Real Sociedad	25	€ 20.0M	13	15	8	16	12	13	16
+1464	Spain		Yeray	 Athletic Club	25	€ 20.0M	13	10	14	11	14	13	12
+1465	Spain		Sergio Asenjo	 Villarreal	31	€ 20.0M	12	14	8	9	12	11	9
+1466	Spain		NachoDLDR	 Real Madrid	30	€ 20.0M	13	11	14	12	13	14	13
+1467	Spain		Munir	 Sevilla	24	€ 20.0M	13	14	8	15	12	12	14
+1468	Spain		Marc CucurellaDL	 Getafe	22	€ 20.0M	13	11	11	12	14	13	14
+1469	Brazil		Felipe	 Atlético de M	31	€ 20.0M	14	9	15	11	14	15	12
+1470	Nigeria		Samuel Chukwueze	 Villarreal	21	€ 10.0M	12	13	9	16	11	13	16
+1471	Mexico		Héctor Herrera	 Atlético de M	30	€ 20.0M	14	13	13	14	14	14	13
+1472	France		Francis CoquelinDM	 Villarreal	29	€ 20.0M	13	10	14	14	14	14	14
+1473	Netherla		Jasper Cillessen	 Valencia	31	€ 20.0M	13	14	8	7	12	13	10
+1474	Spain		Portu	 Real Sociedad	28	€ 30.0M	13	14	11	14	14	13	14
+1475	Spain		Nolito	 Celta Vigo	33	€ 3.0M	13	14	9	15	13	12	14
+1476	Argentin		Gerónimo Rulli	 Villarreal	28	€ 10.0M	13	14	8	10	11	12	10
+1477	Brazil		Diego Carlos	 Sevilla	27	€ 20.0M	13	8	15	11	13	15	12
+1478	Central 		Geoffrey KondogbiaDM	 Atlético de M	27	€ 20.0M	14	13	14	15	14	15	14
+1479	Spain		Paco Alcácer	 Villarreal	26	€ 30.0M	13	13	10	13	14	12	13
+1480	Brazil		Willian José	 Real Sociedad	28	€ 20.0M	13	14	12	15	13	13	13
+1481	Brazil		Renan LodiDL	 Atlético de M	22	€ 20.0M	12	14	12	16	12	13	15
+1482	Dominica		Mariano	 Real Madrid	27	€ 20.0M	13	12	12	12	13	14	13
+1483	Spain		Marc BartraDM	 Real Betis	29	€ 20.0M	13	11	14	13	13	13	13
+1484	Spain		Óliver	 Sevilla	25	€ 20.0M	12	14	9	16	13	12	14
+1485	Spain		Joaquín	 Real Betis	39	€ 1.0M	13	14	9	16	13	12	15
+1486	Argentin		Ezequiel Ávila	 CA Osasuna	26	€ 20.0M	12	13	9	13	12	13	15
+1487	Spain		Dani GarcíaDM	 Athletic Club	30	€ 20.0M	13	11	14	12	15	13	12
+1488	Brazil		EmersonDR	 Real Betis	21	€ 10.0M	13	13	12	14	13	14	14
+1489	Croatia		Sime VrsaljkoDR	 Atlético de M	28	€ 20.0M	13	10	14	12	13	14	13
+1490	Spain		Álex Remiro	 Real Sociedad	25	€ 20.0M	13	14	8	10	11	13	11
+1491	Spain		Borja Iglesias	 Real Betis	27	€ 20.0M	13	13	12	12	13	14	13
+1492	Spain		Denis Suárez	 Celta Vigo	26	€ 20.0M	12	14	9	16	12	12	13
+1493	Spain		Ilaix MoribaDM	 FC Barcelona	17	€ 2.0M	12	13	11	15	12	14	14
+1494	Togo		Djene DakonamDRDM	 Getafe	28	€ 20.0M	12	9	13	10	13	14	13
+1495	Czech Re		Tomas Vaclik	 Sevilla	31	€ 10.0M	13	14	9	9	12	12	10
+1496	Spain		José Morales	 Levante	33	€ 7.0M	12	12	9	14	13	13	15
+1497	Spain		Gerard Moreno	 Villarreal	28	€ 20.0M	13	13	10	14	14	13	13
+1498	Spain		Rubén García	 CA Osasuna	27	€ 10.0M	13	15	8	16	12	12	15
+1499	Spain		Mario GasparDR	 Villarreal	29	€ 10.0M	13	11	12	12	14	13	14
+1500	Spain		Unai NúñezDR	 Athletic Club	23	€ 10.0M	13	9	14	10	13	13	12
+1501	Spain		Óscar	 Sevilla	22	€ 10.0M	13	14	9	14	14	12	12
+1502	Spain		Igor ZubeldiaDM	 Real Sociedad	23	€ 20.0M	13	12	13	14	13	13	12
+1503	Argentin		Franco Vázquez	 Sevilla	31	€ 10.0M	13	15	11	17	13	13	13
+1504	United S		Sergiño DestDLDR	 FC Barcelona	19	€ 10.0M	12	12	11	14	12	12	14
+1505	France		Kevin Gameiro	 Valencia	33	€ 6.0M	14	14	8	14	13	14	15
+1506	Spain		Hugo MalloDR	 Celta Vigo	29	€ 20.0M	13	10	13	12	14	13	13
+1507	Spain		Moi Gómez	 Villarreal	25	€ 9.0M	13	14	9	15	12	12	13
+1508	Colombia		Carlos Bacca	 Villarreal	33	€ 2.0M	13	13	10	13	13	13	13
+1509	Denmark		Daniel WassDRDM	 Valencia	31	€ 10.0M	13	13	12	14	13	13	13
+1510	France		Robin Le Normand	 Real Sociedad	23	€ 5.0M	14	9	15	12	13	14	12
+1511	France		Mouctar Diakhaby	 Valencia	23	€ 10.0M	13	9	15	11	13	14	13
+1512	Spain		Nacho MonrealDL	 Real Sociedad	34	€ 2.0M	13	10	14	12	14	13	13
+1513	Spain		David Soria	 Getafe	27	€ 10.0M	13	15	9	5	13	12	8
+1514	Spain		Lucas VázquezDR	 Real Madrid	29	€ 10.0M	13	12	10	13	13	13	14
+1515	Spain		Rubén Blanco	 Celta Vigo	25	€ 9.0M	12	13	8	8	11	13	11
+1516	Spain		Riqui Puig	 FC Barcelona	20	€ 4.0M	12	13	7	16	12	11	14
+1517	Argentin		Marcos AcuñaDL	 Sevilla	28	€ 20.0M	14	14	11	14	14	13	13
+1518	Brazil		FernandoDM	 Sevilla	33	€ 7.0M	13	10	14	12	15	13	11
+1519	Spain		Ander CapaDR	 Athletic Club	28	€ 20.0M	13	12	12	13	13	13	14
+1520	Brazil		Sídnei	 Real Betis	30	€ 10.0M	12	10	15	12	13	13	12
+1521	Uruguay		Ronald AraújoDM	 FC Barcelona	21	€ 5.0M	13	9	15	11	12	13	11
+1522	Venezuel		Yangel HerreraDM	 Granada	22	€ 20.0M	13	11	12	13	13	14	13
+1523	Spain		Joan JordánDM	 Sevilla	26	€ 20.0M	13	13	11	14	13	13	13
+1524	Spain		Vicente IborraDM	 Villarreal	32	€ 7.0M	13	11	15	11	14	13	9
+1525	Spain		Ander Barrenetxea	 Real Sociedad	18	€ 6.0M	12	13	10	13	12	13	14
+1526	Argentin		Guido RodríguezDM	 Real Betis	26	€ 20.0M	13	11	13	14	13	12	12
+1527	Argentin		Nehuén Pérez	 Granada	20	€ 6.0M	13	8	14	10	13	13	12
+1528	Algeria		Aïssa MandiDRDL	 Real Betis	28	€ 10.0M	14	10	14	13	13	14	13
+1529	Japan		Takefusa Kubo	 Villarreal	19	€ 7.0M	12	14	7	15	12	11	13
+1530	Macedoni		Enis Bardhi	 Levante	25	€ 20.0M	13	15	9	15	13	12	13
+1531	Portugal		Domingos Duarte	 Granada	25	€ 10.0M	13	8	14	11	13	14	12
+1532	Spain		Santi Mina	 Celta Vigo	24	€ 20.0M	12	13	10	13	13	12	13
+1533	Spain		Unai López	 Athletic Club	24	€ 10.0M	13	13	9	15	13	12	13
+1534	Spain		Martín ZubimendiDM	 Real Sociedad	21	€ 10.0M	13	11	13	15	12	13	12
+1535	Spain		Manu Trigueros	 Villarreal	28	€ 10.0M	13	14	9	15	13	12	13
+1536	Spain		Carles Aleñá	 FC Barcelona	22	€ 8.0M	13	15	9	16	13	12	13
+1537	Morocco		Youssef En-Nesyri	 Sevilla	23	€ 10.0M	12	11	10	12	11	13	15
+1538	Morocco		Yassine Bounou	 Sevilla	29	€ 10.0M	13	15	10	6	11	12	10
+1539	Mexico		Andrés GuardadoDM	 Real Betis	33	€ 4.0M	13	14	9	14	14	12	14
+1540	England		Kieran TrippierDR	 Atlético de M	29	€ 10.0M	13	12	12	13	13	13	13
+1541	Spain		Jony	 CA Osasuna	29	€ 10.0M	13	13	9	14	12	12	14
+1542	Spain		Aritz ElustondoDR	 Real Sociedad	26	€ 20.0M	13	10	14	12	14	13	12
+1543	Spain		Cristian Tello	 Real Betis	28	€ 10.0M	12	13	8	14	12	13	15
+1544	Serbia		Nemanja MaksimovicDM	 Getafe	25	€ 10.0M	12	12	13	13	13	13	13
+1545	Portugal		Rúben Vezo	 Levante	26	€ 10.0M	13	9	14	12	12	14	13
+1546	Portugal		Jota	 Real Valladol	21	€ 3.0M	11	13	8	15	11	11	15
+1547	Spain		Júnior FirpoDL	 FC Barcelona	23	€ 10.0M	13	12	13	13	12	14	14
+1548	Spain		Lucas	 Alavés	31	€ 8.0M	13	14	9	14	12	13	14
+1549	Spain		Miguel Ángel Moyà	 Real Sociedad	36	€ 1.0M	13	14	8	7	11	12	9
+1550	Spain		Fran BeltránDM	 Celta Vigo	21	€ 8.0M	13	12	11	14	13	12	13
+1551	Spain		Roberto Soldado	 Granada	35	€ 400K	13	13	10	13	14	11	12
+1552	Colombia		Luis Suárez	 Granada	22	€ 9.0M	13	12	10	12	13	14	14
+1553	Mexico		Néstor Araujo	 Celta Vigo	28	€ 10.0M	13	9	13	12	13	13	11
+1554	Spain		Juanmi	 Real Betis	27	€ 10.0M	13	13	8	14	12	12	15
+1555	Spain		Andoni GorosabelDR	 Real Sociedad	23	€ 10.0M	13	12	13	13	13	13	14
+1556	Spain		Alberto MorenoDL	 Villarreal	27	€ 10.0M	13	12	12	14	13	14	15
+1557	Spain		Sergio EscuderoDL	 Sevilla	30	€ 9.0M	12	12	12	13	12	13	13
+1558	Spain		Brais Méndez	 Celta Vigo	23	€ 10.0M	13	14	10	15	12	12	14
+1559	Spain		Víctor Ruiz	 Real Betis	31	€ 7.0M	12	10	14	12	13	11	9
+1560	Uruguay		Mauro ArambarriDM	 Getafe	24	€ 10.0M	13	12	12	13	14	12	13
+1561	Spain		Sergi Gómez	 Sevilla	28	€ 10.0M	13	10	14	13	13	13	12
+1562	Spain		Javi Ontiveros	 SD Huesca	22	€ 8.0M	13	13	7	14	12	12	14
+1563	Spain		Roberto Torres	 CA Osasuna	31	€ 5.0M	13	14	9	14	14	12	12
+1564	Spain		Jaume CostaDLDR	 Villarreal	32	€ 5.0M	13	11	11	12	13	13	14
+1565	Spain		Fernando Pacheco	 Alavés	28	€ 10.0M	13	14	9	10	11	12	10
+1566	Spain		Jaume Domènech	 Valencia	29	€ 10.0M	12	13	8	7	12	12	11
+1567	Spain		Óscar De MarcosDR	 Athletic Club	31	€ 4.0M	12	12	12	11	13	13	12
+1568	Spain		Oriol BusquetsDM	 FC Barcelona	21	€ 4.0M	13	11	13	14	13	13	11
+1569	Denmark		Martin Braithwaite	 FC Barcelona	29	€ 10.0M	12	12	9	12	13	13	14
+1570	France		Maxime GonalonsDM	 Granada	31	€ 8.0M	13	9	15	13	14	14	12
+1571	Netherla		Luuk de Jong	 Sevilla	29	€ 20.0M	14	12	10	12	14	14	11
+1572	Spain		Andrés Fernández	 SD Huesca	33	€ 6.0M	12	13	9	7	11	13	10
+1573	Spain		Iñigo Córdoba	 Athletic Club	23	€ 10.0M	12	13	10	14	12	13	14
+1574	Chile		Fabián Orellana	 Real Valladol	34	€ 1.0M	12	13	8	14	11	13	15
+1575	Spain		Álex Berenguer	 Athletic Club	25	€ 10.0M	12	12	8	14	12	12	15
+1576	Spain		Joseba ZalduaDR	 Real Sociedad	28	€ 10.0M	13	11	13	12	13	13	13
+1577	Spain		Roque MesaDM	 Real Valladol	31	€ 9.0M	13	12	10	13	14	12	13
+1578	Spain		Pedro León	 SD Eibar	33	€ 2.0M	12	16	8	17	12	11	13
+1579	Spain		Aleix VidalDR	 Sevilla	30	€ 8.0M	12	12	10	13	13	12	13
+1580	Spain		Pablo MaffeoDR	 SD Huesca	23	€ 6.0M	12	11	11	12	13	13	15
+1581	Spain		Alejandro PozoDR	 SD Eibar	21	€ 4.0M	11	11	6	11	11	12	15
+1582	Colombia		Jeison Murillo	 Celta Vigo	28	€ 6.0M	12	8	15	11	12	14	13
+1583	Colombia		Juan Hernández	 Getafe	21	€ 10.0M	13	12	9	13	12	13	14
+1584	Ecuador		Pervis EstupiñánDL	 Villarreal	22	€ 8.0M	12	10	11	12	12	14	14
+1585	Mexico		Diego Laínez	 Real Betis	20	€ 3.0M	11	11	6	14	11	13	15
+1586	Croatia		Ivo Grbic	 Atlético de M	24	€ 8.0M	12	14	10	6	11	13	10
+1587	France		Joris GnagnonDM	 Sevilla	23	€ 9.0M	12	9	14	11	12	14	12
+1588	Spain		Jason	 Valencia	26	€ 10.0M	13	13	10	14	12	12	14
+1589	Spain		Rubén PeñaDR	 Villarreal	29	€ 9.0M	12	12	11	13	12	12	14
+1590	Spain		Aitor Fernández	 Levante	29	€ 9.0M	12	14	8	8	11	12	10
+1591	Spain		Sergio Gómez	 SD Huesca	19	€ 2.0M	12	14	7	15	12	10	13
+1592	Serbia		Marko Dmitrovic	 SD Eibar	28	€ 7.0M	12	15	11	7	11	12	11
+1593	Argentin		Ramiro Funes Mori	 Villarreal	29	€ 7.0M	12	10	15	10	12	14	12
+1594	Spain		Jaime Mata	 Getafe	31	€ 6.0M	13	13	11	12	12	13	13
+1595	Spain		Loren	 Real Betis	26	€ 10.0M	13	12	11	12	13	13	13
+1596	Spain		Sandro	 SD Huesca	25	€ 10.0M	13	13	9	14	12	13	15
+1597	Spain		Àlex Collado	 FC Barcelona	21	€ 4.0M	13	14	8	15	11	12	14
+1598	Argentin		Jonathan Calleri	 CA Osasuna	26	€ 8.0M	13	12	11	13	13	14	13
+1599	Monteneg		Nikola VukcevicDM	 Levante	28	€ 7.0M	13	11	14	13	14	13	11
+1600	France		Eliaquim Mangala	 Valencia	29	€ 7.0M	12	9	14	11	13	14	12
+1601	Portugal		Paulo Oliveira	 SD Eibar	28	€ 7.0M	12	8	14	9	12	14	12
+1602	Spain		Martín MontoyaDLDR	 Real Betis	29	€ 4.0M	12	11	12	13	12	13	13
+1603	Spain		Miguel Baeza	 Celta Vigo	20	€ 700K	11	14	9	14	11	10	13
+1604	Turkey		Okay YokusluDM	 Celta Vigo	26	€ 10.0M	13	12	15	13	13	14	11
+1605	Serbia		Nemanja RadojaDM	 Levante	27	€ 9.0M	13	11	13	13	13	12	11
+1606	Uruguay		Lucas OlazaDL	 Celta Vigo	26	€ 4.0M	13	14	12	14	12	13	14
+1607	Japan		Takashi Inui	 SD Eibar	32	€ 7.0M	12	14	8	16	11	12	16
+1608	Portugal		Rui Silva	 Granada	26	€ 5.0M	13	14	8	7	10	12	9
+1609	Spain		OierDMDR	 CA Osasuna	34	€ 500K	12	8	13	11	14	13	11
+1610	Spain		Pedro MosqueraDM	 SD Huesca	32	€ 5.0M	13	14	10	16	14	11	13
+1611	Spain		Roger Martí	 Levante	29	€ 10.0M	13	12	10	12	13	13	13
+1612	Spain		Edgar Badía	 Elche	28	€ 7.0M	12	13	7	9	12	12	10
+1613	Spain		Víctor CamarasaDM	 Real Betis	26	€ 7.0M	13	13	12	14	13	13	13
+1614	Spain		Manu Vallejo	 Valencia	23	€ 10.0M	12	13	8	12	12	12	14
+1615	Spain		Carlos Fernández	 Sevilla	24	€ 10.0M	13	12	11	13	13	13	13
+1616	Spain		Alfonso PedrazaDL	 Villarreal	24	€ 8.0M	12	12	11	12	12	13	14
+1617	Spain		Aihen MuñozDL	 Real Sociedad	22	€ 7.0M	13	10	12	12	12	13	13
+1618	Spain		Álvaro Fernández	 SD Huesca	22	€ 3.0M	12	12	7	7	10	11	10
+1619	Serbia		Nemanja GudeljDM	 Sevilla	28	€ 10.0M	13	13	11	14	14	13	12
+1620	Russia		Denis Cheryshev	 Valencia	29	€ 10.0M	12	13	11	13	13	13	14
+1621	Spain		Edu Expósito	 SD Eibar	24	€ 8.0M	12	12	11	13	13	12	13
+1622	Spain		Ander GuevaraDM	 Real Sociedad	23	€ 8.0M	13	11	12	13	12	13	12
+1623	Spain		NachoDL	 Real Valladol	31	€ 5.0M	13	11	11	11	13	13	14
+1624	Spain		Jon Morcillo	 Athletic Club	21	€ 7.0M	12	13	9	13	11	12	14
+1625	Argentin		Juan FoythDR	 Villarreal	22	€ 20.0M	13	12	13	14	13	14	13
+1626	South Ko		Kang-In Lee	 Valencia	19	€ 10.0M	13	14	8	15	12	12	15
+1627	Spain		Rubén Rochina	 Levante	29	€ 8.0M	13	15	10	15	13	12	14
+1628	Spain		Iago Herrerín	 Athletic Club	32	€ 6.0M	13	13	9	8	12	12	8
+1629	Spain		Luis MillaDM	 Granada	25	€ 8.0M	13	13	10	14	14	12	13
+1630	Spain		Jesús Vallejo	 Granada	23	€ 5.0M	12	9	13	12	13	12	11
+1631	Ukraine		Andriy Lunin	 Real Madrid	21	€ 1.0M	12	12	8	8	11	12	9
+1632	Morocco		Oussama Idrissi	 Sevilla	24	€ 6.0M	13	14	8	15	12	13	15
+1633	Senegal		Pape DiopDM	 SD Eibar	34	€ 800K	13	11	13	11	13	14	13
+1634	Japan		Shinji Okazaki	 SD Huesca	34	€ 1.0M	13	12	10	13	13	12	13
+1635	Spain		Sergio Álvarez	 Celta Vigo	33	€ 2.0M	12	13	7	9	11	11	9
+1636	Turkey		Emre Mor	 Celta Vigo	23	€ 4.0M	11	13	5	14	9	12	16
+1637	Argentin		Augusto FernándezDM	 Cádiz CF	34	€ 500K	13	12	10	14	13	12	13
+1638	Cameroon		Allan NyomDR	 Getafe	32	€ 4.0M	13	10	14	11	13	14	13
+1639	Spain		Sergi Enrich	 SD Eibar	30	€ 8.0M	13	12	10	13	12	14	14
+1640	Spain		Roberto	 Real Valladol	34	€ 2.0M	13	13	9	8	11	13	10
+1641	Spain		Toni LatoDL	 Valencia	22	€ 4.0M	12	11	11	13	12	12	14
+1642	Spain		Rafa Mir	 SD Huesca	23	€ 9.0M	12	11	11	11	11	14	13
+1643	Serbia		Darko Brasanac	 CA Osasuna	28	€ 5.0M	12	12	12	13	14	13	12
+1644	Serbia		Uros RacicDM	 Valencia	22	€ 4.0M	12	11	13	13	12	13	12
+1645	Uruguay		Damián SuárezDR	 Getafe	32	€ 5.0M	13	11	11	12	14	13	13
+1646	Uruguay		Mathías OliveraDL	 Getafe	22	€ 7.0M	13	11	13	12	13	13	12
+1647	Spain		Pedro BigasDLDM	 SD Eibar	30	€ 7.0M	12	9	14	10	13	13	12
+1648	Spain		Martín Merquelanz	 Real Sociedad	25	€ 7.0M	13	14	9	14	12	12	14
+1649	Ghana		Joseph Aidoo	 Celta Vigo	24	€ 6.0M	12	8	14	10	12	14	12
+1650	France		Florian Lejeune	 Alavés	29	€ 20.0M	13	9	14	11	12	13	11
+1651	Spain		Xabi Etxeita	 Getafe	32	€ 3.0M	12	8	14	10	13	12	10
+1652	Spain		Joselu	 Alavés	30	€ 9.0M	12	12	12	12	11	13	12
+1653	Spain		Gonzalo MeleroDM	 Levante	26	€ 7.0M	13	13	12	13	13	13	12
+1654	Spain		Àlex MorenoDL	 Real Betis	27	€ 8.0M	12	12	12	14	12	13	15
+1655	Spain		Álvaro Negredo	 Cádiz CF	34	€ 800K	13	12	12	13	13	12	10
+1656	Brazil		Matheus FernandesDM	 FC Barcelona	22	€ 4.0M	12	12	12	14	12	13	14
+1657	Paraguay		Antonio Sanabria	 Real Betis	24	€ 7.0M	12	12	10	14	12	13	14
+1658	United S		Yunus Musah	 Valencia	17	€ 4.0M	12	12	12	13	13	13	14
+1659	Croatia		Ante PalaversaDM	 Getafe	20	€ 2.0M	11	11	11	12	12	12	12
+1660	Spain		Luca Sangalli	 Real Sociedad	25	€ 9.0M	12	12	11	13	13	13	12
+1661	Spain		Borja García	 SD Huesca	29	€ 10.0M	12	12	8	13	12	12	14
+1662	Spain		Ángel	 Getafe	33	€ 3.0M	13	12	9	13	13	13	14
+1663	Spain		Álex Fernández	 Cádiz CF	27	€ 7.0M	12	13	10	15	12	12	13
+1664	Spain		Asier Villalibre	 Athletic Club	22	€ 5.0M	12	12	11	12	13	13	12
+1665	Spain		Adrián	 CA Osasuna	32	€ 2.0M	12	12	9	14	11	12	13
+1666	Spain		Unai VencedorDM	 Athletic Club	19	€ 1.0M	12	10	12	12	11	13	13
+1667	Argentin		Guido Carrillo	 Elche	29	€ 10.0M	12	11	12	12	13	14	11
+1668	Spain		Raúl Navas	 CA Osasuna	32	€ 6.0M	13	8	14	10	13	12	10
+1669	Spain		Roberto López	 Real Sociedad	20	€ 4.0M	12	14	10	13	12	12	12
+1670	Spain		Juan MirandaDL	 Real Betis	20	€ 2.0M	12	12	13	13	12	13	13
+1671	Spain		Hugo Guillamón	 Valencia	20	€ 2.0M	12	8	12	11	12	13	12
+1672	Spain		Dani Martín	 Real Betis	22	€ 1.0M	12	13	11	10	12	12	10
+1673	Turkey		Enes Ünal	 Getafe	23	€ 6.0M	12	13	8	13	11	13	13
+1674	Spain		Ibai Gómez	 Athletic Club	30	€ 9.0M	13	14	9	14	12	12	14
+1675	Spain		Mikel BalenziagaDL	 Athletic Club	32	€ 2.0M	12	10	13	11	13	12	12
+1676	Spain		Pere PonsDM	 Alavés	27	€ 5.0M	12	11	11	11	14	12	12
+1677	Spain		Dani Gómez	 Levante	22	€ 4.0M	12	13	9	13	12	12	14
+1678	Spain		Jorge Sáenz	 Celta Vigo	23	€ 4.0M	12	9	14	11	12	13	12
+1679	Spain		Víctor Mollejo	 Getafe	19	€ 2.0M	11	12	9	13	11	12	13
+1680	Argentin		Emiliano Rigoni	 Elche	27	€ 3.0M	12	13	8	13	10	12	14
+1681	Brazil		Rodrigo Ely	 Alavés	26	€ 4.0M	13	8	14	11	12	13	11
+1682	Brazil		Kenedy	 Granada	24	€ 10.0M	12	13	11	13	12	13	13
+1683	Netherla		Karim RekikDL	 Sevilla	25	€ 6.0M	12	9	14	12	12	14	12
+1684	Netherla		Bobby Adekanye	 Cádiz CF	21	€ 2.0M	10	11	8	13	11	11	16
+1685	Spain		Fidel Chaves	 Elche	30	€ 5.0M	13	14	11	14	12	13	14
+1686	Spain		Tomás PinaDM	 Alavés	32	€ 2.0M	12	10	13	13	14	12	12
+1687	Spain		Sergi Guardiola	 Real Valladol	29	€ 6.0M	12	12	10	13	13	13	13
+1688	Spain		CokeDR	 Levante	33	€ 2.0M	13	12	11	12	15	11	11
+1689	Spain		RecioDM	 SD Eibar	29	€ 4.0M	13	12	12	14	13	11	12
+1690	Spain		Jordi Masip	 Real Valladol	31	€ 4.0M	12	13	7	12	11	12	10
+1691	Argentin		Iván MarconeDM	 Elche	30	€ 3.0M	12	10	13	11	13	13	11
+1692	Argentin		Rodrigo BattagliaDM	 Alavés	29	€ 3.0M	12	11	13	12	14	12	12
+1693	Uruguay		Erick Cabaco	 Getafe	25	€ 5.0M	12	8	14	9	13	13	11
+1694	Portugal		Rafa SoaresDL	 SD Eibar	25	€ 2.0M	12	13	11	14	12	12	13
+1695	Spain		Enric Gallego	 CA Osasuna	33	€ 1.0M	13	12	12	12	13	13	12
+1696	Spain		Mikel VesgaDM	 Athletic Club	27	€ 5.0M	13	10	14	12	12	13	11
+1697	Spain		Joel Robles	 Real Betis	30	€ 5.0M	11	14	8	9	9	12	8
+1698	Spain		SonDR	 Levante	26	€ 7.0M	12	11	11	13	12	13	14
+1699	Argentin		Facundo RoncagliaDR	 CA Osasuna	33	€ 2.0M	13	10	14	11	13	13	12
+1700	Argentin		Jeremías Ledesma	 Cádiz CF	27	€ 2.0M	12	13	8	8	11	12	10
+1701	Portugal		Kévin RodriguesDL	 SD Eibar	26	€ 4.0M	13	13	11	14	13	13	15
+1702	Spain		Aridane	 CA Osasuna	31	€ 2.0M	13	8	15	9	13	13	10
+1703	Spain		Jorge Pulido	 SD Huesca	29	€ 6.0M	13	7	14	9	13	12	10
+1704	Spain		Chema	 Getafe	28	€ 5.0M	12	9	14	11	13	13	11
+1705	Spain		RóberDM	 Levante	25	€ 5.0M	12	9	13	12	12	13	12
+1706	Spain		David García	 CA Osasuna	26	€ 3.0M	13	7	14	11	13	13	11
+1707	Spain		Rubén DuarteDL	 Alavés	24	€ 4.0M	13	10	12	12	12	12	12
+1708	Spain		Antonio Sivera	 Alavés	23	€ 1.0M	11	12	8	7	10	10	10
+1709	Spain		Bryan Gil	 SD Eibar	19	€ 1.0M	11	12	6	13	11	12	14
+1710	Sweden		John Guidetti	 Alavés	28	€ 900K	12	12	10	13	12	12	12
+1711	Martiniq		Mickaël MalsaDM	 Levante	24	€ 4.0M	13	11	12	13	12	13	13
+1712	Mali		Youssouf KonéDL	 Elche	25	€ 5.0M	13	11	12	13	12	14	14
+1713	Spain		Jorge Molina	 Granada	38	€ 700K	13	11	12	11	15	12	10
+1714	Spain		Rubén AlcarazDM	 Real Valladol	29	€ 7.0M	13	12	11	12	13	12	11
+1715	Spain		Jon GuridiDM	 Real Sociedad	25	€ 7.0M	12	12	12	13	13	12	12
+1716	Spain		Rubén	 CA Osasuna	36	€ 1.0M	12	13	8	8	11	12	9
+1717	Spain		ToñoDL	 Levante	30	€ 5.0M	12	11	11	13	12	13	14
+1718	Spain		Yoel	 SD Eibar	31	€ 3.0M	12	13	8	6	10	11	9
+1719	Spain		José ÁngelDL	 SD Eibar	30	€ 3.0M	12	13	11	13	11	13	15
+1720	Spain		Pablo Insua	 SD Huesca	26	€ 4.0M	12	9	13	12	13	12	11
+1721	Spain		David Costas	 Celta Vigo	25	€ 3.0M	12	10	13	12	12	12	12
+1722	Spain		Víctor Rodríguez	 Elche	31	€ 2.0M	12	14	8	15	11	11	14
+1723	Spain		Peru NolaskoainDM	 Athletic Club	21	€ 2.0M	12	10	13	12	12	13	13
+1724	Venezuel		Darwin Machís	 Granada	27	€ 6.0M	11	12	8	11	11	13	15
+1725	Spain		Sergio PostigoDR	 Levante	31	€ 3.0M	14	7	14	9	13	13	10
+1726	Spain		Édgar Méndez	 Alavés	30	€ 6.0M	11	12	10	13	11	13	14
+1727	Spain		Sergio León	 Levante	31	€ 2.0M	12	13	10	13	13	12	14
+1728	Spain		Cala	 Cádiz CF	30	€ 4.0M	13	9	13	11	12	13	11
+1729	Spain		Unai García	 CA Osasuna	28	€ 4.0M	12	8	14	9	12	13	11
+1730	Spain		Brandon Thomas	 CA Osasuna	25	€ 5.0M	12	11	9	12	12	13	13
+1731	Spain		Jon MoncayolaDM	 CA Osasuna	22	€ 1.0M	12	11	12	12	13	12	11
+1732	Spain		Iñaki Peña	 FC Barcelona	21	€ 1.0M	11	13	8	8	10	11	9
+1733	France		Koba Lein	 Valencia	18	€ 700K	11	11	11	13	11	12	11
+1734	Spain		Jorge MiramónDR	 Levante	31	€ 3.0M	13	12	11	14	13	12	13
+1735	Spain		Iñigo LekueDRDL	 Athletic Club	27	€ 5.0M	12	10	12	12	12	13	13
+1736	Spain		Sergio ÁlvarezDM	 SD Eibar	28	€ 5.0M	12	11	12	12	14	13	11
+1737	Spain		Kike	 SD Eibar	30	€ 3.0M	12	11	11	13	12	13	12
+1738	Spain		Carlos ClercDL	 Levante	28	€ 4.0M	13	11	12	12	13	13	13
+1739	Spain		Antonio Puertas	 Granada	28	€ 5.0M	13	13	9	13	13	12	14
+1740	Spain		Nacho VidalDR	 CA Osasuna	25	€ 4.0M	12	11	12	11	13	13	13
+1741	Spain		JoaquínDM	 Real Valladol	24	€ 3.0M	12	9	13	10	11	12	10
+1742	Spain		Jaime SeoaneDM	 SD Huesca	23	€ 4.0M	12	12	10	14	12	11	13
+1743	Côte d'I		Paul AkouokouDM	 Real Betis	22	€ 4.0M	12	9	13	10	12	14	12
+1744	Bosnia a		Kenan Kodro	 Athletic Club	26	€ 5.0M	12	12	11	13	11	13	13
+1745	Portugal		Thierry CorreiaDLDR	 Valencia	21	€ 4.0M	12	10	11	12	13	13	14
+1746	Spain		Víctor Laguardia	 Alavés	30	€ 5.0M	12	8	13	9	13	12	10
+1747	Spain		Kike Barja	 CA Osasuna	23	€ 2.0M	12	12	9	13	12	12	14
+1748	Spain		Fede San EmeterioDM	 Real Valladol	23	€ 2.0M	12	8	13	11	13	12	11
+1749	Spain		Martín AguirregabiríaDR	 Alavés	23	€ 2.0M	12	10	11	11	12	13	13
+1750	Brazil		Deyverson	 Alavés	29	€ 4.0M	12	11	11	11	12	13	13
+1751	Spain		David Timor	 Getafe	30	€ 4.0M	12	14	13	15	12	12	12
+1752	Spain		Jon Bautista	 Real Sociedad	25	€ 4.0M	12	12	12	13	12	13	13
+1753	Spain		Rubén Sobrino	 Valencia	28	€ 5.0M	12	11	11	11	13	12	11
+1754	Spain		Carlos NevaDL	 Granada	24	€ 3.0M	12	11	11	12	12	12	13
+1755	Spain		Mikel RicoDM	 SD Huesca	35	€ 300K	12	11	13	10	14	12	11
+1756	Spain		Pablo Hervías	 Real Valladol	27	€ 4.0M	12	14	8	15	11	12	14
+1757	Spain		Jorge De Frutos	 Levante	23	€ 3.0M	11	11	9	12	12	12	14
+1758	Spain		Javi Sánchez	 Real Valladol	23	€ 3.0M	11	6	14	6	11	13	9
+1759	Peru		Renato TapiaDM	 Celta Vigo	25	€ 2.0M	12	11	13	13	12	13	12
+1760	Costa Ri		Oscar Duarte	 Levante	31	€ 2.0M	12	9	14	10	12	12	10
+1761	Greece		Dimitris SiovasDM	 SD Huesca	31	€ 3.0M	13	11	14	13	13	13	12
+1762	Portugal		LuisinhoDL	 SD Huesca	35	€ 200K	13	13	10	13	13	12	14
+1763	Spain		Anaitz ArbillaDLDR	 SD Eibar	33	€ 1.0M	12	11	11	11	12	12	13
+1764	Spain		Francisco Portillo	 Getafe	30	€ 3.0M	13	13	8	14	13	11	13
+1765	Spain		Lucas TorróDM	 CA Osasuna	26	€ 3.0M	12	9	14	11	13	13	10
+1766	Spain		KevinDR	 Celta Vigo	27	€ 4.0M	13	12	13	13	13	13	15
+1767	Spain		Bruno	 Real Valladol	30	€ 4.0M	12	7	14	8	12	13	11
+1768	Spain		Sergio Herrera	 CA Osasuna	27	€ 5.0M	12	13	8	8	11	12	10
+1769	Spain		Antonio BarragánDR	 Elche	33	€ 900K	12	10	13	11	12	13	12
+1770	Spain		Tete	 Elche	24	€ 4.0M	11	12	9	12	11	12	13
+1771	Brazil		Marcos André	 Real Valladol	23	€ 4.0M	12	12	11	13	12	12	13
+1772	Côte d'I		Idrissa DoumbiaDM	 SD Huesca	22	€ 2.0M	12	11	12	12	13	13	13
+1773	Spain		Víctor DíazDLDR	 Granada	32	€ 2.0M	12	10	13	11	13	12	12
+1774	Spain		Raúl GutiDM	 Elche	23	€ 2.0M	12	11	12	12	13	13	12
+1775	Argentin		Esteban Burgos	 SD Eibar	28	€ 4.0M	12	8	14	10	12	13	11
+1776	Uruguay		Gastón SilvaDL	 SD Huesca	26	€ 3.0M	13	10	13	11	12	13	12
+1777	Cameroon		Yan EtekiDM	 Granada	22	€ 2.0M	12	8	13	11	12	12	11
+1778	Honduras		Anthony Lozano	 Cádiz CF	27	€ 3.0M	12	12	10	13	12	13	13
+1779	Spain		Jairo	 Cádiz CF	26	€ 2.0M	9	11	8	14	10	11	16
+1780	Spain		Fede Vico	 Granada	26	€ 3.0M	12	13	9	15	12	11	14
+1781	Spain		Adrián MarínDL	 Alavés	23	€ 1.0M	12	11	11	12	12	12	13
+1782	Argentin		Leandro Chichizola	 Getafe	30	€ 2.0M	11	13	8	8	11	12	9
+1783	Argentin		Juan Sánchez MiñoDL	 Elche	30	€ 2.0M	13	13	11	14	12	13	13
+1784	Colombia		Steven Lucumí	 Elche	25	€ 1.0M	12	12	10	12	12	12	13
+1785	Côte d'I		Cheick DoukouréDM	 Levante	27	€ 3.0M	12	11	13	12	13	13	12
+1786	Mali		Abdoulay Diaby	 Getafe	29	€ 2.0M	11	11	8	13	11	12	15
+1787	Nigeria		Ramon AzeezDM	 Granada	27	€ 4.0M	12	11	10	13	12	13	13
+1788	Spain		Kike	 Real Valladol	23	€ 2.0M	12	13	10	14	12	12	13
+1789	Spain		Iván Villar	 Celta Vigo	23	€ 1.0M	11	13	7	7	10	11	10
+1790	Japan		Yoshinori Mutô	 SD Eibar	28	€ 8.0M	11	11	9	12	11	12	14
+1791	Croatia		Ante Budimir	 CA Osasuna	29	€ 2.0M	13	11	12	11	12	14	11
+1792	Spain		Toni Villa	 Real Valladol	25	€ 4.0M	11	12	7	14	10	12	15
+1793	Spain		Burgui	 Alavés	26	€ 2.0M	12	13	10	14	11	12	14
+1794	Spain		Javi GalánDL	 SD Huesca	25	€ 3.0M	12	11	9	12	12	12	13
+1795	Spain		Alberto Soro	 Granada	21	€ 1.0M	11	13	7	14	11	11	14
+1796	Denmark		Jens JønssonDM	 Cádiz CF	27	€ 2.0M	12	10	12	12	13	13	12
+1797	Spain		Salvi Sánchez	 Cádiz CF	29	€ 3.0M	11	11	8	12	11	11	15
+1798	Spain		Aitor Ruibal	 Real Betis	24	€ 3.0M	11	12	10	14	11	12	13
+1799	Spain		Míchel	 Real Valladol	32	€ 1.0M	12	14	8	14	12	11	12
+1800	Spain		Luis PérezDR	 Real Valladol	25	€ 2.0M	12	10	11	11	13	13	13
+1801	Uruguay		Alfonso EspinoDL	 Cádiz CF	28	€ 2.0M	11	9	11	10	12	13	13
+1802	Morocco		Jaouad El Yamiq	 Real Valladol	28	€ 2.0M	12	8	14	10	11	14	11
+1803	Spain		Germán	 Granada	33	€ 1.0M	13	7	14	8	13	12	10
+1804	Spain		Juan CruzDL	 CA Osasuna	28	€ 1.0M	11	11	12	11	12	12	13
+1805	Spain		David JuncàDL	 Celta Vigo	26	€ 3.0M	12	11	11	13	12	12	13
+1806	Spain		Quique	 SD Eibar	30	€ 3.0M	12	13	9	14	12	12	13
+1807	Spain		Josan Ferrández	 Elche	30	€ 1.0M	11	11	10	11	11	12	15
+1808	Spain		Nino	 Elche	40	€ 300K	13	13	8	14	14	11	11
+1809	Spain		Javi LópezDL	 Alavés	18	€ 600K	11	10	12	11	11	13	13
+1810	Spain		Manu GarcíaDMDL	 Alavés	34	€ 400K	12	12	12	12	13	12	12
+1811	Spain		Pere Milla	 Elche	27	€ 4.0M	12	13	9	13	12	12	12
+1812	Spain		Ángel MontoroDM	 Granada	32	€ 2.0M	12	10	13	12	13	12	11
+1813	Spain		Juan Carlos	 SD Huesca	29	€ 3.0M	12	14	9	14	11	11	13
+1814	Spain		Pedro LópezDR	 SD Huesca	36	€ 100K	12	10	11	11	13	11	11
+1815	Spain		Dani Calvo	 Elche	26	€ 1.0M	12	7	14	8	11	13	10
+1816	Spain		Jota	 Alavés	29	€ 2.0M	12	14	8	15	11	12	14
+1817	Spain		Dani Raba	 Villarreal	24	€ 2.0M	11	12	9	14	11	12	14
+1818	Spain		Manu SánchezDL	 Atlético de M	19	€ 1.0M	12	8	11	12	12	12	12
+1819	Spain		Ismael GutiérrezDM	 Atlético de M	19	€ 1.0M	11	11	10	13	11	11	14
+1820	Colombia		Neyder Lozano	 Granada	26	€ 2.0M	11	8	14	11	11	13	10
+1821	Guadelou		Dimitri FoulquierDLDR	 Granada	27	€ 700K	12	11	12	11	12	14	14
+1822	Albania		Rey Manaj	 FC Barcelona	23	€ 2.0M	12	11	10	12	11	12	12
+1823	Spain		Luis Rioja	 Alavés	26	€ 3.0M	12	12	10	13	12	12	15
+1824	Spain		Óscar Plano	 Real Valladol	29	€ 2.0M	11	12	10	13	11	12	14
+1825	Spain		Jorge Pombo	 Cádiz CF	26	€ 3.0M	12	14	9	15	12	12	13
+1826	Morocco		Soufiane Chakla	 Villarreal	27	€ 600K	11	7	14	8	11	12	10
+1827	Israel		Shon Weissman	 Real Valladol	24	€ 300K	12	11	10	11	13	13	12
+1828	Poland		Damian Kadzior	 SD Eibar	28	€ 3.0M	12	14	8	13	12	11	12
+1829	Spain		David Ferreiro	 SD Huesca	32	€ 1.0M	12	13	7	14	11	12	14
+1830	Spain		Pedro Alcalá	 Cádiz CF	31	€ 2.0M	12	9	13	10	12	12	11
+1831	Spain		Ximo NavarroDR	 Alavés	30	€ 2.0M	12	10	12	11	11	12	13
+1832	Spain		Raúl GarcíaDL	 Real Valladol	31	€ 2.0M	13	10	11	10	13	12	12
+1833	Spain		Iván Alejo	 Cádiz CF	25	€ 2.0M	11	12	9	13	12	12	14
+1834	Spain		Álex Blanco	 Valencia	21	€ 1.0M	11	12	9	13	11	12	15
+1835	Spain		Jon Ander GarridoDM	 Cádiz CF	30	€ 2.0M	10	7	14	8	13	12	8
+1836	Spain		Kiko Olivas	 Real Valladol	31	€ 2.0M	12	7	14	8	12	12	10
+1837	Spain		IzaDR	 Cádiz CF	27	€ 2.0M	11	11	11	12	11	12	13
+1838	Spain		Íñigo PérezDMDL	 CA Osasuna	32	€ 600K	12	13	10	14	12	12	12
+1839	Spain		José MariDM	 Cádiz CF	32	€ 1.0M	12	10	11	12	13	12	11
+1840	Spain		Eugeni	 SD Huesca	26	€ 2.0M	12	14	10	14	11	11	12
+1841	Spain		Dani Escriche	 SD Huesca	22	€ 1.0M	10	11	10	13	10	12	14
+1842	Spain		Álvaro Giménez	 Cádiz CF	29	€ 2.0M	11	10	10	12	12	13	12
+1843	Switzerl		Saidy JankoDR	 Real Valladol	24	€ 1.0M	11	10	11	12	11	13	13
+1844	Spain		FaliDM	 Cádiz CF	26	€ 1.0M	12	9	13	10	13	12	10
+1845	France		Yann BodigerDM	 Cádiz CF	25	€ 900K	12	10	13	12	12	13	11
+1846	Spain		Alberto Perea	 Cádiz CF	29	€ 2.0M	11	13	8	15	10	11	14
+1847	Spain		Roberto CorreaDR	 SD Eibar	27	€ 2.0M	12	9	12	10	12	13	12
+1848	Spain		Tachi	 Alavés	22	€ 2.0M	11	8	13	10	12	12	11
+1849	Spain		Josema SánchezDL	 Elche	24	€ 2.0M	12	9	14	11	11	13	12
+1850	Spain		QuiniDLDR	 Granada	30	€ 1.0M	11	10	11	11	12	12	13
+1851	Spain		Nano Mesa	 Cádiz CF	25	€ 2.0M	12	12	8	12	12	12	14
+1852	Spain		Diego González	 Elche	25	€ 900K	13	8	13	12	11	12	13
+1853	Argentin		Marcos Mauro	 Cádiz CF	29	€ 1.0M	11	6	13	8	11	12	10
+1854	Argentin		Diego Rodríguez	 Elche	31	€ 2.0M	12	12	9	9	11	13	10
+1855	Spain		Koke Vegas	 Levante	24	€ 1.0M	12	13	8	8	10	11	9
+1856	Spain		José FontánDL	 Celta Vigo	20	€ 800K	11	11	12	14	12	11	11
+1857	Spain		Gonzalo VerdúDM	 Elche	31	€ 1.0M	13	9	14	8	12	13	10
+1858	Spain		CifuDR	 Elche	29	€ 2.0M	12	9	10	9	12	12	14
+1859	Spain		Roberto OlabeDM	 SD Eibar	24	€ 800K	12	12	8	12	12	12	12
+1860	Nigeria		Kelechi Nwakali	 SD Huesca	22	€ 900K	12	12	9	14	11	13	13
+1861	Spain		Juan Pérez	 CA Osasuna	24	€ 3.0M	12	13	7	6	10	12	9
+1862	Spain		Hugo Duro	 Real Madrid	20	€ 700K	11	11	9	12	11	11	13
+1863	Serbia		Filip Malbasic	 Cádiz CF	27	€ 2.0M	12	12	9	13	12	12	13
+1864	Spain		Aarón Escandell	 Granada	24	€ 1.0M	11	13	7	4	10	10	7
+1865	Spain		Luismi SánchezDM	 Elche	28	€ 1.0M	11	8	13	10	12	12	10
+1866	Spain		José Antonio Martínez	 SD Eibar	27	€ 1.0M	11	8	14	9	12	12	9
+1867	Spain		Jokin Ezkieta	 Athletic Club	23	€ 1.0M	11	13	9	8	9	11	8
+1868	Equatori		Carlos AkapoDR	 Cádiz CF	27	€ 1.0M	12	8	13	9	11	13	12
+1869	Spain		Rubén Yáñez	 Getafe	26	€ 400K	11	12	9	8	10	13	10
+1870	Spain		Waldo	 Real Valladol	24	€ 900K	11	12	10	12	11	12	13
+1871	Spain		Darío Poveda	 Getafe	23	€ 500K	9	11	9	11	9	10	14
+1872	Spain		Sergio GonzálezDM	 Cádiz CF	23	€ 600K	10	8	11	10	10	11	12
+1873	Argentin		Lucas Boyé	 Elche	24	€ 1.0M	11	12	10	13	10	13	13
+1874	Argentin		Kevin Sibille	 Valencia	21	€ 400K	11	7	11	10	11	11	10
+1875	Spain		David Gil	 Cádiz CF	26	€ 300K	12	12	8	8	10	13	10
+1876	Congo DR		Nuke MfuluDM	 Elche	26	€ 600K	12	9	13	11	11	14	13
+1877	Spain		Javi MartínezDM	 CA Osasuna	20	€ 200K	11	12	9	12	11	11	12
+1878	Spain		Kepa Uriarte	 Athletic Club	18	€ 100K	9	9	8	14	8	9	12
+1879	Dominica		Luismi QuezadaDL	 Cádiz CF	24	€ 100K	10	11	9	10	10	12	13
+1880	Brazil		Lucas	 Celta Vigo	23	€ 400K	11	8	12	10	11	12	11
+1881	Spain		Unai VélezDM	 Athletic Club	18	€ 80.0K	9	9	9	11	9	9	10
+1882	Spain		Beñat De JesúsDR	 Athletic Club	18	€ 60.0K	9	7	10	9	9	12	13
+1883	Spain		Íñigo López	 Athletic Club	18	€ 100K	8	9	9	10	8	11	13
+1884	Spain		Íñigo GomezaDL	 Athletic Club	18	€ 80.0K	9	7	8	10	9	9	11
+1885	Spain		Julio Gracia	 Getafe	22	€ 200K	10	10	10	11	10	9	12
+1886	Spain		Asier GrandeDR	 Athletic Club	18	€ 40.0K	10	9	10	11	10	10	10
+1887	Spain		Adrián Trespalacios	 Athletic Club	18	€ 30.0K	7	5	11	5	8	8	9
+1888	Spain		Marc RocaDM	 Bayern Munich	23	€ 20.0M	13	12	12	14	14	13	12
+1889	Chile		Charles AránguizDM	 Bayer 04 Leve	31	€ 20.0M	13	12	11	14	14	13	13
+1890	Poland		Lukasz PiszczekDR	 Borussia Dort	35	€ 900K	12	11	12	11	14	13	11
+1891	Croatia		Andrej Kramaric	 TSG 1899 Hoff	29	€ 20.0M	13	14	10	15	12	13	14
+1892	Czech Re		Jiri Pavlenka	 Werder Bremen	28	€ 8.0M	12	13	9	7	10	14	11
+1893	Germany		Lars BenderDRDM	 Bayer 04 Leve	31	€ 9.0M	13	10	14	11	14	14	11
+1894	France		Matteo GuendouziDM	 Hertha BSC	21	€ 30.0M	13	13	12	15	13	13	14
+1895	Germany		Karim Bellarabi	 Bayer 04 Leve	30	€ 20.0M	12	12	10	14	12	14	16
+1896	Morocco		Amine Harit	 Schalke 04	23	€ 10.0M	12	13	8	16	11	12	15
+1897	France		Dan-Axel Zagadou	 Borussia Dort	21	€ 7.0M	12	8	15	12	12	13	11
+1898	Mali		Diadié SamassékouDM	 TSG 1899 Hoff	24	€ 10.0M	13	10	12	13	13	13	13
+1899	Germany		Kerem Demirbay	 Bayer 04 Leve	27	€ 20.0M	13	15	10	15	13	13	13
+1900	Germany		Nadiem Amiri	 Bayer 04 Leve	23	€ 10.0M	13	13	10	13	13	13	13
+1901	Norway		Alexander Sørloth	 RB Leipzig	24	€ 10.0M	13	12	11	13	12	15	14
+1902	Slovenia		Kevin Kampl	 RB Leipzig	29	€ 20.0M	12	13	9	15	14	12	14
+1903	Argentin		Exequiel PalaciosDM	 Bayer 04 Leve	21	€ 10.0M	13	12	11	14	14	12	13
+1904	Austria		Xaver SchlagerDM	 VfL Wolfsburg	22	€ 8.0M	12	12	11	14	14	13	12
+1905	Croatia		Josip Brekalo	 VfL Wolfsburg	22	€ 5.0M	12	14	7	14	10	12	16
+1906	Sweden		Emil Forsberg	 RB Leipzig	28	€ 10.0M	13	14	8	15	12	12	14
+1907	Switzerl		Roman Bürki	 Borussia Dort	29	€ 20.0M	13	13	9	9	11	14	10
+1908	France		Christopher Nkunku	 RB Leipzig	22	€ 10.0M	13	13	9	14	13	12	14
+1909	France		Ibrahima Konaté	 RB Leipzig	21	€ 7.0M	12	8	15	12	11	15	14
+1910	Germany		Matthias GinterDR	 Borussia Mönc	26	€ 10.0M	12	9	14	11	12	13	10
+1911	Switzerl		Denis ZakariaDM	 Borussia Mönc	23	€ 9.0M	13	11	14	13	13	15	14
+1912	Belgium		Dodi Lukebakio	 Hertha BSC	22	€ 8.0M	11	13	10	14	9	14	16
+1913	Croatia		Marin Pongracic	 VfL Wolfsburg	22	€ 7.0M	12	9	15	12	12	14	13
+1914	Denmark		Thomas DelaneyDM	 Borussia Dort	28	€ 20.0M	14	11	14	11	15	13	10
+1915	England		Jude Bellingham	 Borussia Dort	17	€ 3.0M	12	12	10	13	12	13	14
+1916	Germany		Kevin Trapp	 Eintracht Fra	30	€ 20.0M	12	13	9	8	11	13	10
+1917	Germany		Sebastian RudyDMDR	 TSG 1899 Hoff	30	€ 20.0M	12	11	11	14	13	12	12
+1918	Germany		Maximilian ArnoldDM	 VfL Wolfsburg	26	€ 9.0M	13	13	11	13	13	12	11
+1919	Germany		Niklas StarkDM	 Hertha BSC	25	€ 9.0M	13	9	14	11	13	14	13
+1920	Poland		Krzysztof Piatek	 Hertha BSC	25	€ 20.0M	13	12	12	12	13	14	13
+1921	Switzerl		Kevin MbabuDR	 VfL Wolfsburg	25	€ 8.0M	13	10	13	12	12	15	15
+1922	Serbia		Matija Nastasic	 Schalke 04	27	€ 7.0M	12	9	15	10	12	13	11
+1923	Burkina 		Edmond Tapsoba	 Bayer 04 Leve	21	€ 9.0M	13	10	14	13	12	14	13
+1924	Denmark		Jacob Bruun Larsen	 TSG 1899 Hoff	21	€ 8.0M	12	12	9	12	12	13	13
+1925	France		Alassane Pléa	 Borussia Mönc	27	€ 20.0M	13	13	10	13	13	14	13
+1926	Switzerl		Manuel Akanji	 Borussia Dort	25	€ 20.0M	12	10	14	12	12	15	13
+1927	Germany		Jonas HectorDLDM	 1. FC Köln	30	€ 10.0M	12	11	11	12	13	13	12
+1928	Germany		Florian Neuhaus	 Borussia Mönc	23	€ 9.0M	12	13	10	14	12	13	13
+1929	Germany		Arne MaierDM	 Arminia Biele	21	€ 4.0M	12	12	10	14	12	12	13
+1930	Hungary		Péter Gulácsi	 RB Leipzig	30	€ 10.0M	12	13	8	7	10	13	9
+1931	Austria		Valentino LazaroDR	 Borussia Mönc	24	€ 9.0M	12	13	11	15	11	13	15
+1932	France		Nordi MukieleDR	 RB Leipzig	22	€ 3.0M	13	9	14	12	12	15	14
+1933	Germany		Felix UduokhaiDL	 FC Augsburg	22	€ 7.0M	12	9	14	11	12	14	12
+1934	Switzerl		Djibril SowDM	 Eintracht Fra	23	€ 7.0M	12	12	12	14	12	14	14
+1935	Mali		Amadou HaidaraDM	 RB Leipzig	22	€ 4.0M	12	12	11	14	13	14	14
+1936	Denmark		Yussuf Poulsen	 RB Leipzig	26	€ 20.0M	12	11	12	11	14	16	14
+1937	Denmark		Robert SkovDL	 TSG 1899 Hoff	24	€ 10.0M	13	14	10	13	13	12	12
+1938	France		Marcus Thuram	 Borussia Mönc	22	€ 10.0M	13	12	11	13	12	15	15
+1939	Germany		Daniel CaligiuriDR	 FC Augsburg	31	€ 10.0M	13	12	11	12	13	13	13
+1940	Germany		Sven BenderDM	 Bayer 04 Leve	31	€ 5.0M	12	9	14	10	14	14	11
+1941	Germany		Lukas KlostermannDLDR	 RB Leipzig	24	€ 9.0M	12	9	14	10	12	15	12
+1942	Germany		Max Kruse	 Union Berlin	32	€ 3.0M	13	14	9	15	13	11	12
+1943	Germany		Ridle BakuDM	 VfL Wolfsburg	22	€ 4.0M	12	11	11	12	13	14	14
+1944	Portugal		André Silva	 Eintracht Fra	24	€ 20.0M	13	12	11	13	13	14	13
+1945	Spain		AngeliñoDL	 RB Leipzig	23	€ 20.0M	13	13	11	13	13	13	14
+1946	Switzerl		Breel Embolo	 Borussia Mönc	23	€ 8.0M	13	13	11	13	13	14	14
+1947	Germany		Marius Wolf	 1. FC Köln	25	€ 10.0M	12	12	11	12	13	14	14
+1948	Netherla		Javairo Dilrosun	 Hertha BSC	22	€ 7.0M	11	13	8	15	10	13	16
+1949	Switzerl		Nico ElvediDRDL	 Borussia Mönc	23	€ 6.0M	13	9	14	11	12	14	12
+1950	Turkey		Yunus Malli	 VfL Wolfsburg	28	€ 5.0M	13	14	8	15	12	12	14
+1951	Brazil		WendellDL	 Bayer 04 Leve	27	€ 8.0M	12	12	11	13	12	13	15
+1952	Algeria		Ishak Belfodil	 TSG 1899 Hoff	28	€ 7.0M	12	13	12	14	11	14	13
+1953	United S		Tyler AdamsDMDR	 RB Leipzig	21	€ 5.0M	13	11	11	13	13	13	13
+1954	Austria		Florian GrillitschDM	 TSG 1899 Hoff	24	€ 9.0M	12	13	12	14	12	13	13
+1955	Belgium		Thomas MeunierDR	 Borussia Dort	28	€ 10.0M	13	13	13	13	13	14	13
+1956	Belgium		Sébastiaan Bornauw	 1. FC Köln	21	€ 4.0M	12	8	15	10	12	13	11
+1957	Germany		Ron-Robert Zieler	 1. FC Köln	31	€ 2.0M	12	14	9	8	11	13	9
+1958	Serbia		Filip Kostic	 Eintracht Fra	27	€ 20.0M	12	13	10	13	11	14	15
+1959	Argentin		Lucas Alario	 Bayer 04 Leve	27	€ 10.0M	12	12	10	12	13	13	12
+1960	Kosovo		Milot Rashica	 Werder Bremen	24	€ 8.0M	11	12	8	12	11	13	16
+1961	Austria		Hannes Wolf	 Borussia Mönc	21	€ 6.0M	13	13	9	13	13	12	14
+1962	England		Ryan SessegnonDL	 TSG 1899 Hoff	20	€ 20.0M	11	12	9	11	11	13	14
+1963	Germany		Maximilian EggesteinDM	 Werder Bremen	23	€ 9.0M	12	12	10	14	13	12	11
+1964	Germany		Davie Selke	 Werder Bremen	25	€ 5.0M	13	10	11	11	13	15	13
+1965	Algeria		Ramy BensebaïniDL	 Borussia Mönc	25	€ 9.0M	13	11	13	12	13	14	13
+1966	France		Jérôme RoussillonDL	 VfL Wolfsburg	27	€ 10.0M	13	12	12	12	13	14	15
+1967	Germany		Suat SerdarDM	 Schalke 04	23	€ 6.0M	13	12	12	13	14	13	13
+1968	Colombia		Santiago AriasDR	 Bayer 04 Leve	28	€ 10.0M	13	12	12	13	13	14	14
+1969	France		Jean-Philippe Mateta	 1.FSV Mainz 0	23	€ 8.0M	12	12	11	12	11	14	14
+1970	Israel		Munas Dabbur	 TSG 1899 Hoff	28	€ 10.0M	13	14	10	15	13	12	13
+1971	Austria		Konrad LaimerDRDM	 RB Leipzig	23	€ 8.0M	12	10	11	12	13	13	13
+1972	Austria		Michael Gregoritsch	 FC Augsburg	26	€ 8.0M	12	14	11	14	11	13	12
+1973	Belgium		Koen Casteels	 VfL Wolfsburg	28	€ 8.0M	13	13	9	9	11	13	11
+1974	Finland		Lukás Hradecký	 Bayer 04 Leve	30	€ 8.0M	12	14	9	7	10	13	10
+1975	France		Moussa NiakhatéDL	 1.FSV Mainz 0	24	€ 6.0M	12	9	14	12	11	15	13
+1976	Germany		Marcel HalstenbergDL	 RB Leipzig	28	€ 20.0M	13	12	13	11	12	14	12
+1977	Germany		Holger Badstuber	 VfB Stuttgart	31	€ 1.0M	11	9	13	11	12	11	8
+1978	Spain		Aarón MartínDL	 1.FSV Mainz 0	23	€ 7.0M	13	12	11	13	13	12	14
+1979	Switzerl		Edimilson FernandesDM	 1.FSV Mainz 0	24	€ 8.0M	12	12	12	14	11	13	13
+1980	Turkey		Ozan Kabak	 Schalke 04	20	€ 4.0M	12	8	14	11	12	14	12
+1981	Argentin		Santiago AscacíbarDM	 Hertha BSC	23	€ 8.0M	12	8	12	11	13	14	13
+1982	United S		John Brooks	 VfL Wolfsburg	27	€ 6.0M	12	9	15	12	11	14	13
+1983	Czech Re		Vladimir DaridaDM	 Hertha BSC	29	€ 5.0M	12	12	9	12	13	12	12
+1984	Germany		Timo Horn	 1. FC Köln	27	€ 6.0M	13	13	10	9	11	14	10
+1985	Netherla		Bas Dost	 Eintracht Fra	31	€ 8.0M	12	11	11	12	12	13	11
+1986	Brazil		WilliamDR	 VfL Wolfsburg	25	€ 7.0M	13	12	11	13	13	13	14
+1987	Senegal		Salif SanéDM	 Schalke 04	29	€ 10.0M	11	9	15	10	11	14	11
+1988	Congo DR		Silas Wamangituka	 VfB Stuttgart	20	€ 3.0M	11	11	10	12	11	14	15
+1989	Japan		Ritsu Dôan	 Arminia Biele	22	€ 6.0M	12	12	8	14	11	13	14
+1990	Germany		Kevin VogtDM	 TSG 1899 Hoff	28	€ 9.0M	13	9	14	11	13	14	11
+1991	Germany		Christoph KramerDM	 Borussia Mönc	29	€ 8.0M	13	10	12	13	14	14	11
+1992	Germany		Amin Younes	 Eintracht Fra	26	€ 8.0M	12	13	7	15	11	11	16
+1993	Germany		Maximilian Philipp	 VfL Wolfsburg	26	€ 6.0M	12	14	8	15	11	12	14
+1994	Germany		Daniel Ginczek	 VfL Wolfsburg	29	€ 6.0M	12	11	11	11	13	14	13
+1995	Germany		Florian Müller	 SC Freiburg	22	€ 4.0M	12	12	8	9	10	13	10
+1996	Germany		Nico SchlotterbeckDL	 Union Berlin	20	€ 2.0M	12	9	13	11	12	12	10
+1997	Turkey		Ömer Toprak	 Werder Bremen	31	€ 5.0M	12	7	14	10	12	14	12
+1998	Paraguay		Omar Alderete	 Hertha BSC	23	€ 5.0M	13	8	15	11	12	14	11
+1999	South Ko		Hwang Hee-Chan	 RB Leipzig	24	€ 4.0M	12	12	10	12	13	14	15
+2000	France		Evan N'Dicka	 Eintracht Fra	20	€ 3.0M	12	9	13	12	11	14	13
+2001	Germany		Oliver Baumann	 TSG 1899 Hoff	30	€ 4.0M	12	13	8	7	11	13	9
+2002	Germany		Niclas Füllkrug	 Werder Bremen	27	€ 8.0M	12	12	12	12	12	14	13
+2003	Germany		Gonzalo Castro	 VfB Stuttgart	33	€ 1.0M	12	13	9	14	12	12	12
+2004	Germany		Dennis GeigerDM	 TSG 1899 Hoff	22	€ 7.0M	12	12	9	14	13	11	12
+2005	Netherla		Jetro WillemsDL	 Eintracht Fra	26	€ 4.0M	13	13	11	13	11	14	15
+2006	Sweden		Robin Quaison	 1.FSV Mainz 0	26	€ 7.0M	12	13	11	13	13	14	14
+2007	Argentin		Nicolás González	 VfB Stuttgart	22	€ 6.0M	13	12	10	14	13	13	14
+2008	Tunisia		Ellyes SkhiriDM	 1. FC Köln	25	€ 7.0M	13	13	13	15	13	14	14
+2009	France		Josuha GuilavoguiDM	 VfL Wolfsburg	29	€ 9.0M	12	10	14	11	13	14	12
+2010	Germany		Patrick Herrmann	 Borussia Mönc	29	€ 7.0M	12	12	10	13	12	13	15
+2011	Germany		Sebastian RodeDM	 Eintracht Fra	29	€ 7.0M	12	10	12	13	14	13	13
+2012	Germany		Noah KatterbachDL	 1. FC Köln	19	€ 3.0M	12	11	11	12	12	12	13
+2013	Netherla		Jeffrey Bruma	 VfL Wolfsburg	28	€ 2.0M	12	11	14	12	12	14	12
+2014	Slovakia		Ondrej Duda	 1. FC Köln	25	€ 8.0M	12	14	9	15	12	11	13
+2015	Belgium		Dedryck Boyata	 Hertha BSC	29	€ 7.0M	13	8	15	10	13	14	12
+2016	France		Lucas TousartDM	 Hertha BSC	23	€ 5.0M	12	9	14	11	14	14	11
+2017	France		Almamy TouréDR	 Eintracht Fra	24	€ 5.0M	12	10	13	12	12	14	13
+2018	Germany		Jordan TorunarighaDL	 Hertha BSC	22	€ 3.0M	13	11	15	12	12	15	14
+2019	Hungary		Willi Orban	 RB Leipzig	27	€ 7.0M	12	8	15	10	11	13	11
+2020	Netherla		Deyovaisio ZeefuikDR	 Hertha BSC	22	€ 4.0M	12	10	12	12	12	14	14
+2021	Cameroon		Maxim Choupo-Moting	 Bayern Munich	31	€ 5.0M	12	13	10	14	10	13	14
+2022	Austria		Aleksandar Dragovic	 Bayer 04 Leve	29	€ 3.0M	12	9	14	11	12	13	11
+2023	Czech Re		Pavel KaderabekDR	 TSG 1899 Hoff	28	€ 9.0M	12	10	13	10	12	15	13
+2024	France		Anthony Modeste	 1. FC Köln	32	€ 2.0M	12	12	11	12	12	13	11
+2025	Germany		Daniel Didavi	 VfB Stuttgart	30	€ 3.0M	12	15	10	14	12	12	13
+2026	Germany		Loris Karius	 Union Berlin	27	€ 9.0M	13	13	9	10	11	14	11
+2027	Germany		Yannick GerhardtDMDL	 VfL Wolfsburg	26	€ 4.0M	12	11	12	12	12	14	13
+2028	Italy		Vincenzo Grifo	 SC Freiburg	27	€ 9.0M	13	15	8	15	12	12	13
+2029	Austria		Stefan PoschDR	 TSG 1899 Hoff	23	€ 5.0M	12	8	14	11	11	14	13
+2030	Bosnia a		Vedad Ibisevic	 Schalke 04	35	€ 400K	12	12	10	12	13	13	10
+2031	Croatia		Tin JedvajDR	 Bayer 04 Leve	24	€ 4.0M	12	10	13	12	12	13	12
+2032	France		Bouna SarrDR	 Bayern Munich	28	€ 9.0M	12	11	11	13	12	13	15
+2033	Germany		Mitchell WeiserDR	 Bayer 04 Leve	26	€ 6.0M	11	13	10	14	11	12	15
+2034	Germany		Benjamin HenrichsDLDR	 RB Leipzig	23	€ 5.0M	13	12	12	14	12	14	14
+2035	Germany		Ralf Fährmann	 Schalke 04	31	€ 3.0M	12	13	9	7	10	13	9
+2036	Germany		Jan Thielmann	 1. FC Köln	18	€ 3.0M	11	11	9	10	12	12	12
+2037	Netherla		Wout Weghorst	 VfL Wolfsburg	27	€ 9.0M	12	11	12	12	13	14	11
+2038	Algeria		Nabil BentalebDM	 Schalke 04	25	€ 3.0M	13	12	11	14	12	14	12
+2039	Austria		Martin HintereggerDL	 Eintracht Fra	27	€ 7.0M	12	10	15	10	12	12	11
+2040	Belgium		Benito Raman	 Schalke 04	25	€ 6.0M	11	12	9	12	12	13	15
+2041	Germany		Alexander Schwolow	 Hertha BSC	28	€ 6.0M	11	13	8	9	10	13	10
+2042	Germany		André Hahn	 FC Augsburg	29	€ 7.0M	12	12	12	11	13	15	13
+2043	Germany		Jonas Hofmann	 Borussia Mönc	28	€ 7.0M	13	13	9	13	13	12	14
+2044	Germany		Kevin AkpogumaDRDL	 TSG 1899 Hoff	25	€ 5.0M	12	10	14	11	12	15	13
+2045	Germany		Maximilian MittelstädtDL	 Hertha BSC	23	€ 6.0M	12	12	12	14	12	13	14
+2046	Germany		Lars Stindl	 Borussia Mönc	31	€ 2.0M	13	13	9	14	13	13	12
+2047	Switzerl		Admir Mehmedi	 VfL Wolfsburg	29	€ 6.0M	12	13	10	14	12	12	14
+2048	Switzerl		Ruben Vargas	 FC Augsburg	21	€ 4.0M	12	13	9	14	12	12	15
+2049	Brazil		IagoDL	 FC Augsburg	23	€ 4.0M	13	13	11	14	13	13	15
+2050	Togo		Ihlas Bebou	 TSG 1899 Hoff	26	€ 6.0M	11	11	10	13	11	14	15
+2051	Austria		Julian BaumgartlingerDM	 Bayer 04 Leve	32	€ 3.0M	12	9	14	11	14	14	11
+2052	Germany		Leonardo Bittencourt	 Werder Bremen	26	€ 5.0M	12	13	8	13	12	12	15
+2053	Germany		Levin Öztunali	 1.FSV Mainz 0	24	€ 4.0M	12	12	10	13	11	14	14
+2054	Greece		Konstantinos Mavropanos	 VfB Stuttgart	22	€ 8.0M	11	8	15	10	11	14	12
+2055	Iceland		Alfreð Finnbogason	 FC Augsburg	31	€ 6.0M	12	12	10	12	13	12	12
+2056	Colombia		Jhon Córdoba	 Hertha BSC	27	€ 8.0M	12	10	12	11	13	16	14
+2057	Austria		Kevin StögerDM	 1.FSV Mainz 0	26	€ 7.0M	12	12	10	14	12	12	13
+2058	Czech Re		Theodor Gebre SelassieDR	 Werder Bremen	33	€ 1.0M	12	10	12	11	12	14	14
+2059	France		Baptiste SantamariaDM	 SC Freiburg	25	€ 5.0M	13	12	11	14	13	14	14
+2060	Germany		Benjamin Hübner	 TSG 1899 Hoff	31	€ 5.0M	12	8	15	9	12	13	9
+2061	Germany		Eduard LöwenDM	 Hertha BSC	23	€ 4.0M	12	12	13	12	12	13	11
+2062	Switzerl		Marwin Hitz	 Borussia Dort	32	€ 4.0M	12	13	9	8	10	13	10
+2063	Argentin		David Abraham	 Eintracht Fra	34	€ 500K	12	7	15	9	13	15	13
+2064	Austria		Christoph Baumgartner	 TSG 1899 Hoff	21	€ 2.0M	12	13	9	13	12	12	12
+2065	Belgium		Orel MangalaDM	 VfB Stuttgart	22	€ 3.0M	12	11	12	13	13	14	13
+2066	England		Reece OxfordDM	 FC Augsburg	21	€ 2.0M	12	9	14	11	12	13	12
+2067	Germany		Christian GentnerDM	 Union Berlin	34	€ 300K	12	12	12	13	13	13	11
+2068	Netherla		Tahith Chong	 Werder Bremen	20	€ 9.0M	11	13	8	13	11	13	16
+2069	Ecuador		Carlos GruezoDM	 FC Augsburg	25	€ 4.0M	12	10	11	13	13	13	12
+2070	Morocco		Aymen Barkok	 Eintracht Fra	22	€ 2.0M	12	13	11	15	11	14	14
+2071	Japan		Makoto HasebeDM	 Eintracht Fra	36	€ 600K	12	10	12	12	13	12	12
+2072	Germany		Mark Uth	 Schalke 04	28	€ 4.0M	11	12	10	13	11	13	15
+2073	Germany		Dominique Heintz	 SC Freiburg	26	€ 6.0M	12	9	15	10	12	13	10
+2074	Germany		Florian Niederlechner	 FC Augsburg	29	€ 6.0M	13	11	11	13	13	13	13
+2075	Spain		Omar MascarellDM	 Schalke 04	27	€ 5.0M	13	11	11	13	14	12	11
+2076	Sweden		Ludwig AugustinssonDL	 Werder Bremen	26	€ 6.0M	13	12	12	12	13	13	12
+2077	Finland		Niklas Moisander	 Werder Bremen	34	€ 300K	12	9	13	11	12	13	10
+2078	France		Benjamin StambouliDM	 Schalke 04	29	€ 4.0M	13	9	13	12	13	13	11
+2079	France		Jonathan SchmidDR	 SC Freiburg	30	€ 4.0M	13	12	11	12	13	14	13
+2080	Germany		Louis BeyerDR	 Borussia Mönc	20	€ 3.0M	12	8	14	12	12	13	13
+2081	Switzerl		Gregor Kobel	 VfB Stuttgart	22	€ 3.0M	12	13	9	8	11	12	9
+2082	Serbia		Milos VeljkovicDM	 Werder Bremen	24	€ 4.0M	11	8	13	11	12	12	10
+2083	Austria		Stefan LainerDR	 Borussia Mönc	27	€ 5.0M	12	11	11	12	13	14	14
+2084	Czech Re		Marek Suchy	 FC Augsburg	32	€ 1.0M	12	7	14	9	12	13	9
+2085	Germany		Nils Petersen	 SC Freiburg	31	€ 4.0M	12	11	11	10	12	13	11
+2086	Germany		Christian GünterDL	 SC Freiburg	28	€ 6.0M	12	11	12	12	11	14	14
+2087	Germany		Nico SchulzDL	 Borussia Dort	27	€ 9.0M	11	11	12	11	12	14	13
+2088	Germany		Felix PasslackDR	 Borussia Dort	22	€ 2.0M	12	11	10	11	12	13	13
+2089	Hungary		Roland Sallai	 SC Freiburg	23	€ 4.0M	12	14	9	14	11	12	13
+2090	Netherla		Jeffrey Gouweleeuw	 FC Augsburg	29	€ 6.0M	12	10	13	13	12	13	13
+2091	Netherla		Jean-Paul Boëtius	 1.FSV Mainz 0	26	€ 8.0M	12	13	8	14	10	12	14
+2092	Spain		Jorge Meré	 1. FC Köln	23	€ 2.0M	12	9	14	12	12	12	11
+2093	South Ko		Kwon Chang-Hoon	 SC Freiburg	26	€ 5.0M	12	14	9	15	13	12	14
+2094	Germany		Robin Knoche	 Union Berlin	28	€ 5.0M	11	7	14	10	11	12	9
+2095	Netherla		Guus Til	 SC Freiburg	22	€ 3.0M	12	12	10	13	12	13	12
+2096	Serbia		Mijat Gacinovic	 TSG 1899 Hoff	25	€ 6.0M	12	12	9	14	12	12	16
+2097	Japan		Daichi Kamada	 Eintracht Fra	23	€ 4.0M	12	13	9	15	12	12	14
+2098	Austria		Alessandro Schöpf	 Schalke 04	26	€ 3.0M	12	12	9	13	12	12	13
+2099	Austria		Philipp Lienhart	 SC Freiburg	24	€ 3.0M	12	7	13	10	11	14	12
+2100	Germany		Dominik KohrDM	 Eintracht Fra	26	€ 5.0M	12	9	14	10	13	14	11
+2101	Germany		Tony JantschkeDR	 Borussia Mönc	30	€ 2.0M	11	7	13	10	12	12	11
+2102	Germany		Dominick Drexler	 1. FC Köln	30	€ 4.0M	13	14	9	15	12	12	13
+2103	Germany		Robert AndrichDM	 Union Berlin	25	€ 5.0M	13	11	13	12	14	13	11
+2104	Germany		Marvin PlattenhardtDL	 Hertha BSC	28	€ 9.0M	12	12	11	13	11	13	12
+2105	Germany		Pascal StenzelDRDM	 VfB Stuttgart	24	€ 3.0M	11	10	11	12	13	12	10
+2106	Switzerl		Renato Steffen	 VfL Wolfsburg	28	€ 4.0M	13	12	10	12	13	12	15
+2107	Japan		Yûya Ôsako	 Werder Bremen	30	€ 3.0M	12	12	10	13	12	13	13
+2108	Bosnia a		Ermedin Demirovic	 SC Freiburg	22	€ 3.0M	12	12	10	13	12	13	13
+2109	Croatia		Borna SosaDL	 VfB Stuttgart	22	€ 3.0M	11	11	11	13	11	13	14
+2110	Denmark		Frederik Rønnow	 Schalke 04	27	€ 2.0M	12	12	7	9	10	13	10
+2111	Germany		Danny LatzaDM	 1.FSV Mainz 0	30	€ 3.0M	12	12	10	12	13	12	12
+2112	Germany		Erik Thommy	 VfB Stuttgart	25	€ 4.0M	12	14	8	14	12	11	14
+2113	Germany		Waldemar AntonDM	 VfB Stuttgart	24	€ 4.0M	12	9	13	10	12	13	10
+2114	Germany		Daniel BrosinskiDR	 1.FSV Mainz 0	32	€ 2.0M	12	12	10	11	13	12	13
+2115	Germany		Erik DurmDLDR	 Eintracht Fra	28	€ 4.0M	11	10	11	12	12	12	14
+2116	Germany		Jean-Manuel MbomDM	 Werder Bremen	20	€ 1.0M	12	11	11	12	13	13	11
+2117	Netherla		Joshua BrenetDLDR	 TSG 1899 Hoff	26	€ 3.0M	12	11	11	12	12	13	15
+2118	Norway		Rune Jarstein	 Hertha BSC	35	€ 1.0M	12	13	7	8	10	13	9
+2119	Portugal		Gonçalo Paciência	 Schalke 04	26	€ 4.0M	12	13	11	15	11	14	14
+2120	Switzerl		Michael LangDR	 Borussia Mönc	29	€ 4.0M	12	11	12	11	13	13	11
+2121	Wales		Rabbi Matondo	 Schalke 04	19	€ 3.0M	10	11	7	12	10	12	16
+2122	Germany		Tobias StroblDM	 FC Augsburg	30	€ 4.0M	13	9	13	11	13	12	8
+2123	Germany		Marc-Oliver Kempf	 VfB Stuttgart	25	€ 3.0M	12	9	14	12	12	13	12
+2124	Germany		Ismail Jakobs	 1. FC Köln	20	€ 3.0M	10	10	10	10	11	13	14
+2125	Germany		Marcel SchmelzerDL	 Borussia Dort	32	€ 2.0M	11	9	12	10	13	12	11
+2126	Netherla		Jerry St. JusteDR	 1.FSV Mainz 0	23	€ 3.0M	12	11	13	12	12	13	13
+2127	Norway		Håvard NordtveitDM	 TSG 1899 Hoff	30	€ 3.0M	12	10	13	10	13	13	10
+2128	Switzerl		Steven Zuber	 Eintracht Fra	28	€ 4.0M	12	12	11	12	11	13	13
+2129	Venezuel		Sergio Córdova	 Arminia Biele	22	€ 2.0M	12	11	11	13	11	14	14
+2130	South Ko		Ji Dong-Won	 1.FSV Mainz 0	29	€ 4.0M	12	13	10	14	11	12	14
+2131	Armenia		Sargis Adamyan	 TSG 1899 Hoff	27	€ 5.0M	12	13	10	13	12	13	14
+2132	Austria		Stefan IlsankerDM	 Eintracht Fra	31	€ 6.0M	12	9	14	10	14	14	11
+2133	Germany		Danny da CostaDR	 Eintracht Fra	27	€ 2.0M	12	9	13	11	11	15	14
+2134	Germany		Cedric Teuchert	 Union Berlin	23	€ 3.0M	11	11	9	12	10	12	15
+2135	Greece		Kostas StafylidisDL	 TSG 1899 Hoff	26	€ 3.0M	12	12	12	11	13	13	11
+2136	Slovakia		Lászlo Bénes	 Borussia Mönc	22	€ 4.0M	12	14	9	14	12	11	13
+2137	Sweden		Oscar WendtDL	 Borussia Mönc	34	€ 300K	12	12	11	13	12	12	12
+2138	United S		Josh Sargent	 Werder Bremen	20	€ 3.0M	12	11	10	12	13	13	12
+2139	Austria		Florian Kainz	 1. FC Köln	27	€ 4.0M	12	13	9	13	12	12	14
+2140	Germany		Bastian OczipkaDL	 Schalke 04	31	€ 3.0M	12	12	11	12	12	13	12
+2141	Germany		Lucas Höler	 SC Freiburg	26	€ 4.0M	12	11	11	11	12	14	14
+2142	Germany		Marvin Friedrich	 Union Berlin	24	€ 3.0M	12	8	14	10	12	13	10
+2143	Germany		Atakan KarazorDM	 VfB Stuttgart	23	€ 3.0M	12	9	13	12	12	12	10
+2144	Netherla		Mike van der Hoorn	 Arminia Biele	27	€ 4.0M	12	9	14	11	12	14	12
+2145	Spain		Josep Martínez	 RB Leipzig	22	€ 1.0M	11	12	7	8	9	12	9
+2146	Sweden		Sebastian Andersson	 1. FC Köln	29	€ 5.0M	12	10	12	10	13	14	11
+2147	Cameroon		Pierre KundeDM	 1.FSV Mainz 0	25	€ 3.0M	12	11	12	11	13	15	13
+2148	Japan		Wataru EndôDM	 VfB Stuttgart	27	€ 4.0M	12	10	12	12	13	12	12
+2149	Denmark		Andreas PoulsenDL	 Borussia Mönc	20	€ 2.0M	12	11	11	11	12	14	12
+2150	Germany		Janik Haberer	 SC Freiburg	26	€ 2.0M	12	11	11	12	13	13	13
+2151	Germany		Marco Richter	 FC Augsburg	22	€ 4.0M	12	13	9	13	11	11	13
+2152	Germany		Kevin Möhwald	 Werder Bremen	27	€ 2.0M	12	13	10	14	12	11	12
+2153	Germany		Lazar Samardzic	 RB Leipzig	18	€ 1.0M	12	13	8	14	11	13	13
+2154	Guinea		Ibrahima Traoré	 Borussia Mönc	32	€ 1.0M	12	12	8	13	12	11	15
+2155	United S		Timothy ChandlerDLDR	 Eintracht Fra	30	€ 3.0M	12	10	13	11	12	14	12
+2156	Czech Re		Tomas Koubek	 FC Augsburg	27	€ 2.0M	12	13	10	6	11	12	9
+2157	Finland		Joel Pohjanpalo	 Union Berlin	25	€ 3.0M	11	11	10	10	12	12	10
+2158	Germany		Noah-Joel Sarenren-Bazee	 FC Augsburg	23	€ 3.0M	11	11	9	12	11	13	15
+2159	Germany		Felix AguDLDR	 Werder Bremen	20	€ 2.0M	11	9	11	11	11	13	14
+2160	Hungary		Ádám Szalai	 1.FSV Mainz 0	32	€ 1.0M	12	11	11	12	13	13	11
+2161	Netherla		Daley SinkgravenDL	 Bayer 04 Leve	25	€ 3.0M	12	12	9	14	12	12	13
+2162	Brazil		João Victor	 VfL Wolfsburg	26	€ 4.0M	12	13	8	13	11	12	14
+2163	England		Clinton MolaDM	 VfB Stuttgart	19	€ 1.0M	12	11	11	12	12	13	13
+2164	Germany		Stefan Bell	 1.FSV Mainz 0	28	€ 2.0M	12	7	14	9	11	12	9
+2165	Germany		Felix Klaus	 VfL Wolfsburg	27	€ 4.0M	11	12	10	12	10	13	15
+2166	Germany		Rani KhediraDM	 FC Augsburg	26	€ 3.0M	12	9	13	11	13	14	11
+2167	Germany		Marius Bülter	 Union Berlin	27	€ 3.0M	11	11	11	11	12	13	13
+2168	Germany		Alexander Hack	 1.FSV Mainz 0	26	€ 3.0M	11	9	14	12	11	13	13
+2169	Bosnia a		Ermin BicakcicDR	 TSG 1899 Hoff	30	€ 3.0M	11	7	15	8	11	13	10
+2170	Germany		Reinhold YaboDM	 Arminia Biele	28	€ 3.0M	12	10	11	13	13	13	13
+2171	Germany		Jonathan Burkardt	 1.FSV Mainz 0	20	€ 2.0M	11	11	9	12	11	12	14
+2172	Ghana		Kasim Adams	 TSG 1899 Hoff	25	€ 3.0M	11	9	15	10	11	14	12
+2173	Germany		Lukas KlünterDR	 Hertha BSC	24	€ 3.0M	11	9	13	10	11	14	14
+2174	Germany		Marcel Hartel	 Arminia Biele	24	€ 3.0M	12	13	8	14	11	11	14
+2175	Germany		Julian Schieber	 FC Augsburg	31	€ 2.0M	12	11	11	11	13	14	14
+2176	Germany		Fabian Bredlow	 VfB Stuttgart	25	€ 2.0M	12	12	8	8	10	13	9
+2177	Germany		Jannes HornDL	 1. FC Köln	23	€ 2.0M	12	11	12	11	12	13	12
+2178	Germany		Gian-Luca ItterDL	 SC Freiburg	21	€ 1.0M	12	11	11	12	12	12	13
+2179	Austria		Marco FriedlDL	 Werder Bremen	22	€ 2.0M	12	11	12	12	12	14	11
+2180	Denmark		Frederik SørensenDR	 1. FC Köln	28	€ 2.0M	12	8	14	8	11	13	9
+2181	Germany		Nicolas HöflerDM	 SC Freiburg	30	€ 2.0M	12	9	11	13	13	13	11
+2182	Germany		Rafael CzichosDL	 1. FC Köln	30	€ 3.0M	13	11	14	11	13	13	10
+2183	Germany		Marco HögerDM	 1. FC Köln	30	€ 2.0M	12	11	12	11	13	12	9
+2184	Germany		Robin Zentner	 1.FSV Mainz 0	25	€ 2.0M	12	12	9	6	10	14	10
+2185	Germany		Benno SchmitzDRDM	 1. FC Köln	25	€ 5.0M	12	10	11	12	12	13	11
+2186	Germany		Raphael FrambergerDR	 FC Augsburg	24	€ 3.0M	11	10	12	11	12	13	13
+2187	Turkey		Ahmed Kutucu	 Schalke 04	20	€ 1.0M	12	12	9	13	12	13	12
+2188	Brazil		Klauss	 TSG 1899 Hoff	23	€ 1.0M	11	10	12	11	11	13	10
+2189	Brazil		TutaDR	 Eintracht Fra	21	€ 2.0M	11	8	13	11	11	13	13
+2190	Austria		Karim Onisiwo	 1.FSV Mainz 0	28	€ 4.0M	11	11	10	12	11	14	14
+2191	Germany		Salih ÖzcanDM	 1. FC Köln	22	€ 2.0M	12	12	11	13	13	13	12
+2192	Poland		Robert GumnyDRDL	 FC Augsburg	22	€ 400K	12	10	11	11	12	12	13
+2193	Kosovo		Elvis RexhbecajDM	 1. FC Köln	22	€ 1.0M	12	10	12	11	13	14	12
+2194	Morocco		Hamza MendylDL	 Schalke 04	22	€ 3.0M	11	10	12	11	12	15	15
+2195	Austria		Michael Langer	 Schalke 04	35	€ 200K	12	13	8	5	12	12	8
+2196	Bosnia a		Marijan CavarDM	 Eintracht Fra	22	€ 1.0M	11	12	8	13	11	11	12
+2197	Czech Re		Jan MoravekDM	 FC Augsburg	30	€ 3.0M	12	13	10	14	12	11	12
+2198	Germany		Niko GießelmannDL	 Union Berlin	28	€ 2.0M	12	12	11	12	12	12	12
+2199	Germany		Grischa PrömelDM	 Union Berlin	25	€ 2.0M	12	10	12	12	13	13	12
+2200	Germany		Jessic Ngankam	 Hertha BSC	20	€ 400K	11	10	10	11	11	14	13
+2201	Greece		Dimitris Limnios	 1. FC Köln	22	€ 2.0M	11	11	9	12	11	13	14
+2202	Netherla		Kingsley EhizibueDR	 1. FC Köln	25	€ 3.0M	11	10	13	11	11	15	15
+2203	Slovakia		Peter PekarikDR	 Hertha BSC	33	€ 500K	12	9	11	11	13	12	12
+2204	Germany		Fiete Arp	 Bayern Munich	20	€ 1.0M	12	13	9	13	12	12	13
+2205	Australi		Mathew Leckie	 Hertha BSC	29	€ 2.0M	11	11	11	11	11	14	14
+2206	Finland		Fredrik Jensen	 FC Augsburg	22	€ 2.0M	11	12	9	12	12	12	12
+2207	Germany		Steven Skrzybski	 Schalke 04	27	€ 2.0M	12	12	8	11	12	12	13
+2208	Germany		Luca Kilian	 1.FSV Mainz 0	20	€ 500K	11	8	14	10	11	13	11
+2209	Germany		Akaki Gogia	 Union Berlin	28	€ 1.0M	12	13	8	13	11	11	13
+2210	Germany		Roberto Massimo	 VfB Stuttgart	19	€ 2.0M	11	12	11	12	11	12	14
+2211	Germany		Markus Schubert	 Eintracht Fra	22	€ 600K	11	13	8	7	9	11	8
+2212	Nigeria		Taiwo Awoniyi	 Union Berlin	22	€ 5.0M	11	10	9	11	11	14	14
+2213	Austria		Christopher TrimmelDR	 Union Berlin	33	€ 700K	12	10	13	10	12	14	12
+2214	Denmark		Mads PedersenDL	 FC Augsburg	23	€ 1.0M	12	10	10	13	12	12	15
+2215	Germany		Tobias Sippel	 Borussia Mönc	32	€ 1.0M	12	13	8	7	10	13	10
+2216	Germany		Johannes FlumDM	 SC Freiburg	32	€ 900K	12	12	12	13	12	13	11
+2217	Greece		Stefanos Kapino	 Werder Bremen	26	€ 1.0M	11	12	8	5	9	13	9
+2218	Sweden		Joakim Nilsson	 Arminia Biele	26	€ 2.0M	12	9	13	10	12	12	10
+2219	South Ko		Woo-yeong Jeong	 SC Freiburg	20	€ 1.0M	12	13	8	13	11	11	14
+2220	Germany		Manuel Gulde	 SC Freiburg	29	€ 3.0M	12	8	13	10	11	12	11
+2221	Germany		Fabian Klos	 Arminia Biele	32	€ 1.0M	12	10	11	9	13	13	9
+2222	Germany		Philipp Tschauner	 RB Leipzig	34	€ 800K	11	13	10	6	10	14	9
+2223	Germany		Andreas Luthe	 Union Berlin	33	€ 1.0M	12	13	8	6	10	12	9
+2224	Germany		Lino TempelmannDMDR	 SC Freiburg	21	€ 300K	11	11	11	13	11	12	14
+2225	Brazil		AíltonDL	 VfB Stuttgart	25	€ 300K	12	12	11	13	12	13	13
+2226	Ghana		Issah Abass	 1.FSV Mainz 0	21	€ 2.0M	11	11	9	12	11	13	14
+2227	Albania		Amir AbrashiDM	 SC Freiburg	30	€ 2.0M	12	10	11	11	12	13	13
+2228	Austria		Manuel PrietlDM	 Arminia Biele	28	€ 1.0M	12	10	13	11	13	14	11
+2229	Austria		Philipp MweneDRDL	 1.FSV Mainz 0	26	€ 2.0M	11	10	10	11	12	13	14
+2230	Austria		Sasa Kalajdzic	 VfB Stuttgart	23	€ 1.0M	12	12	11	14	11	13	11
+2231	Germany		Christian Clemens	 1. FC Köln	28	€ 1.0M	12	11	11	11	11	12	14
+2232	Norway		Julian RyersonDRDM	 Union Berlin	22	€ 1.0M	12	10	12	12	12	13	12
+2233	Austria		Pavao Pervan	 VfL Wolfsburg	32	€ 1.0M	11	12	9	7	10	13	9
+2234	France		Maxence Lacroix	 VfL Wolfsburg	20	€ 1.0M	12	8	13	10	11	14	12
+2235	Germany		Lukas KüblerDR	 SC Freiburg	27	€ 2.0M	11	8	13	9	12	13	11
+2236	Netherla		Daishawn Redan	 Hertha BSC	19	€ 1.0M	11	10	9	11	11	13	13
+2237	Spain		Mateu MoreyDR	 Borussia Dort	20	€ 300K	12	12	9	14	12	11	14
+2238	Sweden		Oscar Linnér	 Arminia Biele	23	€ 700K	12	12	8	6	10	12	8
+2239	Nigeria		Anthony Ujah	 Union Berlin	29	€ 1.0M	11	10	11	10	12	14	13
+2240	Denmark		Marcus Ingvartsen	 Union Berlin	24	€ 2.0M	12	11	9	12	12	13	12
+2241	Germany		Philipp Förster	 VfB Stuttgart	25	€ 1.0M	12	11	12	12	13	14	12
+2242	Germany		Nils Körber	 Hertha BSC	23	€ 300K	12	12	8	7	10	12	8
+2243	Germany		Andreas Voglsammer	 Arminia Biele	28	€ 2.0M	12	11	11	11	13	14	13
+2244	Netherla		Sheraldo Becker	 Union Berlin	25	€ 1.0M	10	11	8	12	9	13	14
+2245	Denmark		Jacob Barrett LaursenDL	 Arminia Biele	25	€ 1.0M	11	11	10	13	11	12	13
+2246	Faroe Is		Jóan Símun Edmundsson	 Arminia Biele	29	€ 1.0M	11	13	9	14	10	12	13
+2247	Germany		Max Grün	 Borussia Mönc	33	€ 800K	12	12	9	8	10	13	10
+2248	Germany		Felix GötzeDRDM	 FC Augsburg	22	€ 1.0M	11	10	12	12	12	12	12
+2249	Poland		Marcin Kaminski	 VfB Stuttgart	28	€ 800K	10	9	13	10	11	12	11
+2250	Poland		Rafal Gikiewicz	 FC Augsburg	32	€ 2.0M	12	13	8	7	9	13	9
+2251	Brazil		Paulo OtávioDL	 VfL Wolfsburg	25	€ 2.0M	11	11	10	12	12	13	14
+2252	Belgium		Nathan de MedinaDRDM	 Arminia Biele	22	€ 400K	12	11	12	12	11	13	13
+2253	Germany		Stefan Ortega	 Arminia Biele	27	€ 1.0M	11	12	8	9	10	12	9
+2254	Germany		Maxime Awoudja	 VfB Stuttgart	22	€ 1.0M	11	10	13	12	11	14	14
+2255	Germany		Amos Pieper	 Arminia Biele	22	€ 1.0M	11	8	13	10	11	13	10
+2256	Germany		Christopher LenzDL	 Union Berlin	25	€ 1.0M	12	10	11	12	12	12	12
+2257	Germany		Philipp Klement	 VfB Stuttgart	27	€ 1.0M	12	14	9	13	12	10	12
+2258	Germany		Florian Hübner	 Union Berlin	29	€ 1.0M	11	7	14	9	11	13	9
+2259	Germany		Nils SeufertDM	 Arminia Biele	23	€ 500K	10	11	10	13	12	11	12
+2260	Germany		Kilian LudewigDR	 Schalke 04	20	€ 600K	11	10	11	11	11	12	13
+2261	Switzerl		Cédric BrunnerDR	 Arminia Biele	26	€ 1.0M	11	9	12	11	12	12	12
+2262	Paraguay		Julio Villalba	 Borussia Mönc	21	€ 300K	11	11	9	13	12	12	13
+2263	Morocco		Nassim Boujellab	 Schalke 04	21	€ 900K	12	11	11	13	11	13	13
+2264	Germany		Patrick ErrasDM	 Werder Bremen	25	€ 2.0M	11	8	14	9	12	12	8
+2265	Germany		Sebastian GriesbeckDM	 Union Berlin	29	€ 1.0M	12	8	14	11	13	13	10
+2266	Germany		Sven Schipplock	 Arminia Biele	31	€ 600K	11	10	11	10	13	14	13
+2267	Netherla		Mark Flekken	 SC Freiburg	27	€ 2.0M	11	11	9	8	10	13	9
+2268	Germany		Palko Dárdai	 Hertha BSC	21	€ 700K	12	12	8	12	12	11	14
+2269	Germany		Keven Schlotterbeck	 SC Freiburg	23	€ 1.0M	12	10	13	11	12	12	9
+2270	Germany		Ragnar Ache	 Eintracht Fra	22	€ 1.0M	11	9	11	9	10	15	12
+2271	Germany		Benjamin Uphoff	 SC Freiburg	26	€ 700K	12	12	9	8	11	12	8
+2272	Portugal		João Queirós	 1. FC Köln	22	€ 200K	11	8	13	11	11	12	10
+2273	Germany		Stephan FürstnerDM	 1.FSV Mainz 0	32	€ 400K	11	9	11	11	13	11	9
+2274	Germany		Kilian JakobDL	 FC Augsburg	22	€ 300K	11	12	10	12	11	11	12
+2275	Australi		Ajdin Hrustic	 Eintracht Fra	24	€ 1.0M	12	12	10	13	12	12	12
+2276	Morocco		Hamadi Al Ghaddioui	 VfB Stuttgart	29	€ 900K	12	11	12	12	12	13	10
+2277	Belgium		Dimitri LavaléeDL	 1.FSV Mainz 0	23	€ 400K	12	9	12	11	11	12	11
+2278	Germany		Lennart Grill	 Bayer 04 Leve	21	€ 200K	11	11	9	7	11	13	10
+2279	Austria		Christian Gebauer	 Arminia Biele	26	€ 700K	11	10	11	11	11	13	13
+2280	Austria		Romano Schmid	 Werder Bremen	20	€ 800K	11	11	7	13	11	11	14
+2281	Angola		Anderson LucoquiDL	 Arminia Biele	23	€ 200K	11	8	11	10	11	14	13
+2282	Germany		Ole KäuperDM	 Werder Bremen	23	€ 200K	11	11	11	12	11	11	10
+2283	Germany		Christian GroßDM	 Werder Bremen	31	€ 200K	12	10	13	12	12	13	12
+2284	Denmark		Jakob Busk	 Union Berlin	26	€ 200K	12	11	8	8	10	12	9
+2285	Germany		Brian BehrendtDM	 Arminia Biele	28	€ 500K	12	10	14	9	11	13	10
+2286	Germany		Philipp Pentke	 TSG 1899 Hoff	35	€ 200K	11	12	9	7	10	13	8
+2287	Germany		Jens Grahl	 VfB Stuttgart	31	€ 300K	11	11	9	6	9	13	10
+2288	Germany		Niklas Lomb	 Bayer 04 Leve	27	€ 100K	10	11	8	5	9	11	9
+2289	Benin		Cebio Soukou	 Arminia Biele	27	€ 300K	10	11	9	13	10	13	14
+2290	Germany		Sebastian Müller	 Arminia Biele	19	€ 100K	10	11	9	13	10	11	12
+2291	Germany		Lennart Moser	 Union Berlin	20	€ 100K	9	11	7	8	8	11	10
+2292	Germany		Richard WeilDM	 VfB Stuttgart	32	€ 70.0K	11	9	12	10	12	11	10
+2293	Germany		Finn Dahmen	 1.FSV Mainz 0	22	€ 100K	9	10	7	5	9	12	11
+2294	Austria		Lukas Fahrnberger	 Eintracht Fra	19	€ 30.0K	8	9	8	11	8	10	11
+2295	Germany		Nikolai Rehnen	 Arminia Biele	23	€ 70.0K	9	11	7	5	9	9	7
+2296	Angola		Jabez Makanda	 Eintracht Fra	18	€ 70.0K	9	10	8	11	10	10	12
+2297	Bosnia a		Stefan RankicDM	 Union Berlin	19	€ 40.0K	8	6	11	7	9	9	8
+2298	Germany		Yannick Brugger	 Eintracht Fra	19	€ 30.0K	10	8	12	11	9	11	10
+2299	Germany		Maximilian GöggelDM	 VfB Stuttgart	18	€ 10.0K	9	7	11	10	9	10	10
